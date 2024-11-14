@@ -2,6 +2,7 @@
 
 - [Atas](/atas)
   - [Template](/atas/template-ata.md)
+  - [Reunião do dia 13/11](/atas/reuniao-13-11.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](/Modelagem/2.Modelagem.md)
