@@ -37,4 +37,4 @@ Na **figura 1**, é possível ver o **Diagrama de Estados** criado pela **equipe
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |15/11/2024| Adição do diagrama de estados | [Pedro Sampaio](https://github.com/PedroSampaioDias) |  |
+| `1.0`  |15/11/2024| Adição do diagrama de estados | [Pedro Sampaio](https://github.com/PedroSampaioDias) | [Lucas Queiroz](https://github.com/lucasqueiroz23) |
