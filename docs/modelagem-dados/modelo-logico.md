@@ -24,4 +24,4 @@ Para a criação do Diagrama Lógico de Dados (DLD), a equipe utilizou a ferrame
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |16/11/2024| Adiciona diagrama lógico de dados | [Larissa Vieira](https://github.com/VieiraLaris) |[xxxx](xxxx)  |
+| `1.0`  |16/11/2024| Adiciona diagrama lógico de dados | [Larissa Vieira](https://github.com/VieiraLaris) |[Izabella Alves](https://github.com/izabellaalves)  |
