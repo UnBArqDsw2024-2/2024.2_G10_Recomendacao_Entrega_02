@@ -29,4 +29,4 @@ Abaixo, na figura 1, encontra-se o Diagrama Entidade-Relacionamento desenvolvido
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |18/11/2024| Adição do diagrama entidade-relacionamento e informações atreladas  | [Lucas Queiroz](https://github.com/lucasqueiroz23) |[xxxx](xxxx)  |
+| `1.0`  |18/11/2024| Adição do diagrama entidade-relacionamento e informações atreladas  | [Lucas Queiroz](https://github.com/lucasqueiroz23) |[Cecília Quaresma](https://github.com/cqcoding)  |
