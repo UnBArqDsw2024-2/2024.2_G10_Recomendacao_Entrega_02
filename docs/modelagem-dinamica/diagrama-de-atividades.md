@@ -4,6 +4,7 @@
 O diagrama de atividades é uma representação gráfica usada para modelar fluxos de trabalho ou processos em um sistema, destacando a sequência de atividades e decisões. No contexto de Arquitetura e Desenho de Software, ele é uma ferramenta essencial para visualizar e compreender o comportamento dinâmico de um sistema, identificando interações entre atores e componentes.
 
 ## Metodologia
+O Diagrama de Atividades foi desenvolvido na plataforma LucidChart, uma ferramenta de criação de diagramas que permite aos usuários trabalharem juntos simultaneamente no mesmo documento.
 
 ## Diagrama de XXX
 
