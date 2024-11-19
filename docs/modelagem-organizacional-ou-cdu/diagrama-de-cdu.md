@@ -15,4 +15,4 @@ O diagrama de casos de uso é uma representação visual que modela as interaç�
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |18/11/2024|  | [Luana Medeiros](https://github.com/LuaMedeiros) |  |
+| `1.0`  |18/11/2024| Adição da introdução | [Luana Medeiros](https://github.com/LuaMedeiros) |  |
