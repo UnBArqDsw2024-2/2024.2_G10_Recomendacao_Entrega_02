@@ -1,6 +1,7 @@
 # Diagrama de Casos de Uso
 
 ## Introdução
+O diagrama de casos de uso é uma representação visual que modela as interações entre os atores externos e o sistema, destacando os principais serviços ou funcionalidades oferecidos. Ele descreve o comportamento do sistema do ponto de vista do usuário, auxiliando na definição de requisitos funcionais.
 
 ## Metodologia
 
@@ -14,4 +15,4 @@
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |xx/xx/xxxx|  | [xxxx](xxxx) |[xxxx](xxxx)  |
+| `1.0`  |18/11/2024|  | [Luana Medeiros](https://github.com/LuaMedeiros) |  |
