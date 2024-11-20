@@ -36,7 +36,7 @@ A **Figura 1** abaixo ilustra a representação dos tipos de softgoals, que pode
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Representação dos tipos de softgoal adaptados para o *Chefindica*.</p></font>
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/488b24a3f8030eb09c0b30d82ebe620d2442483b/docs/imagens/nfr-softgoals.png?" style="width: 45%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nrf_framework/docs/imagens/nfr-softgoals.png?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> (CHUNG et al., 2000).</a></p></font>
 </div>
@@ -62,7 +62,7 @@ A **Figura 2** apresenta os rótulos de propagação de impactos que podem ser u
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Rótulos de propagação de impactos adaptados ao *Chefindica*.</p></font>
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-Economia-DF/488b24a3f8030eb09c0b30d82ebe620d2442483b/docs/imagens/nfr-impactos.png?raw=true" style="width: 65%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nrf_framework/docs/imagens/nfr-impactos.png" style="width: 65%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> (CHUNG et al., 2000).</a></p></font>
 </div>
@@ -72,13 +72,18 @@ Com base nesses rótulos, é possível ajustar as prioridades e refinar a implem
 ## Metodologia
 
 ## XXX
-
 ## Bibliografia
 
+> SERRANO, Maurício;  SERRANO, Milene. Requisitos - Aula 17. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. Disponível em: [Requisitos - Aula 17](https://aprender3.unb.br/pluginfile.php/2692836/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 03 de novembro de 2023.
+> 
+
 ## Referências Bibliográficas
+
+> [1] SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, 2019. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692835/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf>. Acesso em: 02 de novembro de 2023.
+>
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |xx/xx/xxxx|  | [xxxx](xxxx) |[xxxx](xxxx)  |
+| `1.0`  |20/11/2024| NRF-Framework introdução | [Lucas Víctor](https://github.com/Lucas13032003 ) |[xxxx](xxxx)  | 
