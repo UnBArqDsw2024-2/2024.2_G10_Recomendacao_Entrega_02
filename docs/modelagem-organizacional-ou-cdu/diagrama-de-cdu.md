@@ -167,14 +167,14 @@ A tabela 6 demonstra a especificação do caso de uso UC03 Avaliar Restaurante.
 
 | UC03 |  Avaliar Restaurante |
 | -: | :- |
-| **Ator(es)** |  |
-| **Frequência de uso** |  |
-| **Pré-condições** | |
-| **Fluxo básico** | |
-| **Fluxos alternativos** |   |
-| **Fluxos de exceção** |  |
-| **Pós-condições** |  |
-| **Data da criação** | |
+| **Ator(es)** | Usuário |
+| **Frequência de uso** | Baixa |
+| **Pré-condições** | PRE01. Dispor de uma conexão à internet.<br>PRE02. Usuário estar logado no aplicativo.|
+| **Fluxo básico** | <br>**FB01.**</br> <ol> <li>O usuário realiza uma pesquisa de restaurantes no aplicativo.<li>O usuário seleciona um restaurante da lista de resultados.<li>O sistema exibe as informações detalhadas do restaurante selecionado.<li>O usuário seleciona a opção “Comentar”.<li>O sistema exibe os campos para a nota e o comentário.<li>O usuário fornece a nota e, opcionalmente, um comentário.<li>O usuário clica em "Avaliar".<li>O sistema registra a avaliação.<li>Fim do caso de uso. </ol>|
+| **Fluxos alternativos** | <br>**FA01: Avaliar sem comentário**</br>  <ol> <li>O usuário escolhe apenas a nota e não fornece comentário.<li>O sistema registra a avaliação com a nota e sem comentário.<li>Fim do caso de uso. </br>|
+| **Fluxos de exceção** | <br>**FE01: Falha ao registrar avaliação**</br> <ol> <li>O sistema não consegue registrar a avaliação devido a erro de comunicação ou outro erro técnico.<li>O sistema informa que houve um erro e solicita ao usuário tentar novamente. </ol><br>**FE02: Usuário não logado**</br> <ol> <li>O usuário tenta avaliar sem estar logado.<li>O sistema informa que é necessário estar logado para avaliar. O usuário é direcionado para a tela de login. </ol>|
+| **Pós-condições** | POS01. A avaliação do restaurante foi registrada com sucesso. |
+| **Data da criação** |20/11/2024|
 | **Rastreabilidade** |  |
 
 <div align="center">
@@ -291,3 +291,4 @@ A tabela 10 demonstra a especificação do caso de uso UC07 Cadastrar Restaurant
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |18/11/2024| Adição da introdução | [Luana Medeiros](https://github.com/LuaMedeiros) | [Zenilda Vieira](https://github.com/zenildavieira) |
 | `1.1`  |19/11/2024| Complementação da introdução, inclusão da metodologia, <br> criação do padrão das tabelas de especificações e inclusão do caso de uso UC01 | [Zenilda Vieira](https://github.com/zenildavieira) |  |
+| `1.2`  |20/11/2024| Adição do caso de uso UC03 | [Larissa Vieira](https://github.com/VieiraLaris) |  |
