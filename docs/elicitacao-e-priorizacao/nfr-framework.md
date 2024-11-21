@@ -78,9 +78,22 @@ Para cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagr
 ## NFR Framework
 
 
+## Representação Visual dos Requisitos de Usabilidade  
+Os requisitos de usabilidade, conforme a Tabela 1, foram incorporados no framework:  
+1. **RU01:** Navegação intuitiva e eficiente.  
+2. **RU02:** Feedback imediato ao usuário.  
+3. **RU03:** Reversibilidade de ações críticas.  
+4. **RU04:** Consistência no design.  
+5. **RU05:** Acessibilidade inclusiva (WCAG).  
+
+---
+
+**Precisa de mais algum ajuste ou inclusão?** 😊
+
+
 ### NFR01 - Usabilidade 
 
-Usabilidade, segundo Nielsen, é a medida de quão fácil e agradável é usar um sistema para alcançar os objetivos dos usuários.
+**Usabilidade**, segundo Nielsen, é a medida de quão fácil e agradável é usar um sistema para alcançar os objetivos dos usuários. 
 
 
 #### Softgoal Interdependency Graph
@@ -108,8 +121,8 @@ A propagação de impactos do softgoal "Usabilidade" pode ser visto na figura 4.
 </div>
 
 
-#### Cartão de Especificação
-Na tabela 1, temos o cartão de especificação do softgoal "Usabilidade".
+#### Cartão de Especificação  
+Na tabela 1, temos o cartão de especificação do softgoal "Usabilidade".  
 
 <div align="center">
 <p><b>Tabela 1:</b> Cartão de Especificação do Softgoal Usabilidade</p>
@@ -128,11 +141,11 @@ Na tabela 1, temos o cartão de especificação do softgoal "Usabilidade".
   </tr>
   <tr>
     <td>Descrição</td>
-    <td>O requisito "Usabilidade" refere-se à capacidade do sistema de entregar uma boa usabilidade para os usuários do aplicativo do "Economia DF".</td>
+    <td>O requisito "Usabilidade" refere-se à capacidade do sistema de entregar uma boa usabilidade para os usuários do aplicativo do "ChefIndica".</td>
   </tr>
   <tr>
     <td>Justificativa</td>
-    <td>Uma boa Usabilidade é fundamental para garantir que os usuários possam utilizar o aplicativo com eficiência e garantir uma satisfação do usuário, aumentando a acessibilidade e por consequência tendo uma redução de erros.</td>
+    <td>Uma boa usabilidade é fundamental para garantir que os usuários possam utilizar o aplicativo com eficiência e satisfação, promovendo acessibilidade e reduzindo erros.</td>
   </tr>
   <tr>
     <td>Origem do Requisito</td>
@@ -152,11 +165,11 @@ Na tabela 1, temos o cartão de especificação do softgoal "Usabilidade".
   </tr>
   <tr>
     <td>História</td>
-    <td>04/11/2024</td>
+    <td>21/11/2024</td>
   </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
-</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Lucas Víctor, 2024</p></font>
+</div>  
 
 
 ###  NFR02 - Confiabilidade (Reliability)
