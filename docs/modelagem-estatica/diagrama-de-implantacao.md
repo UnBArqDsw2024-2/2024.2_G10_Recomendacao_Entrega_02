@@ -6,6 +6,15 @@ O diagrama de implantação é uma ferramenta usada para representar como os com
 Esse tipo de diagrama é especialmente útil para entender e planejar a infraestrutura necessária para o funcionamento do sistema, ajudando a garantir que os recursos de hardware sejam suficientes para suportar o software. Além disso, ele auxilia no planejamento da escalabilidade, na identificação de potenciais gargalos e na comunicação entre as equipes de desenvolvimento e infraestrutura. Com uma linguagem simples e direta, o diagrama de implantação ajuda a conectar as decisões de arquitetura de software ao ambiente físico onde o sistema será implementado, garantindo que o projeto seja eficiente e sustentável.
 
 ## Metodologia
+**Metodologia para o Diagrama de Implantação**  
+
+Para o desenvolvimento do Diagrama de Implantação, foi analisada a estrutura do sistema, considerando a distribuição dos componentes físicos e a comunicação entre eles. O objetivo foi representar de forma clara como o sistema funciona no ambiente de hardware, destacando as interações entre os dispositivos.  
+
+A equipe utilizou a ferramenta Lucidchart para a criação do diagrama, aproveitando seus recursos de colaboração em tempo real para facilitar o trabalho em conjunto.  
+
+Os membros da equipe ([Caio Mesquita](https://github.com/Caiomesvie), [Guilherme Brito](https://github.com/GuilhermeB12), [Zenilda Vieira](https://github.com/zenildavieira) e [Luana Medeiros](https://github.com/LuaMedeiros)) realizaram estudos prévios sobre diagramas de implantação e trocaram ideias durante uma reunião no Discord, onde discutiram o material pesquisado e trabalharam coletivamente na elaboração do diagrama.  
+
+No modelo gerado, o fluxo foi representado da seguinte forma: o acesso ao sistema é iniciado por um dispositivo do usuário (desktop), que se conecta a um firewall para garantir a segurança da rede. Após essa etapa, a comunicação segue para um servidor web, que repassa as solicitações ao servidor de aplicação. Por fim, o servidor de aplicação acessa o banco de dados para processar as informações necessárias.
 
 ## Diagrama de Implantação
 
@@ -22,8 +31,12 @@ Na figura 1, abaixo, está o diagrama de implantação.
 </div>
 
 ## Bibliografia
+1. Tutorial do Diagrama de Implantação. Disponível em: <https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-implantacao/>. Acesso em: 20 nov. 2024.
+2. Rational Software Architect Standard Edition 7.5.5. Disponível em: <https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=topologies-deployment-diagrams>. Acesso em: 20 nov. 2024.
 
 ## Referências Bibliográficas
+1. O que é um diagrama de implementação? Disponível em: <https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-implementacao-uml>. Acesso em: 20 nov. 2024.
+2. PAIVA. Curso de UML - diagrama de implantação. Disponível em: <https://www.youtube.com/watch?v=DgERD0HgggQ>. Acesso em: 20 nov. 2024.
 
 ## Histórico de Versão
 
@@ -31,3 +44,4 @@ Na figura 1, abaixo, está o diagrama de implantação.
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |18/11/2024| Adição da introdução | [Luana Medeiros](https://github.com/LuaMedeiros) |[Zenilda Vieira](https://github.com/zenildavieira) |
 | `1.1`  |20/11/2024| Adição do Diagrama de implantação | [Caio Mesquita](https://github.com/Caiomesvie)<br>[Guilherme Brito](https://github.com/GuilhermeB12)<br>[Zenilda Vieira](https://github.com/zenildavieira)| |
+| `1.2`  |20/11/2024| Adição da metodologia | [Luana Medeiros](https://github.com/LuaMedeiros) | |
