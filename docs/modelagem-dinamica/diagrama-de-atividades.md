@@ -16,15 +16,8 @@ A Tabela 1 apresenta a legenda utilizada no Diagrama de Atividades, descrevendo 
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Legenda do diagrama de Atividades</p></font>
 </div>
 
+<img src="/home/lv/Documentos/Chefindica/2024.2_G10_Recomendacao_Entrega_02/docs/imagens/tabela.png" width="80%">
 
-| Elemento                                                                 | Nome                       | Função                                                                                  |
-|--------------------------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------|
-| ![Círculo Preto](xxx)                                                   | Início                     | Representa o ponto inicial do fluxo de atividades.                                      |
-| ![Retângulo com Cantos Arredondados](xxx)                               | Ação                       | Representa uma tarefa ou atividade executada.                                           |
-| ![Linha Horizontal](xxx)                                                | Divisão/Junção Horizontal  | Indica fluxos paralelos de execução ou sua convergência.                                |
-| ![Losango](xxx)                                                         | Ramificação/Fusão          | Representa pontos de decisão ou junção de fluxos no processo.                          |
-| ![Círculo Preto com Borda Externa](xxx)                                 | Fim                        | Indica o ponto final do fluxo de atividades.                                           |
-| ![Blocos Coloridos](xxx)                                                | Nome da Equipe/Departamento | Diferencia as responsabilidades ou ações por equipe/departamento.                     |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Victor</a>, 2024</p></font>
 </div>
