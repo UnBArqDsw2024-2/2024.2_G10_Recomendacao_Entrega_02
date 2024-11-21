@@ -263,14 +263,14 @@ A tabela 10 demonstra a especificação do caso de uso UC07 Cadastrar Restaurant
 
 | UC07 |  Cadastrar Restaurante |
 | -: | :- |
-| **Ator(es)** |  |
-| **Frequência de uso** |  |
-| **Pré-condições** | |
-| **Fluxo básico** | |
-| **Fluxos alternativos** |   |
-| **Fluxos de exceção** |  |
-| **Pós-condições** |  |
-| **Data da criação** | |
+| **Ator(es)** | Usuário |
+| **Frequência de uso** | Média |
+| **Pré-condições** | PRE01. O usuário deve estar logado no aplicativo. <br> PRE02. Dispor de uma conexão à internet. |
+| **Fluxo básico** | <br>**FB01.**</br> <ol> <li>O usuário acessa a opção "Cadastrar Restaurante" no menu do aplicativo.<li> O sistema exibe um formulário para preenchimento.<li>O usuário insere as informações necessárias, como foto, nome, local e categoria. <li>O usuário confirma o cadastro clicando em "Adicionar".<li>O sistema valida os dados fornecidos. <li>O sistema registra o restaurante na base de dados. <li>O sistema exibe uma mensagem de sucesso confirmando o cadastro. <li>Fim do caso de uso. </ol>|
+| **Fluxos alternativos** | <br>**FA01: Restaurante já cadastrado**</br>  <ol> <li>O sistema verifica que o restaurante informado já existe na base de dados.<li>O sistema exibe uma mensagem informando que o restaurante já está cadastrado e sugere ao usuário verificar as informações ou buscar diretamente pelo nome.<li>O sistema não permite um novo cadastro para o mesmo restaurante.<li>Fim do caso de uso. </br>|
+| **Fluxos de exceção** | <br>**FE01: Falha na validação dos dados**</br>  <ol> <li>O sistema identifica que um ou mais campos obrigatórios estão ausentes ou preenchidos incorretamente.<li>O sistema informa ao usuário quais campos precisam ser corrigidos e solicita a revisão dos dados.<li>O usuário corrige os dados e tenta novamente.<li>Fim do caso de uso. </ol><br>**FE02: Falha ao registrar o restaurante**</br>  <ol> <li>O sistema não consegue registrar o restaurante devido a erro técnico ou falta de conexão com a base de dados.<li>O sistema exibe uma mensagem de erro ao usuário e solicita que ele tente novamente mais tarde.<li>Fim do caso de uso. </ol> |
+| **Pós-condições** | POS01. O restaurante foi cadastrado com sucesso e está disponível para consulta no aplicativo. |
+| **Data da criação** | 21/11/2024 |
 | **Rastreabilidade** |  |
 
 <div align="center">
@@ -292,3 +292,4 @@ A tabela 10 demonstra a especificação do caso de uso UC07 Cadastrar Restaurant
 | `1.0`  |18/11/2024| Adição da introdução | [Luana Medeiros](https://github.com/LuaMedeiros) | [Zenilda Vieira](https://github.com/zenildavieira) |
 | `1.1`  |19/11/2024| Complementação da introdução, inclusão da metodologia, <br> criação do padrão das tabelas de especificações e inclusão do caso de uso UC01 | [Zenilda Vieira](https://github.com/zenildavieira) | [Luana Medeiros](https://github.com/LuaMedeiros) |
 | `1.2`  |20/11/2024| Adição do caso de uso UC03 | [Larissa Vieira](https://github.com/VieiraLaris) | [Luana Medeiros](https://github.com/LuaMedeiros) |
+| `1.3`  |21/11/2024| Adição do caso de uso UC07 | [Luana Medeiros](https://github.com/LuaMedeiros) |  |
