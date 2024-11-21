@@ -71,7 +71,175 @@ Com base nesses rótulos, é possível ajustar as prioridades e refinar a implem
 
 ## Metodologia
 
-## XXX
+Neste documento, serão apresentads 6 NFRs, que foram definidos a partir do nosso documento de [Especificação Suplementar](https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/elicitacao-e-priorizacao/especificacao-suplementar.md), que por sua vez se baseou no modelo FURPS+.
+
+Para cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagrama da propagação de impactos e um cartão de especificação, que possui informações sobre o NFR, como a descrição, a categoria, os conflitos, a origem, os critérios e outras informações.
+
+## NFR Framework
+
+
+### NFR01 - Usabilidade 
+
+Usabilidade, segundo Nielsen, é a medida de quão fácil e agradável é usar um sistema para alcançar os objetivos dos usuários.
+
+
+#### Softgoal Interdependency Graph
+
+O Softgoal Interdependency Grap do softgoal "Usabilidade" pode ser visto na figura 3.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 3:</b> Softgoal Interdependency Grap do softgoal "Usabilidade".</p></font>
+
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/diagramausabilidade.png?raw=true" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
+</div>
+
+#### Propagação de Impactos
+
+A propagação de impactos do softgoal "Usabilidade" pode ser visto na figura 4.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 4:</b> Propagação de impactos do softgoal "Usabilidade"</p></font>
+
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/propagacaousabilidade.drawio.png?raw=true" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
+</div>
+
+
+#### Cartão de Especificação
+Na tabela 1, temos o cartão de especificação do softgoal "Usabilidade".
+
+<div align="center">
+<p><b>Tabela 1:</b> Cartão de Especificação do Softgoal Usabilidade</p>
+<table>
+  <tr>
+    <th>Tópico</th>
+    <th>Informação</th>
+  </tr>
+  <tr>
+    <td>ID do NFR</td>
+    <td>NFR01</td>
+  </tr>
+  <tr>
+    <td>Classificação</td>
+    <td>Usabilidade</td>
+  </tr>
+  <tr>
+    <td>Descrição</td>
+    <td>O requisito "Usabilidade" refere-se à capacidade do sistema de entregar uma boa usabilidade para os usuários do aplicativo do "Economia DF".</td>
+  </tr>
+  <tr>
+    <td>Justificativa</td>
+    <td>Uma boa Usabilidade é fundamental para garantir que os usuários possam utilizar o aplicativo com eficiência e garantir uma satisfação do usuário, aumentando a acessibilidade e por consequência tendo uma redução de erros.</td>
+  </tr>
+  <tr>
+    <td>Origem do Requisito</td>
+    <td><a href="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/elicitacao-e-priorizacao/especificacao-suplementar.md">Especificação suplementar</a> e <a href="#">requisitos elicitados</a></td>
+  </tr>
+  <tr>
+    <td>Dependências</td>
+    <td>Não foram identificadas restrições ou dependências específicas, mas a atualização da documentação deve ser planejada e coordenada com as versões do aplicativo.</td>
+  </tr>
+  <tr>
+    <td>Prioridade</td>
+    <td>O requisito de "Usabilidade" é de alta prioridade, uma vez que influencia diretamente a satisfação do usuário e a eficácia do aplicativo.</td>
+  </tr>
+  <tr>
+    <td>Conflitos</td>
+    <td>Não foi identificado nenhum conflito.</td>
+  </tr>
+  <tr>
+    <td>História</td>
+    <td>04/11/2024</td>
+  </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
+</div>
+
+
+###  NFR02 - Confiabilidade (Reliability)
+A "Confiabilidade" em um aplicativo é uma característica crucial que se refere à capacidade do aplicativo de funcionar de maneira consistente, estável e sem falhas. Isso assegura que os [usuários](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/modelagem/lexicos.md#objetos) possam confiar que o aplicativo estará disponível e operando corretamente sempre que precisarem utilizá-lo. A confiabilidade desempenha um papel essencial para garantir uma experiência positiva do usuário, evitando erros, interrupções inesperadas e mantendo a credibilidade do aplicativo. Como a "Ajuda e Documentação" são recursos essenciais para orientar os usuários, a confiabilidade é o alicerce que sustenta a confiança dos usuários no aplicativo, permitindo que eles utilizem as informações da "Ajuda e Documentação" com segurança e eficácia.
+
+#### Softgoal Interdependency Graph
+
+O Softgoal Interdependency Grap do softgoal "Confiabilidade (Reliability)" pode ser visto na figura 5.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 5:</b> Softgoal Interdependency Grap do softgoal "Confiabilidade (Reliability)".</p></font>
+
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/NFR_Confiabilidade.png?raw=true" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
+</div>
+
+
+#### Propagação de Impactos
+
+A propagação de impactos do softgoal "Confiabilidade (Reliability)" pode ser visto na figura 6.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 6:</b> Propagação de impactos do softgoal "Confiabilidade (Reliability)"</p></font>
+
+<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Propaga%C3%A7%C3%A3o_de_impactos_do_softgoal_Confiabilidade.png?raw=true" style="width: 85%;">
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
+</div>
+
+#### Cartão de Especificação
+Na tabela 2, temos o cartão de especificação do Softgoal "Confiabilidade (Reliability)".
+
+<div align="center">
+<p><b>Tabela 2:</b> Cartão de Especificação do Softgoal “Confiabilidade (Reliability)”</p>
+<table>
+  <tr>
+    <th>Tópico</th>
+    <th>Informação</th>
+  </tr>
+  <tr>
+    <td>ID do NFR</td>
+    <td>NFR02</td>
+  </tr>
+  <tr>
+    <td>Classificação</td>
+    <td>Confiabilidade</td>
+  </tr>
+  <tr>
+    <td>Descrição</td>
+    <td>O Softgoal "Confiabilidade" refere-se à capacidade do aplicativo de funcionar consistentemente, estável e sem falhas, garantindo uma experiência positiva do usuário e a credibilidade do aplicativo.</td>
+  </tr>
+  <tr>
+    <td>Justificativa</td>
+    <td>A Confiabilidade é fundamental para manter a satisfação do usuário, evitar interrupções inesperadas e garantir o funcionamento correto do aplicativo. Ela é essencial para a credibilidade do aplicativo.</td>
+  </tr>
+  <tr>
+    <td>Origem do Requisito</td>
+    <td><a href="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/elicitacao-e-priorizacao/especificacao-suplementar.md">Especificação suplementar</a> e <a href="#">requisitos elicitados</a></td>
+  </tr>
+  <tr>
+    <td>Dependências</td>
+    <td>Não foram identificadas dependências específicas, mas a manutenção e atualização do aplicativo devem ser coordenadas com as versões lançadas.</td>
+  </tr>
+  <tr>
+    <td>Prioridade</td>
+    <td>O Softgoal de "Confiabilidade" é de alta prioridade devido ao seu impacto direto na satisfação do usuário e na credibilidade do aplicativo.</td>
+  </tr>
+  <tr>
+    <td>Conflitos</td>
+    <td>Não foi identificado nenhum conflito com outros requisitos.</td>
+  </tr>
+  <tr>
+    <td>História</td>
+    <td>04/11/2024</td>
+  </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
+</div>
+
+
+
 ## Bibliografia
 
 > SERRANO, Maurício;  SERRANO, Milene. Requisitos - Aula 17. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. Disponível em: [Requisitos - Aula 17](https://aprender3.unb.br/pluginfile.php/2692836/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 03 de novembro de 2023.
