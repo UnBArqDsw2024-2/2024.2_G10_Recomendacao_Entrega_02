@@ -14,9 +14,9 @@ A Tabela 1 apresenta a legenda utilizada no Diagrama de Atividades, descrevendo 
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Legenda do diagrama de Atividades</p></font>
-</div>
 
-<img src="/home/lv/Documentos/Chefindica/2024.2_G10_Recomendacao_Entrega_02/docs/imagens/tabela.png" width="80%">
+
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/diagrama-de-atividades/docs/imagens/tabela.png?raw=true" width="80%">
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Victor</a>, 2024</p></font>
