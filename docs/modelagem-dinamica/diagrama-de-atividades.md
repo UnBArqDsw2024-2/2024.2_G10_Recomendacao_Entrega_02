@@ -8,8 +8,29 @@ O diagrama de atividades é uma representação gráfica usada para modelar flux
 ## Metodologia
 O Diagrama de Atividades foi desenvolvido na plataforma LucidChart, uma ferramenta de criação de diagramas que permite aos usuários trabalharem juntos simultaneamente no mesmo documento. Os responsáveis pela criação do diagrama realizaram uma adaptação do BPMN para o formato de diagrama de atividades, proporcionando uma visão mais abrangente dos processos e metodologias adotados pela equipe. Para construir os diagramas de atividade, foi utilizada a UML (Unified Modeling Language) para representar as sequências de ações, decisões e fluxos paralelos. O foco também foi dado às atividades principais, como registro e autenticação de usuários, cadastro de restaurantes e cadastro e visualização de avaliações e/ou recomendações.
 
-## Diagrama de Atividades
+## Lengenda
 
+A Tabela 1 apresenta a legenda utilizada no Diagrama de Atividades, descrevendo os principais elementos gráficos e suas funções. Esses elementos são essenciais para identificar as etapas do fluxo de trabalho, decisões tomadas durante o processo e responsabilidades atribuídas a diferentes equipes ou departamentos. Essa padronização facilita a interpretação e análise do diagrama por toda a equipe.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Legenda do diagrama de Atividades</p></font>
+</div>
+
+
+| Elemento                                                                 | Nome                       | Função                                                                                  |
+|--------------------------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------|
+| ![Círculo Preto](xxx)                                                   | Início                     | Representa o ponto inicial do fluxo de atividades.                                      |
+| ![Retângulo com Cantos Arredondados](xxx)                               | Ação                       | Representa uma tarefa ou atividade executada.                                           |
+| ![Linha Horizontal](xxx)                                                | Divisão/Junção Horizontal  | Indica fluxos paralelos de execução ou sua convergência.                                |
+| ![Losango](xxx)                                                         | Ramificação/Fusão          | Representa pontos de decisão ou junção de fluxos no processo.                          |
+| ![Círculo Preto com Borda Externa](xxx)                                 | Fim                        | Indica o ponto final do fluxo de atividades.                                           |
+| ![Blocos Coloridos](xxx)                                                | Nome da Equipe/Departamento | Diferencia as responsabilidades ou ações por equipe/departamento.                     |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Victor</a>, 2024</p></font>
+</div>
+
+
+## Diagrama de Atividades
 ### Diagrama de metodologia de gestão do grupo
 
 _Diagramas BPMN..._
@@ -84,3 +105,4 @@ _Zenilda_
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |18/11/2024| Criação do documento | [Luana Medeiros](https://github.com/LuaMedeiros), [Lucas Victor](https://github.com/Lucas13032003)| [Zenilda Vieira](https://github.com/zenildavieira)  |
 | `1.1`  |19/11/2024| Complementação dos textos e organização dos títulos  | [Zenilda Vieira](https://github.com/zenildavieira)|   |
+| `1.2`  |21/11/2024| Diagrama de Registro e Autenticação |  [Lucas Victor](https://github.com/Lucas13032003)| [Zenilda Vieira](https://github.com/zenildavieira)  |
