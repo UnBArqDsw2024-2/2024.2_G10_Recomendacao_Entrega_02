@@ -47,10 +47,10 @@ _Luana e LV_
 
 ### Diagrama de Registro e Autenticação 
 _Cenário 1: Fazer Login e Cenário 2: Fazer Cadastro_ 
-_LV_
+
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 2:</b> Diagrama de atividade de Registro e Autenticação </p></font>
+<font size="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/diagrama-de-atividades/docs/imagens/Diagrama%20de%20Registro%20e%20Autentica%C3%A7%C3%A3o.png?raw=true"><p style="text-align: center"><b>Figura 2:</b> Diagrama de atividade de Registro e Autenticação </p></font>
 
 <img src="../../docs/imagens/xxx.png" class="xxxElement" width="80%">
 
