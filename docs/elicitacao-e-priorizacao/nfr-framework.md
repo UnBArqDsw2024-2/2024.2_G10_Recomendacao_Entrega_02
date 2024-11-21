@@ -36,7 +36,7 @@ A **Figura 1** abaixo ilustra a representação dos tipos de softgoals, que pode
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Representação dos tipos de softgoal adaptados para o *Chefindica*.</p></font>
 
-<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nrf_framework/docs/imagens/nfr-softgoals.png?raw=true" style="width: 45%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/imagens/nfr-softgoals.png?raw=true" style="width: 45%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> (CHUNG et al., 2000).</a></p></font>
 </div>
@@ -62,7 +62,7 @@ A **Figura 2** apresenta os rótulos de propagação de impactos que podem ser u
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Rótulos de propagação de impactos adaptados ao *Chefindica*.</p></font>
 
-<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nrf_framework/docs/imagens/nfr-impactos.png" style="width: 65%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/imagens/nfr-impactos.png?raw=true" style="width: 65%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> (CHUNG et al., 2000).</a></p></font>
 </div>
