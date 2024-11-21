@@ -1,7 +1,9 @@
 # Diagrama de Implantação
 
 ## Introdução
-O diagrama de implantação é uma ferramenta usada para representar a arquitetura física de um sistema, destacando a disposição dos componentes de software em hardware e suas interações. Ele ilustra como elementos do sistema, como servidores, dispositivos e componentes de rede, se relacionam para suportar a operação do software.
+O diagrama de implantação é uma ferramenta usada para representar como os componentes de um sistema de software são distribuídos fisicamente em dispositivos de hardware, como servidores, computadores e outros dispositivos conectados. Ele mostra, de forma clara e visual, onde cada parte do sistema será executada e como essas partes se comunicam entre si.
+
+Esse tipo de diagrama é especialmente útil para entender e planejar a infraestrutura necessária para o funcionamento do sistema, ajudando a garantir que os recursos de hardware sejam suficientes para suportar o software. Além disso, ele auxilia no planejamento da escalabilidade, na identificação de potenciais gargalos e na comunicação entre as equipes de desenvolvimento e infraestrutura. Com uma linguagem simples e direta, o diagrama de implantação ajuda a conectar as decisões de arquitetura de software ao ambiente físico onde o sistema será implementado, garantindo que o projeto seja eficiente e sustentável.
 
 ## Metodologia
 
