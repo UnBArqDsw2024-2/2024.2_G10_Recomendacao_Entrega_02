@@ -43,5 +43,5 @@ Na figura 1, abaixo, está o diagrama de implantação.
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |18/11/2024| Adição da introdução | [Luana Medeiros](https://github.com/LuaMedeiros) |[Zenilda Vieira](https://github.com/zenildavieira) |
-| `1.1`  |20/11/2024| Adição do Diagrama de implantação | [Caio Mesquita](https://github.com/Caiomesvie)<br>[Guilherme Brito](https://github.com/GuilhermeB12)<br>[Zenilda Vieira](https://github.com/zenildavieira)| |
+| `1.1`  |20/11/2024| Adição do Diagrama de implantação | [Caio Mesquita](https://github.com/Caiomesvie)<br>[Guilherme Brito](https://github.com/GuilhermeB12)<br>[Zenilda Vieira](https://github.com/zenildavieira)| [Luana Medeiros](https://github.com/LuaMedeiros) |
 | `1.2`  |20/11/2024| Adição da metodologia | [Luana Medeiros](https://github.com/LuaMedeiros) | |
