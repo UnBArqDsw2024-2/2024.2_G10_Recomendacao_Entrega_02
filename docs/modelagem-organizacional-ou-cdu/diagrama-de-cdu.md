@@ -192,14 +192,14 @@ A tabela 7 demonstra a especificação do caso de uso UC04  Fazer Comentário.
 
 | UC04 |  Fazer Comentário |
 | -: | :- |
-| **Ator(es)** |  |
-| **Frequência de uso** |  |
-| **Pré-condições** | |
-| **Fluxo básico** | |
-| **Fluxos alternativos** |   |
-| **Fluxos de exceção** |  |
-| **Pós-condições** |  |
-| **Data da criação** | |
+| **Ator(es)** | Usuário que vai deixar um comentário sobre um restaurante |
+| **Frequência de uso** | Baixa |
+| **Pré-condições** | PRE01. Dispor de uma conexão à internet;<br> PRE02. Usuário deve estar logado no site;<br> PRE03. O sistema deve estar disponível;<br> PRE04. O usuário deve acessar a página de um restaurante no site.<br> PRE05. Usuário avaliar um restaurante; |
+| **Fluxo básico** | <br>**FB01.**</br> <ol> <li>O usuário pesquisa um restaurante listado no aplicativo.<li>O usuário seleciona um restaurante da lista de resultados.<li>O sistema exibe as informações detalhadas do restaurante selecionado.<li>O usuário seleciona a opção “Comentar”.<li>O sistema exibe os campos para a nota e o comentário.<li>O usuário fornece a nota e registra seu comentário.<li>O usuário clica em "Avaliar".<li>O sistema registra a avaliação.<li>Fim do caso de uso. </ol>|
+| **Fluxos alternativos** | <br>**FA01. Restaurante não encontrado**</br><ol><li>O usuário pesquisa por um restaurante que não está listado.<li> O sistema informa que o restaurante não foi encontrado e oferece a opção de sugerir a adição do restaurante ao sistema.<li> O usuário deicde se deseja ou não sugerir o restaurante.<li> O caso de uso retorna ao fluxo básico FB01 caso o usuário pesquisa novamente.</ol> |
+| **Fluxos de exceção** | <br>**FE01: Campo de avaliação vazio**</br> <ol> <li>O sistema não consegue prosseguir com o comentário caso não haja registro da avaliação do restraurante.<li> O usuário volta no campo de avaliação e clica na quantidade de estrelas correspondente à avaliação do restaurante</ol><br>**FE02: Usuário não logado**</br> <ol> <li>O usuário tenta avaliar sem estar logado.<li>O sistema informa que é necessário estar logado para avaliar. O usuário é direcionado para a tela de login. </ol>|
+| **Pós-condições** | POS01. O comentário é realizado com sucesso e demais usuários podem visualizar. |
+| **Data da criação** | 21/11/2024 |
 | **Rastreabilidade** |  |
 
 <div align="center">
@@ -295,3 +295,4 @@ A tabela 10 demonstra a especificação do caso de uso UC07 Cadastrar Restaurant
 | `1.2`  |20/11/2024| Adição do caso de uso UC03 | [Larissa Vieira](https://github.com/VieiraLaris) | [Luana Medeiros](https://github.com/LuaMedeiros) |
 | `1.3`  |21/11/2024| Adição do caso de uso UC07 | [Luana Medeiros](https://github.com/LuaMedeiros) | [Lucas Víctor](https://github.com/Lucas3032003) |
 | `1.4`  |21/11/2024| Adição do caso de uso UC02  | [Lucas Víctor](https://github.com/Lucas3032003) |  [Luana Medeiros](https://github.com/LuaMedeiros)|
+| `1.5`  |21/11/2024| Adição do caso de uso UC04  | [Cecília Quaresma](https://github.com/cqcoding) |  |
