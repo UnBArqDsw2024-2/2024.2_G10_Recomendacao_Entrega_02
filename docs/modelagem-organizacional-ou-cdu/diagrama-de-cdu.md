@@ -141,21 +141,22 @@ A tabela 5 demonstra a especificação do caso de uso UC02 Fazer Cadastro Usuár
 <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Especificação do caso de uso UC02</p></font>
 </div>
 
-| UC02 |  Fazer Cadastro Usuário |
+| UC02 | Fazer Cadastro Usuário |
 | -: | :- |
-| **Ator(es)** |  |
-| **Frequência de uso** |  |
-| **Pré-condições** | |
-| **Fluxo básico** | |
-| **Fluxos alternativos** |   |
-| **Fluxos de exceção** |  |
-| **Pós-condições** |  |
-| **Data da criação** | |
-| **Rastreabilidade** |  |
+| **Ator(es)** | Usuário que deseja criar uma conta no sistema para avaliar ou comentar restaurantes. |
+| **Frequência de uso** | Alta |
+| **Pré-condições** | PRE01. O usuário deve ter acesso à internet;<br> PRE02. O sistema deve estar disponível;<br> PRE03. O usuário deve acessar a página de um restaurante no site. |
+| **Fluxo básico** | <b>FB01.</b> <ol> <li> O usuário acessa a página de um restaurante avaliado. <li> O usuário decide avaliar ou comentar. <li> O sistema redireciona para a página de login/cadastro. <li> O usuário escolhe criar uma nova conta. <li> O usuário preenche os campos obrigatórios (nome, e-mail, senha, etc.). <li> O sistema valida as informações fornecidas. <li> O sistema cria a conta do usuário. <li> O sistema redireciona o usuário à página do restaurante. <li> O usuário realiza a avaliação ou comentário. <li> Fim do caso de uso. </ol> |
+| **Fluxos alternativos** | <b>FA01: E-mail já cadastrado</b> <ol> <li> O sistema detecta que o e-mail informado já está cadastrado. <li> O sistema exibe uma mensagem informando o erro e solicita um novo e-mail. <li> Retorna ao passo FB05. </ol> |
+| **Fluxos de exceção** | <b>FE01: Falha de conexão</b> <ol> <li> O sistema não consegue conectar ao servidor. <li> O sistema exibe uma mensagem informando a indisponibilidade temporária. <li> Fim do caso de uso. </ol> |
+| **Pós-condições** | POS01. O usuário possui uma conta cadastrada no sistema e consegue realizar avaliações ou comentários. |
+| **Data da criação** | 21/11/2024 |
+| **Rastreabilidade** | |
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Victor</a>, 2024</p></font>
-</div > 
+</div >
+
 
 ### UC03. Avaliar Restaurante
 
@@ -292,4 +293,5 @@ A tabela 10 demonstra a especificação do caso de uso UC07 Cadastrar Restaurant
 | `1.0`  |18/11/2024| Adição da introdução | [Luana Medeiros](https://github.com/LuaMedeiros) | [Zenilda Vieira](https://github.com/zenildavieira) |
 | `1.1`  |19/11/2024| Complementação da introdução, inclusão da metodologia, <br> criação do padrão das tabelas de especificações e inclusão do caso de uso UC01 | [Zenilda Vieira](https://github.com/zenildavieira) | [Luana Medeiros](https://github.com/LuaMedeiros) |
 | `1.2`  |20/11/2024| Adição do caso de uso UC03 | [Larissa Vieira](https://github.com/VieiraLaris) | [Luana Medeiros](https://github.com/LuaMedeiros) |
-| `1.3`  |21/11/2024| Adição do caso de uso UC07 | [Luana Medeiros](https://github.com/LuaMedeiros) |  |
+| `1.3`  |21/11/2024| Adição do caso de uso UC07 | [Luana Medeiros](https://github.com/LuaMedeiros) | [Lucas Víctor](https://github.com/Lucas3032003) |
+| `1.4`  |21/11/2024| Adição do caso de uso UC02  | [Lucas Víctor](https://github.com/Lucas3032003) |  [Luana Medeiros](https://github.com/LuaMedeiros)|
