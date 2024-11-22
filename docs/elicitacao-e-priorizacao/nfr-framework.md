@@ -77,20 +77,6 @@ Para cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagr
 
 ## NFR Framework
 
-
-## Representação Visual dos Requisitos de Usabilidade  
-Os requisitos de usabilidade, conforme a Tabela 1, foram incorporados no framework:  
-1. **RU01:** Navegação intuitiva e eficiente.  
-2. **RU02:** Feedback imediato ao usuário.  
-3. **RU03:** Reversibilidade de ações críticas.  
-4. **RU04:** Consistência no design.  
-5. **RU05:** Acessibilidade inclusiva (WCAG).  
-
----
-
-**Precisa de mais algum ajuste ou inclusão?** 😊
-
-
 ### NFR01 - Usabilidade 
 
 **Usabilidade**, segundo Nielsen, é a medida de quão fácil e agradável é usar um sistema para alcançar os objetivos dos usuários. 
@@ -115,7 +101,7 @@ A propagação de impactos do softgoal "Usabilidade" pode ser visto na figura 4.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 4:</b> Propagação de impactos do softgoal "Usabilidade"</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/propagacaousabilidade.drawio.png?raw=true" style="width: 85%;">
+<img src="#" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
 </div>
@@ -182,7 +168,7 @@ O Softgoal Interdependency Grap do softgoal "Confiabilidade (Reliability)" pode 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 5:</b> Softgoal Interdependency Grap do softgoal "Confiabilidade (Reliability)".</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/NFR_Confiabilidade.png?raw=true" style="width: 85%;">
+<img src="#" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
 </div>
@@ -195,7 +181,7 @@ A propagação de impactos do softgoal "Confiabilidade (Reliability)" pode ser v
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 6:</b> Propagação de impactos do softgoal "Confiabilidade (Reliability)"</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/Propaga%C3%A7%C3%A3o_de_impactos_do_softgoal_Confiabilidade.png?raw=true" style="width: 85%;">
+<img src="#" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
 </div>
