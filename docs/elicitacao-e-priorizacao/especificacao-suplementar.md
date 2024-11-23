@@ -2,28 +2,27 @@
 
 ## Introdução
 
-
 Este documento apresenta a **Especificação Suplementar** para o **Chefindica**, um software de indicação e avaliação de restaurantes. A Especificação Suplementar é um artefato essencial no processo de desenvolvimento de software, pois detalha os requisitos não funcionais do sistema. Esses requisitos não estão diretamente ligados às funcionalidades específicas do aplicativo, mas abordam aspectos fundamentais como desempenho, usabilidade, confiabilidade, segurança e escalabilidade.  
 
 Esses requisitos são cruciais para garantir que o **Chefindica** ofereça uma experiência de alta qualidade aos usuários, possibilitando um acesso ágil, avaliações confiáveis e uma interface intuitiva e segura para navegação. Eles complementam os requisitos funcionais e desempenham um papel vital na satisfação dos usuários e no sucesso do sistema como um todo.
 
 ## Metodologia
 
-### Metodologia  
-
 A metodologia utilizada para a elaboração deste documento baseia-se no modelo **FURPS+**, uma técnica eficaz para a coleta e organização de requisitos não funcionais. **FURPS+** é um acrônimo para **Funcionalidade, Usabilidade, Confiabilidade, Desempenho e Suporte**, que são as principais categorias de requisitos consideradas neste modelo. O “+” em **FURPS+** inclui requisitos adicionais, como restrições de design, regulamentações e requisitos relacionados à documentação e suporte ao usuário.  
 
 Este documento foi estruturado em seções que seguem as categorias do modelo **FURPS+**. Cada seção descreve em detalhes os requisitos não funcionais aplicáveis ao **Chefindica**, abordando aspectos como a experiência do usuário ao navegar pelo aplicativo, a confiabilidade nas avaliações, o desempenho do sistema em diferentes cenários e o suporte necessário para garantir sua manutenção e evolução contínua. 
+
+Em reunião online feita pelo Discord, os participantes [Luana Medeiros](https://github.com/LuaMedeiros), [Lucas Victor](https://github.com/Lucas13032003) e [Zenilda Vieira](https://github.com/ZenildaVieira) discutiram como a técnica funcionava e definiram que seriam elicitados os requisitos não funcionais quanto a usabilidade e confiabilidade (responsável: Lucas Víctor), desempenho e suporte (responsável: Zenilda) e restrições de design e ajuda/documentação (responsável: Luana). Após a estrutura do documento ser criada, a introdução e metodologia foi elaborada pelo Lucas Victor e revisada/complementada por Zenilda. Em seguida, cada um escreveu sua parte na especificação dos requisitos, com a explicação teórica de cada um e a tabela de RNFs. 
 
 ## FURPS+
 
 ### F: Funcionalidade (Functionality)
 
-Os requisitos funcionais foram elicitados através de uma combinação das seguintes técnicas: [técnica 1](xxx), [técnica 2](xxx) e [técnica 3](xxx). Eles podem ser observados no documento [Requisitos Elicitados](https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/elicitacao-e-priorizacao/requisitos-elicitados.md). Os [Casos de Uso](https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/modelagem-organizacional-ou-cdu/diagrama-de-cdu.md) também podem ser considerados como requisitos funcionais.
+Os requisitos funcionais foram elicitados através das técnicas descritas no documento de [Elicitação e Priorização]([docs/elicitacao-e-priorizacao/elicitacao-e-priorizacao.md](https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/elicitacao-e-priorizacao/elicitacao-e-priorizacao.md)). Eles podem ser observados no documento [Requisitos Elicitados](https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/elicitacao-e-priorizacao/requisitos-elicitados.md). Os [Casos de Uso](https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/modelagem-organizacional-ou-cdu/diagrama-de-cdu.md) também podem ser considerados como requisitos funcionais.
 
 ### U: Usabilidade (Usability)  
 
-A usabilidade de um sistema, segundo Nielsen, é o atributo de qualidade que avalia a facilidade de uso de uma interface. Uma interface com boa usabilidade possibilita que os usuários realizem suas tarefas de maneira eficiente, eficaz e satisfatória, promovendo uma experiência positiva e intuitiva.  
+A usabilidade de um sistema, segundo Nielsen [1], é o atributo de qualidade que avalia a facilidade de uso de uma interface. Uma interface com boa usabilidade possibilita que os usuários realizem suas tarefas de maneira eficiente, eficaz e satisfatória, promovendo uma experiência positiva e intuitiva.  
 
 Na **Tabela 1**, estão apresentados os **Requisitos Não Funcionais de Usabilidade** para o aplicativo **Chefindica**.  
 
@@ -37,7 +36,7 @@ Na **Tabela 1**, estão apresentados os **Requisitos Não Funcionais de Usabilid
 | RU02 | O sistema deve fornecer feedback visual e/ou sonoro imediato após cada ação do usuário, informando se a operação foi realizada com sucesso ou falha. |  
 | RU03 | O sistema deve permitir que os usuários desfaçam ações críticas, como exclusão de avaliações, com um botão “desfazer” ou confirmação antes de concluir a ação. |  
 | RU04 | O design do sistema deve ser consistente, utilizando cores, fontes, ícones e terminologia de maneira uniforme em todas as páginas e seções. |  
-| RU05 | O sistema deve ser acessível, garantindo suporte a tecnologias assistivas como leitores de tela e conformidade com as diretrizes WCAG (Web Content Accessibility Guidelines) para inclusão de usuários com necessidades especiais. [1]|  
+| RU05 | O sistema deve ser acessível, garantindo suporte a tecnologias assistivas como leitores de tela e conformidade com as diretrizes **Web Content Accessibility Guidelines (WCAG)** [2] para inclusão de usuários com necessidades especiais. |  
 
 <div align="center">  
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>  
@@ -113,7 +112,7 @@ As **Restrições de Design** referem-se às limitações e condições específ
 |-------|-----------------------------------------------------------------------------------------------|
 | RD01  | Todo o material visual utilizado, como imagens, ícones e gráficos, deve respeitar direitos autorais e licenças aplicáveis. |
 | RD02  | A interface do usuário deve ser totalmente responsiva, adaptando-se a diferentes tamanhos de tela e dispositivos, como smartphones, tablets e desktops. |
-| RD03  | O design deve seguir as diretrizes de acessibilidade da **Web Content Accessibility Guidelines (WCAG)**, garantindo a inclusão de usuários com diferentes necessidades. |
+| RD03  | O design deve seguir as diretrizes de acessibilidade da **Web Content Accessibility Guidelines (WCAG)** [2], garantindo a inclusão de usuários com diferentes necessidades. |
 | RD04  | Elementos visuais como cores, fontes e ícones devem seguir um padrão consistente em todo o aplicativo para criar uma experiência coesa. |
 
 <div align="center">
@@ -122,7 +121,7 @@ As **Restrições de Design** referem-se às limitações e condições específ
 
 ### +: Ajuda e Documentação
 
-A seção de **Ajuda e Documentação** no aplicativo **Chefindica** é projetada para fornecer aos usuários informações detalhadas sobre como utilizar o sistema, suas funcionalidades, e como solucionar problemas comuns. Ter uma documentação bem estruturada e acessível é essencial para garantir que os usuários possam aproveitar ao máximo as funcionalidades do aplicativo e resolver dúvidas sem dificuldades. Essa documentação deve ser clara, precisa, e fácil de navegar, além de estar disponível em vários formatos e idiomas.
+A seção de **Ajuda e Documentação** no aplicativo **Chefindica** é projetada para fornecer aos usuários informações detalhadas sobre como utilizar o sistema, suas funcionalidades, e como solucionar problemas comuns. Ter uma documentação bem estruturada e acessível é essencial para garantir que os usuários possam aproveitar ao máximo as funcionalidades do aplicativo e resolver dúvidas sem dificuldades. Essa documentação deve ser clara, precisa, e fácil de navegar.
 
 Na **Tabela 6**, estão listados os **Requisitos Não Funcionais de Ajuda e Documentação** para o aplicativo **Chefindica**.
 
@@ -140,17 +139,25 @@ Na **Tabela 6**, estão listados os **Requisitos Não Funcionais de Ajuda e Docu
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>, 2024</p></font>
 </div >
 
+## Conclusão
+
+Após a definição dos requisitos não funcionais nesse documento, foi possível usar o NFR Framework para categorizar, organizar e analisar os RNFs e identificar como esses requisitos influenciam o sistema e como podem ser satisfeitos de forma estruturada. Os resultados podem ser verificados no documento [NFR Framework](https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/elicitacao-e-priorizacao/nfr-framework.md).
+
+
 ## Referências Bibliográficas
 
-> [1] WORLD WIDE WEB CONSORTIUM. WCAG 2.0: Web Content Accessibility Guidelines. Versão 2.0. World Wide Web Consortium, 2008. Disponível em: https://www.w3.org/WAI/WCAG21/quickref/. Acesso em: 20 de novembro de 2024.
+> [1] NIELSEN, Jakob. Usability Engineering. San Francisco: Morgan Kaufmann, 1994.
+> [2] WORLD WIDE WEB CONSORTIUM. WCAG 2.0: Web Content Accessibility Guidelines. Versão 2.0. World Wide Web Consortium, 2008. Disponível em: https://www.w3.org/WAI/WCAG21/quickref/. Acesso em: 20 de novembro de 2024.
 
 ## Bibliografia
 
+> PRESSMAN, Roger S.; MAXIM, Bruce R. Engenharia de software. 9th ed. Porto Alegre: AMGH, 2021. E-book. ISBN 9786558040118. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040118/. Acesso em: 20 nov. 2024.
 
 ## Histórico de Versões
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|:-----:|:-------:|
 |`1.0`|20/11/2024|Criação do documento e adição dos requisitos não funcionais|[Lucas Víctor](https://github.com/Lucas13032003) <br> [Zenilda Vieira](https://github.com/zenildavieira)|[Luana Medeiros](https://github.com/LuaMedeiros)|
+|`1.1`|23/11/2024|Complemento da metodologia e adição da conclusão|[Zenilda Vieira](https://github.com/zenildavieira)|[Luana Medeiros](https://github.com/LuaMedeiros)|
 
 
