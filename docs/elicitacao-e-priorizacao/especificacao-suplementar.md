@@ -147,6 +147,7 @@ Após a definição dos requisitos não funcionais nesse documento, foi possíve
 ## Referências Bibliográficas
 
 > [1] NIELSEN, Jakob. Usability Engineering. San Francisco: Morgan Kaufmann, 1994.
+
 > [2] WORLD WIDE WEB CONSORTIUM. WCAG 2.0: Web Content Accessibility Guidelines. Versão 2.0. World Wide Web Consortium, 2008. Disponível em: https://www.w3.org/WAI/WCAG21/quickref/. Acesso em: 20 de novembro de 2024.
 
 ## Bibliografia
