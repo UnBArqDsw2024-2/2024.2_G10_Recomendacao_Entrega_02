@@ -84,8 +84,6 @@ O **Desempenho (Performance)** do sistema **Chefindica** está relacionado ao te
 
 ### S: Suporte (Supportability)
 
-
-
 O **Suporte (Supportability)** do sistema **Chefindica** refere-se à facilidade de manutenção, monitoramento, atualização e suporte técnico do aplicativo. É fundamental garantir que o sistema possa ser facilmente adaptado a mudanças futuras e que a equipe técnica tenha ferramentas e processos adequados para garantir a sua continuidade operacional. Na **Tabela 4**, estão listados os **Requisitos Não Funcionais de Suporte** para o aplicativo **Chefindica**.
 
 **Tabela 4:** Requisitos não funcionais sobre Suporte

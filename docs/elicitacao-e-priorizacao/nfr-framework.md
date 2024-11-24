@@ -42,7 +42,7 @@ A **Figura 1** abaixo ilustra a representação dos tipos de softgoals, que pode
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Representação dos tipos de softgoal adaptados para o *Chefindica*.</p></font>
 
-<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/imagens/nfr-softgoals.png?raw=true" style="width: 30%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/nfr-softgoals.png" style="width: 30%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> (CHUNG et al., 2000).</a></p></font>
 </div>
@@ -68,7 +68,7 @@ A **Figura 2** apresenta os rótulos de propagação de impactos que podem ser u
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Rótulos de propagação de impactos adaptados ao *Chefindica*.</p></font>
 
-<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/imagens/nfr-impactos.png?raw=true" style="width: 65%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/nfr-impactos.png" style="width: 65%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> (CHUNG et al., 2000).</a></p></font>
 </div>
@@ -255,7 +255,7 @@ O _Softgoal Interdependency Graph_ do softgoal "Desempenho" organiza os elemento
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 7:</b> Softgoal Interdependency Graph do softgoal "Desempenho (Performance)".</p></font>
 
-<img src="../imagens/nfr-desempenho.png" style="width: 85%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/nfr-desempenho.png" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a>, 2024</p></font>
 </div>
@@ -273,7 +273,7 @@ Essa análise ajuda a identificar soluções que maximizem a eficiência enquant
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 8:</b> Propagação de impactos do softgoal "Desempenho (Performance)"</p></font>
 
-<img src="../imagens/nfr-desempenho-impactos.png" style="width: 85%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/nfr-desempenho-impactos.png" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a>, 2024</p></font>
 </div>
@@ -341,7 +341,7 @@ O Softgoal Interdependency Graph do softgoal "Suporte" organiza os elementos rel
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 9:</b> Softgoal Interdependency Graph do softgoal "Suporte (Supportability)".</p></font>
 
-<img src="#" style="width: 85%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/nfr-suporte.png" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a>, 2024</p></font>
 </div>
@@ -361,7 +361,7 @@ A propagação de impactos do softgoal "Suporte (Supportability)" pode ser visto
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 10:</b> Propagação de impactos do softgoal "Suporte (Supportability)"</p></font>
 
-<img src="#" style="width: 85%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/nfr-suporte-impactos.png" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a>, 2024</p></font>
 </div>
