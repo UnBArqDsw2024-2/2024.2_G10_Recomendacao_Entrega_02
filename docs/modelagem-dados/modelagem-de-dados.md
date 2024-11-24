@@ -14,4 +14,4 @@ Modelagem de dados é o processo de criação de uma representação abstrata e 
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |16/11/2024| Adiciona script do modelo físico | [Izabella Alves](https://github.com/izabellaalves) |[Larissa Vieira](https://github.com/VieiraLaris)  |
+| `1.0`  |16/11/2024| Adiciona introdução e sumário | [Izabella Alves](https://github.com/izabellaalves) |[Larissa Vieira](https://github.com/VieiraLaris)  |
