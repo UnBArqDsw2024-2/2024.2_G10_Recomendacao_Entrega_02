@@ -175,7 +175,7 @@ O _Softgoal Interdependency Graph_ do softgoal "Confiabilidade (Reliability)" po
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 5:</b> Softgoal Interdependency Graph do softgoal "Confiabilidade (Reliability)".</p></font>
 
-<img src="#" style="width: 85%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/imagens/NFR%20-%20Page%201.png?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
 </div>
