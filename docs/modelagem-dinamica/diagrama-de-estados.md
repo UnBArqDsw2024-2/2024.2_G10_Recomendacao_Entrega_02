@@ -19,7 +19,7 @@ Na **figura 1**, é possível ver o **Diagrama de Estados** criado pela equipe.
 <center>
 <p style="text-align: center"><b>Figura 1:</b> Diagrama de Estados</p>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/diagrama_estados.png" alt="Diagrama de Estados" >
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/diagrama-de-estados.png" alt="Diagrama de Estados" >
 </div>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, <a href="https://github.com/PedroSampaioDias">Pedro Sampaio</a>, <a href="https://github.com/lucasqueiroz23">Lucas Queiroz</a> e <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, 2024.</p></font>
 </center>
