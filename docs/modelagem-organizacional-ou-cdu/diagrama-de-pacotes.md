@@ -30,13 +30,28 @@ O pacote frontend contém toda a estrutura responsável pela interface com o usu
 
 ## Diagrama de Pacotes
 
-Na figura 1, é possível ver o Diagrama de Pacotes criado pela equipe.
-
+Na Figura 1, é apresentado o diagrama de pacotes em alto nível elaborado pela equipe, destacando a relação entre os pacotes backend e frontend. Já as Figuras 2 e 3 exploram em maior profundidade, detalhando como esses grandes componentes são subdivididos em seus respectivos subcomponentes.
 
 <center>
-<p style="text-align: center"><b>Figura 1:</b> Diagrama de Pacotes</p>
+<p style="text-align: center"><b>Figura 1:</b> Diagrama de pacotes em alto nível</p>
 <div align="center">
-  <img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/diagrama_pacotes.png?raw=true" alt="Diagrama de Pacotes" >
+  <img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/diagrama_pacotes_alto_nivel.png?raw=true" alt="Diagrama de pacotes em alto nível" >
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, <a href="https://github.com/PedroSampaioDias">Pedro Sampaio</a>, <a href="https://github.com/lucasqueiroz23">Lucas Queiroz</a> e <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, 2024.</p></font>
+</center>
+
+<center>
+<p style="text-align: center"><b>Figura 2:</b> Diagrama de pacotes do backend</p>
+<div align="center">
+  <img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/diagrama_pacotes_backend.png?raw=true" alt="Diagrama de pacotes do backend" >
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, <a href="https://github.com/PedroSampaioDias">Pedro Sampaio</a>, <a href="https://github.com/lucasqueiroz23">Lucas Queiroz</a> e <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, 2024.</p></font>
+</center>
+
+<center>
+<p style="text-align: center"><b>Figura 3:</b> Diagrama de pacotes do frontend</p>
+<div align="center">
+  <img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/diagrama_pacotes_frontend.png?raw=true" alt="Diagrama de pacotes do frontend" >
 </div>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, <a href="https://github.com/PedroSampaioDias">Pedro Sampaio</a>, <a href="https://github.com/lucasqueiroz23">Lucas Queiroz</a> e <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, 2024.</p></font>
 </center>
@@ -52,3 +67,4 @@ Na figura 1, é possível ver o Diagrama de Pacotes criado pela equipe.
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |15/11/2024| Adiciona diagrama de pacotes | [Izabella Alves](https://github.com/izabellaalves) |[Pedro Sampaio](https://github.com/PedroSampaioDias) <br> [Lucas Queiroz](https://github.com/lucasqueiroz23) <br> [Guilherme Brito](https://github.com/GuilhermeB12)|
+| `1.1`  |25/11/2024| Melhora na organização das imagens | [Pedro Sampaio](https://github.com/PedroSampaioDias) |[Izabella Alves](https://github.com/izabellaalves) <br> [Lucas Queiroz](https://github.com/lucasqueiroz23) <br> [Guilherme Brito](https://github.com/GuilhermeB12)|
