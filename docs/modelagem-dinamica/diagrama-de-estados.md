@@ -26,11 +26,11 @@ Na **figura 1**, é possível ver o **Diagrama de Estados** criado pela equipe.
 
 ## Referências Bibliográficas
 
-> LUCIDCHART. O que é um diagrama de máquina de estados?. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-maquina-de-estados-uml. Acesso em: 15 de ago. 2024.
+> LUCIDCHART. O que é um diagrama de máquina de estados?. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-maquina-de-estados-uml. Acesso em: 15 de nov. 2024.
 >
-> Máquina de Estados. Disponível em: http://msoo.pbworks.com/f/Diagrama+de+Estados.pdf. Acesso em: 15 de ago. 2024.
+> Máquina de Estados. Disponível em: http://msoo.pbworks.com/f/Diagrama+de+Estados.pdf. Acesso em: 15 de nov. 2024.
 >
-> Modelo de Diagrama Transição de Estados UML online. Disponível em: https://miro.com/pt/modelos/diagrama-transicao-estados-uml. Acesso em: 15 de ago. 2024.
+> Modelo de Diagrama Transição de Estados UML online. Disponível em: https://miro.com/pt/modelos/diagrama-transicao-estados-uml. Acesso em: 15 de nov. 2024.
 
 
 ## Histórico de Versão
@@ -38,3 +38,4 @@ Na **figura 1**, é possível ver o **Diagrama de Estados** criado pela equipe.
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |15/11/2024| Adição do diagrama de estados | [Pedro Sampaio](https://github.com/PedroSampaioDias) | [Lucas Queiroz](https://github.com/lucasqueiroz23) |
+| `1.1`  |25/11/2024| Correção das datas de acesso | [Pedro Sampaio](https://github.com/PedroSampaioDias) |  |
