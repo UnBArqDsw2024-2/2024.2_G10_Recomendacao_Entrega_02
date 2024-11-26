@@ -24,67 +24,67 @@ Para isso, adotamos a seguinte notação:
         <tr>
             <td><b>Representação de classe</b></td>
             <td>
-                <img src="../imagens/seqRepresentacao-de-classe.png" alt="representacao-classe">
+                <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/seqRepresentacao-de-classe.png" alt="representacao-classe">
             </td>
         </tr>
         <tr>
             <td><b>Ator</b></td>
             <td>
-                <img src="../imagens/seqAtor.png" alt="ator">
+                <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/seqAtor.png" alt="ator">
             </td>
         </tr>
         <tr>
             <td><b>Caixa de ativação</b></td>
             <td>
-                <img src="../imagens/seqCaixa-de-ativacao.png" alt="caixa-ativacao">
+                <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/seqCaixa-de-ativacao.png" alt="caixa-ativacao">
             </td>
         </tr>
         <tr>
             <td><b>Linha de ativação</b></td>
             <td>
-                <img src="../imagens/seqLinha-de-ativacao.png" alt="linha-ativacao">
+                <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/seqLinha-de-ativacao.png" alt="linha-ativacao">
             </td>
         </tr>
         <tr>
             <td><b>Cenário alternativo</b></td>
             <td>
-                <img src="../imagens/seqCenario-alternativo.png" alt="cenario-alternativo">
+                <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/seqCenario-alternativo.png" alt="cenario-alternativo">
             </td>
         </tr>
         <tr>
             <td><b>Cenário optativo</b></td>
             <td>
-                <img src="../imagens/seqCenario-optativo.png" alt="cenario-optativo">
+                <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/seqCenario-optativo.png" alt="cenario-optativo">
             </td>
         </tr>
         <tr>
             <td><b>Referência a outro artefato</b></td>
             <td>
-                <img src="../imagens/seqReferencia.png" alt="referencia">
+                <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/seqReferencia.png" alt="referencia">
             </td>
         </tr>
         <tr>
             <td><b>Mensagem síncrona</b></td>
             <td>
-                <img src="../imagens/seqMensagem-sincrona.png" alt="mensagem-sincrona">
+                <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/seqMensagem-sincrona.png" alt="mensagem-sincrona">
             </td>
         </tr>
         <tr>
             <td><b>Mensagem assíncrona</b></td>
             <td>
-                <img src="../imagens/seqMensagem-assincrona.png" alt="mensagem-assincrona">
+                <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/seqMensagem-assincrona.png" alt="mensagem-assincrona">
             </td>
         </tr>
         <tr>
             <td><b>Resposta de mensagem</b></td>
             <td>
-                <img src="../imagens/seqResposta-da-mensagem.png" alt="resposta-mensagem">
+                <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/seqResposta-da-mensagem.png" alt="resposta-mensagem">
             </td>
         </tr>
         <tr>
             <td><b>Destruição de objeto</b></td>
             <td>
-            <img src="../imagens/seqDestruicao.png" alt="destruicao">           
+            <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/seqDestruicao.png" alt="destruicao">           
             </td>
         </tr>
     </table>
@@ -116,3 +116,4 @@ Para isso, adotamos a seguinte notação:
 | `1.0`  |21/11/2024| Criação do documento | [Cecília Quaresma](https://github.com/cqcoding) |[Larissa Vieira](https://github.com/VieiraLaris) e [Caio Mesquita](https://github.com/Caiomesvie) |
 | `1.1`  |24/11/2024| Adição do diagrama de sequência | [Cecília Quaresma](https://github.com/cqcoding) |[Larissa Vieira](https://github.com/VieiraLaris) e [Caio Mesquita](https://github.com/Caiomesvie) |
 | `1.2`  |25/11/2024| Adição da tabela de notações | [Larissa Vieira](https://github.com/VieiraLaris) |[Cecília Quaresma](https://github.com/cqcoding) e [Caio Mesquita](https://github.com/Caiomesvie) |
+| `1.3`  |26/11/2024| Correção dos caminhos das imagens | [Larissa Vieira](https://github.com/VieiraLaris) |[Cecília Quaresma](https://github.com/cqcoding) |
