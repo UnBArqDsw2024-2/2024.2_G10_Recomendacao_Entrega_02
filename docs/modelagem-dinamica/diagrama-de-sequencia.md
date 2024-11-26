@@ -10,6 +10,89 @@ Combinamos alguns métodos e classes criados no diagrama de classes anteriorment
 
 Fizemos uma abordagem geral a princípio, mas, em seguida, separamos os diferentes fluxos de modo que ficasse mais claro o funcionamento da aplicação.
 
+Para isso, adotamos a seguinte notação:
+
+<div align="center">
+    <font size="3">
+        <p style="text-align: center"><b>Tabela 1:</b> Notação do diagrama de sequência</p>
+    </font>
+    <table>
+        <tr>
+            <th style="padding: 10px; text-align: left;">Nome</th>
+            <th style="padding: 10px; text-align: left;">Ícone</th>
+        </tr>
+        <tr>
+            <td><b>Representação de classe</b></td>
+            <td>
+                <img src="../imagens/seqRepresentacao-de-classe.png" alt="representacao-classe">
+            </td>
+        </tr>
+        <tr>
+            <td><b>Ator</b></td>
+            <td>
+                <img src="../imagens/seqAtor.png" alt="ator">
+            </td>
+        </tr>
+        <tr>
+            <td><b>Caixa de ativação</b></td>
+            <td>
+                <img src="../imagens/seqCaixa-de-ativacao.png" alt="caixa-ativacao">
+            </td>
+        </tr>
+        <tr>
+            <td><b>Linha de ativação</b></td>
+            <td>
+                <img src="../imagens/seqLinha-de-ativacao.png" alt="linha-ativacao">
+            </td>
+        </tr>
+        <tr>
+            <td><b>Cenário alternativo</b></td>
+            <td>
+                <img src="../imagens/seqCenario-alternativo.png" alt="cenario-alternativo">
+            </td>
+        </tr>
+        <tr>
+            <td><b>Cenário optativo</b></td>
+            <td>
+                <img src="../imagens/seqCenario-optativo.png" alt="cenario-optativo">
+            </td>
+        </tr>
+        <tr>
+            <td><b>Referência a outro artefato</b></td>
+            <td>
+                <img src="../imagens/seqReferencia.png" alt="referencia">
+            </td>
+        </tr>
+        <tr>
+            <td><b>Mensagem síncrona</b></td>
+            <td>
+                <img src="../imagens/seqMensagem-sincrona.png" alt="mensagem-sincrona">
+            </td>
+        </tr>
+        <tr>
+            <td><b>Mensagem assíncrona</b></td>
+            <td>
+                <img src="../imagens/seqMensagem-assincrona.png" alt="mensagem-assincrona">
+            </td>
+        </tr>
+        <tr>
+            <td><b>Resposta de mensagem</b></td>
+            <td>
+                <img src="../imagens/seqResposta-da-mensagem.png" alt="resposta-mensagem">
+            </td>
+        </tr>
+        <tr>
+            <td><b>Destruição de objeto</b></td>
+            <td>
+            <img src="../imagens/seqDestruicao.png" alt="destruicao">           
+            </td>
+        </tr>
+    </table>
+
+    
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VieiraLaris">Larissa Vieira</a>, <a href="https://github.com/cqcoding">Cecília Quaresma</a> e <a href="https://github.com/Caiomesvie">Caio Mesquita</a>,  2024.</p></font>
+</div>
+
 ## Diagrama de Sequência
 
 <center>
@@ -32,3 +115,4 @@ Fizemos uma abordagem geral a princípio, mas, em seguida, separamos os diferent
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |21/11/2024| Criação do documento | [Cecília Quaresma](https://github.com/cqcoding) |[Larissa Vieira](https://github.com/VieiraLaris) e [Caio Mesquita](https://github.com/Caiomesvie) |
 | `1.1`  |24/11/2024| Adição do diagrama de sequência | [Cecília Quaresma](https://github.com/cqcoding) |[Larissa Vieira](https://github.com/VieiraLaris) e [Caio Mesquita](https://github.com/Caiomesvie) |
+| `1.2`  |25/11/2024| Adição da tabela de notações | [Larissa Vieira](https://github.com/VieiraLaris) |[Cecília Quaresma](https://github.com/cqcoding) e [Caio Mesquita](https://github.com/Caiomesvie) |
