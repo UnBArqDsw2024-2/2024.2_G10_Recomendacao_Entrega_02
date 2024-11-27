@@ -14,7 +14,7 @@
 
 <div align="center">
     <p style="text-align: center"><b>Figura 1:</b> Objeto que representa uma classe</p>
-    <img src="./imagens/descricaodiagramacolaboracao1.png" alt="Objeto que representa uma classe" >
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/diagrama-de-comunicacao/docs/imagens/descricaodiagramacolaboracao1.png" alt="Objeto que representa uma classe" >
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, <a href="https://github.com/juliaryoshida">Júlia Yoshida</a> e <a href="https://github.com/Maliz30">Maria Alice</a>,  2024.</p></font>
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
     <p style="text-align: center"><b>Figura 2:</b> Objeto que representa uma classe</p>
-    <img src="./imagens/descricaodiagramacolaboracao4.png" alt="Objeto que representa uma classe" >
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/diagrama-de-comunicacao/docs/imagens/descricaodiagramacolaboracao4.png" alt="Objeto que representa uma classe" >
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, <a href="https://github.com/juliaryoshida">Júlia Yoshida</a> e <a href="https://github.com/Maliz30">Maria Alice</a>,  2024.</p></font>
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
     <p style="text-align: center"><b>Figura 3:</b> Links</p>
-    <img src="./imagens/descricaodiagramacolaboracao2.png" alt="Links" >
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/diagrama-de-comunicacao/docs/imagens/descricaodiagramacolaboracao2.png" alt="Links" >
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, <a href="https://github.com/juliaryoshida">Júlia Yoshida</a> e <a href="https://github.com/Maliz30">Maria Alice</a>,  2024.</p></font>
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
     <p style="text-align: center"><b>Figura 4:</b> Número de sequência </p>
-    <img src="./imagens/descricaodiagramacolaboracao3.png" alt="Número de sequência" >
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/diagrama-de-comunicacao/docs/imagens/descricaodiagramacolaboracao3.png" alt="Número de sequência" >
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, <a href="https://github.com/juliaryoshida">Júlia Yoshida</a> e <a href="https://github.com/Maliz30">Maria Alice</a>,  2024.</p></font>
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
     <p style="text-align: center"><b>Figura 5:</b> Condicional </p>
-    <img src="./imagens/descricaodiagramacolaboracao5.png" alt="Condicional" >
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/diagrama-de-comunicacao/docs/imagens/descricaodiagramacolaboracao5.png" alt="Condicional" >
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, <a href="https://github.com/juliaryoshida">Júlia Yoshida</a> e <a href="https://github.com/Maliz30">Maria Alice</a>,  2024.</p></font>
 </div>
 
