@@ -84,9 +84,48 @@ Nas figura de 1 a 5 é possível ver screenshots dos artefatos produzidos na seg
 
 ### Como executar o programa?
 
+### 1. Backend:
+
 Use o comando `make start` ou o comando `make build`.
 
 Existe um detalhe: o banco de dados pode demorar um pouco pra abrir a conexão com o spring boot, e o processo da API pode retornar 0. O compose simplesmente vai executar o processo da API novamente, garantindo a conexão.
+
+### 2. Frontend:
+
+#### Ambiente de Desenvolvimento:
+
+Constrói a imagem para o ambiente de desenvolvimento.
+
+
+```
+make build-dev
+```
+
+#### Ambiente de Produção:
+
+Constrói a imagem para o ambiente de produção.
+```
+make build-prod
+```
+
+### Subir o contêiner do frontend:
+
+#### Ambiente de Desenvolvimento:
+
+Inicia o serviço de desenvolvimento e mapeia os arquivos locais para o contêiner.
+
+```
+make up-dev
+```
+
+#### Ambiente de Produção:
+
+Inicia o serviço de produção com a versão final do aplicativo.
+
+```
+make up-prod
+```
+
 
 ## Histórico de Versões
 
