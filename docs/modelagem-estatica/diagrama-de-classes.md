@@ -17,17 +17,6 @@ O modelo final possui uma estrutura clara, com as seguintes classes principais:
 - Avaliação: Representa as interações entre usuários e restaurantes, armazenando informações específicas das avaliações realizadas.
 - Categoria: Organiza os tipos de classificação de restaurantes utilizando uma estrutura enumerada.
 
-## Composição das classes
-
-O diagrama de classes padrão é composto de três partes:
-
-- Parte superior: contém o nome da classe.
-- Parte do meio: contém os atributos da classe.
-- Parte inferior: inclui as operações da classe (métodos)
-
-<div align = "center"><img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/diagrama_cla_exe.png" alt="Figura 1: Diagrama de Classes exemplo." height="300" width="350">
-<p>Figura 1: Exemplo de classe. Fonte: Projeto Magazine Luiza, Grupo 8, 2023</p></div>
-
 ## Diagrama de Classes
 
 <center>
@@ -42,8 +31,11 @@ O diagrama de classes padrão é composto de três partes:
 
 Por padrão utilizamos os seguintes elementos em nosso diagrama:
 
+<center>
+<p style="text-align: center"><b>Figura 2:</b>  Legenda Diagrama de Classes</p>
+<div align="center">
 <div align = "center"><img src="https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/blob/main/docs/Assets/diagramas/legenda_diagrama_de_classes.png?raw=true" alt="Figura 3: Diagrama de Classes Legenda." height="500" width="450">
-<p>Figura 3: Legenda Diagrama de Classes. Fonte: Projeto Mercado Livre, Grupo 2, 2023</p></div>
+<p style="text-align: center"><b>Fonte:</b> Projeto Mercado Livre, Grupo 2, 2023</p>
 
 ## Referências Bibliográficas
 

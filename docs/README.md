@@ -30,6 +30,47 @@ Chef Indica é um aplicativo para criar e participar de fóruns dedicados a rest
 
 ## Screenshots da Segunda Entrega
 
+Nas figura de 1 a 5 é possível ver screenshots dos artefatos produzidos na segunda entrega.
+
+<center>
+<p style="text-align: center"><b>Figura 1:</b> Screenshot do Diagrama de Classes</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/screenshot1.png" alt="Diagrama de Classes" >
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores,  2024.</p></font>
+</center>
+
+<center>
+<p style="text-align: center"><b>Figura 2:</b> Screenshot do Diagrama de Componentes</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/screenshot2.png" alt="Diagrama de Classes" >
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores,  2024.</p></font>
+</center>
+
+<center>
+<p style="text-align: center"><b>Figura 3:</b> Screenshot do Diagrama de Sequência</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/screenshot3.png" alt="Diagrama de Classes" >
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores,  2024.</p></font>
+</center>
+
+<center>
+<p style="text-align: center"><b>Figura 4:</b> Screenshot do Diagrama de Pacotes</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/screenshot4.png" alt="Diagrama de Classes" >
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores,  2024.</p></font>
+</center>
+
+<center>
+<p style="text-align: center"><b>Figura 5:</b> Screenshot do Modelo Lógico</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/screenshot5.png" alt="Diagrama de Classes" >
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores,  2024.</p></font>
+</center>
 
 ## Há algo a ser executado?
 
@@ -37,10 +78,19 @@ Chef Indica é um aplicativo para criar e participar de fóruns dedicados a rest
 
 ( ) NÃO
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+### Pré-requisitos
+- [Docker](https://www.docker.com/);
+- [Make](https://www.gnu.org/software/make/);
+
+### Como executar o programa?
+
+Use o comando `make start` ou o comando `make build`.
+
+Existe um detalhe: o banco de dados pode demorar um pouco pra abrir a conexão com o spring boot, e o processo da API pode retornar 0. O compose simplesmente vai executar o processo da API novamente, garantindo a conexão.
 
 ## Histórico de Versões
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|17/11/2024|Adiciona a coverpage e edita as informações|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/ZenildaVieira)|
+|`1.0`|27/11/2024|Adiciona screenshots da segunda entrega|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/ZenildaVieira)|
