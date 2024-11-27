@@ -216,7 +216,7 @@ A tabela 8 demonstra a especificação do caso de uso UC05 Pesquisar por Restaur
 
 | UC05 |  Pesquisar por Restaurante |
 | -: | :- |
-| **Ator(es)** |  |
+| **Ator(es)** | Usuário em busca de um restaurante  |
 | **Frequência de uso** | Alta |
 | **Pré-condições** |PRE01. Dispor de uma conexão à internet;<br> PRE02. O sistema deve estar disponível; |
 | **Fluxo básico** | <br>**FB01.**</br> <ol> <li>O usuário entra no site.<li>O usuário seleciona a categoria desejada de restaurante no menu lateral<li>O usuário navega pela lista de restaurantes listados na categoria selecionada.<li>O usuário seleciona o restaurante desejado. <li>O usuário analisa a avaliação e os comentários a respeito do restaurante. </ol> |
