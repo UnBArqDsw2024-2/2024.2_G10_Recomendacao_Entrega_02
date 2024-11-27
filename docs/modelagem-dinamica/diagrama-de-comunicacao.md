@@ -158,5 +158,5 @@
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |26/11/2024| Adição da Introdução e Metodologia | [Guilherme Brito](https://github.com/GuilhermeB12)<br>[Júlia Yoshida](https://github.com/juliaryoshida)<br>[Maria Alice](https://github.com/Maliz30)<br> | [Mateus Fidelis](https://github.com/GuilhermeB12)<br>[Júlia Yoshida] |
+| `1.0`  |26/11/2024| Adição da Introdução e Metodologia | [Guilherme Brito](https://github.com/GuilhermeB12)<br>[Júlia Yoshida](https://github.com/juliaryoshida)<br>[Maria Alice](https://github.com/Maliz30)<br> | [Mateus Fidelis](https://github.com/matsfidelis) |
 | `1.1`  |27/11/2024| Detalhamento da metodologia | [Júlia Yoshida](https://github.com/juliaryoshida)| [Maria Alice](https://github.com/Maliz30) |
