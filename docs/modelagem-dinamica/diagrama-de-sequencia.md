@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Segundo a IBM, um diagrama de seqüência é um diagrama Unified Modeling Language (UML) que ilustra a seqüência das mensagens entre objetos em uma interação.<br>Ele descreve o intercâmbio de mensagens entre os participantes do sistema e destaca a ordem em que essas mensagens são trocadas.<br>Um diagrama de seqüência consiste em um grupo de objetos representados por linhas de vida e as mensagens que eles trocam durante a interação.
+Segundo a IBM, um diagrama de seqüência é um diagrama Unified Modeling Language (UML) que ilustra a seqüência das mensagens entre objetos em uma interação.<br>Ele descreve o intercâmbio de mensagens entre os participantes do sistema e destaca a ordem em que essas mensagens são trocadas.<br>Um diagrama de seqüência consiste em um grupo de objetos representados por linhas de vida e as mensagens que eles trocam durante a interação. [1]
 
 
 ## Metodologia
@@ -105,9 +105,12 @@ Para isso, adotamos a seguinte notação:
 
 ## Referências Bibliográficas
 
-[Sequence Diagram](https://www.uml-diagrams.org/sequence-diagrams.html)<br>
-[Rational Software Modeler - IBM](https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=diagrams-lifelines-in-uml)<br>
-[Grupo 08: UnBreja-2024.1](https://unbarqdsw2024-1.github.io/2024.1_G8_UnBreja/#/Modelagem/2.1.2.1.DiagramaSequencia)
+> [1] IBM. Diagramas de Seqüência. IBM, 2021. Disponível em: https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=diagrams-lifelines-in-uml. Acesso em: 21 de novembro de 2024.
+
+## Bibliografia
+> UML Diagrams. UML Sequence Diagrams. Disponível em: https://www.uml-diagrams.org/sequence-diagrams.html. Acesso em: 21 de novembro de 2024.
+>
+> Grupo 08: UnBreja-2024.1. Modelagem: Diagrama de Sequência. Disponível em: https://unbarqdsw2024-1.github.io/2024.1_G8_UnBreja/#/Modelagem/2.1.2.1.DiagramaSequencia. Acesso em: 21 de novembro de 2024.
 
 ## Histórico de Versão
 
@@ -117,3 +120,4 @@ Para isso, adotamos a seguinte notação:
 | `1.1`  |24/11/2024| Adição do diagrama de sequência | [Cecília Quaresma](https://github.com/cqcoding) |[Larissa Vieira](https://github.com/VieiraLaris) e [Caio Mesquita](https://github.com/Caiomesvie) |
 | `1.2`  |25/11/2024| Adição da tabela de notações | [Larissa Vieira](https://github.com/VieiraLaris) |[Cecília Quaresma](https://github.com/cqcoding) e [Caio Mesquita](https://github.com/Caiomesvie) |
 | `1.3`  |26/11/2024| Correção dos caminhos das imagens | [Larissa Vieira](https://github.com/VieiraLaris) |[Cecília Quaresma](https://github.com/cqcoding) |
+| `1.4`  |26/11/2024| Correção das referências bibliográficas | [Larissa Vieira](https://github.com/VieiraLaris) |[Cecília Quaresma](https://github.com/cqcoding) |
