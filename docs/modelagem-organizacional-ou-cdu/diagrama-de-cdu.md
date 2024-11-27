@@ -217,13 +217,13 @@ A tabela 8 demonstra a especificação do caso de uso UC05 Pesquisar por Restaur
 | UC05 |  Pesquisar por Restaurante |
 | -: | :- |
 | **Ator(es)** |  |
-| **Frequência de uso** |  |
-| **Pré-condições** | |
-| **Fluxo básico** | |
-| **Fluxos alternativos** |   |
-| **Fluxos de exceção** |  |
-| **Pós-condições** |  |
-| **Data da criação** | |
+| **Frequência de uso** | Alta |
+| **Pré-condições** |PRE01. Dispor de uma conexão à internet;<br> PRE02. O sistema deve estar disponível; |
+| **Fluxo básico** | <br>**FB01.**</br> <ol> <li>O usuário entra no site.<li>O usuário seleciona a categoria desejada de restaurante no menu lateral<li>O usuário navega pela lista de restaurantes listados na categoria selecionada.<li>O usuário seleciona o restaurante desejado. <li>O usuário analisa a avaliação e os comentários a respeito do restaurante. </ol> |
+| **Fluxos alternativos** | <br>**FA01. Busca por restaurante específico**</br><ol> <li>O usuário acessa o site. <li>O usuário acessa o menu de busca na parte superior da página. <li>O usuário Procura pelo restaurante específico.<li>O usuário analisa a avaliação e os comentários a respeito do restaurante.</ol><br> **FA02. Restaurante Recomendado** </br><ol><li>O usuário acessa o site. <li> O usuário vizualiza os restaurantes recomendados na página home com maior avaliação. <li>O usuário seleciona o restaurante desejado e vizualiza sua avaliação.  </ol> |
+| **Fluxos de exceção** | <br>**FE01: Restaurante não encontrado**</br> <ol> <li> O usuário busca pela avaliação de um restaurante em específico. <li> O usuário não encontra o restaurante cadastrado. <li> O usuário tem a opção de cadastrar o restaurante na plataforma. </ol> |
+| **Pós-condições** | POS01. O usuário vizualiza a avaliação do restaurante selecionado.  |
+| **Data da criação** |26/11/2024 |
 | **Rastreabilidade** |  |
 
 <div align="center">
@@ -295,4 +295,5 @@ A tabela 10 demonstra a especificação do caso de uso UC07 Cadastrar Restaurant
 | `1.2`  |20/11/2024| Adição do caso de uso UC03 | [Larissa Vieira](https://github.com/VieiraLaris) | [Luana Medeiros](https://github.com/LuaMedeiros) |
 | `1.3`  |21/11/2024| Adição do caso de uso UC07 | [Luana Medeiros](https://github.com/LuaMedeiros) | [Lucas Víctor](https://github.com/Lucas3032003) |
 | `1.4`  |21/11/2024| Adição do caso de uso UC02  | [Lucas Víctor](https://github.com/Lucas3032003) |  [Luana Medeiros](https://github.com/LuaMedeiros)|
-| `1.5`  |21/11/2024| Adição do caso de uso UC04  | [Cecília Quaresma](https://github.com/cqcoding) |  |
+| `1.5`  |21/11/2024| Adição do caso de uso UC04  | [Cecília Quaresma](https://github.com/cqcoding) | [Caio Mesquita](https://github.com/Caiomesvie) |
+| `1.6`  |27/11/2024| Adição do caso de uso UC05  |  [Caio Mesquita](https://github.com/Caiomesvie) | |
