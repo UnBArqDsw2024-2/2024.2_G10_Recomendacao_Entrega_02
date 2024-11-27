@@ -17,7 +17,7 @@ Para a criação do Diagrama Lógico de Dados (DLD), a equipe utilizou a ferrame
 
 ## Bibliografia
 >
-> HEUSER, Carlos A. Projeto de Banco de Dados. Bookman, 2009.
+> HEUSER, C. A. Projeto de Banco de Dados. 6. ed. Porto Alegre: Bookman, 2009.
 >
 
 ## Histórico de Versão
@@ -25,3 +25,4 @@ Para a criação do Diagrama Lógico de Dados (DLD), a equipe utilizou a ferrame
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |16/11/2024| Adiciona diagrama lógico de dados | [Larissa Vieira](https://github.com/VieiraLaris) |[Izabella Alves](https://github.com/izabellaalves)  |
+| `1.1`  |16/11/2024| Correção da bibliografia | [Larissa Vieira](https://github.com/VieiraLaris) |[Cecília Quaresma](https://github.com/cqcoding)  |

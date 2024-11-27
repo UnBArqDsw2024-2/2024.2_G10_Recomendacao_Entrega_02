@@ -29,11 +29,11 @@ Este repositório tem como principal objetivo auxiliar no registro dos artefatos
 Chef Indica é um aplicativo para criar e participar de fóruns dedicados a restaurantes, com filtros por região, tipo de comida, restrições e muito mais.
 
 ## Screenshots da Segunda Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
 
 ## Há algo a ser executado?
 
-( ) SIM
+(X) SIM
 
 ( ) NÃO
 
