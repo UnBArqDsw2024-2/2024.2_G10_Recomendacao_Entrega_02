@@ -21,24 +21,24 @@ A construção dos casos de uso do site de recomendação de restaurantes ChefIn
   </thead>
   <tbody>
     <tr>
-      <td><figure class="usecaseElement" style="width: 20%; display: flex;"><img src="xxx" alt="Ator"></figure></td>
+      <td><figure class="usecaseElement" style="width: 20%; display: flex;"><img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/diagrama-de-cdu/docs/imagens/uc-ator.drawio.png?raw=true" alt="Ator"></figure></td>
       <td>Ator</td>
-      <td>xxx</td>
+      <td>Representam os diferentes tipos de usuários externos que interagem com o sistema</td>
     </tr>
     <tr>
-      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="xxx" alt="Elipse (Caso de Uso)"></figure></td>
+      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/diagrama-de-cdu/docs/imagens/uc-caso-de-uso.drawio.png?raw=true" alt="Elipse (Caso de Uso)"></figure></td>
       <td>Elipse (Caso de Uso)</td>
-      <td>xxx</td>
+      <td>É usada para representar os casos de uso no diagrama. Um caso de uso descreve uma funcionalidade ou uma ação específica que o sistema pode realizar em resposta às interações dos atores. A elipse contém o nome do caso de uso</td>
     </tr>
     <tr>
-      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="xxx" alt="Retângulo (Sistema)"></figure></td>
+      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/diagrama-de-cdu/docs/imagens/uc-limites.drawio.png?raw=true" alt="Retângulo (Sistema)"></figure></td>
       <td>Retângulo (Sistema)</td>
-      <td>xxx</td>
+      <td>Usado para representar o sistema ou o bloco em análise. Ele envolve os casos de uso e atores relacionados</td>
     </tr>
     <tr>
-      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="xxx" alt="Flecha (Relações)"></figure></td>
+      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/diagrama-de-cdu/docs/imagens/uc-relacionamentos.drawio.png?raw=true" alt="Flecha (Relações)"></figure></td>
       <td>Flecha (Relações)</td>
-      <td>xxx</td>
+      <td>As flechas são usadas para representar as relações ou interações entre atores e casos de uso</td>
     </tr>
   </tbody>
 </table>
@@ -348,3 +348,4 @@ A tabela 12 demonstra a especificação do caso de uso UC07 Cadastrar Restaurant
 | `1.6`  |27/11/2024| Adição do caso de uso UC05  |  [Caio Mesquita](https://github.com/Caiomesvie) | [Cecília Quaresma](https://github.com/cqcoding)|
 | `1.7`  |27/11/2024| Adição do novo diagrama | [Cecília Quaresma](https://github.com/cqcoding)| [Maria Alice](https://github.com/Maliz30) |
 | `1.8`  |27/11/2024| Adição de especificação de casos de uso UC06 | [Maria Alice](https://github.com/Maliz30) | [Cecília Quaresma](https://github.com/cqcoding) |
+| `1.9`  |28/11/2024| Atualização de legenda  | [Lucas Víctor](https://github.com/Lucas3032003) |  [Luana Medeiros](https://github.com/LuaMedeiros)|
