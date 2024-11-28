@@ -1,31 +1,96 @@
-# RepositorioTemplate
+# Chef Indica 🐭
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+**Código da Disciplina**: FGA0208<br>
+**Número do Grupo**: 10<br>
+**Entrega**: 02<br>
 
-## Introdução
+## Alunos
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+| Matrícula         | Aluno                              |
+|-------------------|------------------------------------|
+| 222024283         | Caio Mesquita Vieira              |
+| 221021901         | Cecília Ernesto Silva Quaresma    |
+| 190028963         | Guilherme Brito de Souza          |
+| 211063149         | Izabella Alves Pereira            |
+| 200021222         | Júlia Rodrigues Yoshida           |
+| 221022050         | Larissa de Jesus Vieira           |
+| 190091444         | Luana de Lima Medeiros            |
+| 190091703         | Lucas Henrique Lima de Queiroz    |
+| 211063194         | Lucas Víctor Ferreira de Araújo   |
+| 211063210         | Maria Alice Bernardo da Costa Silva |
+| 200073184         | Mateus Fidelis Marinho Maia       |
+| 211043745         | Pedro Sampaio Dias Rocha          |
+| 212002907         | Zenilda Pedrosa Vieira            |
 
-## Tecnologia
+## Sobre 
 
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
+Este repositório tem como principal objetivo auxiliar no registro dos artefatos e resultados obtidos no desenvolvimento do projeto Chef Indica, pelo Grupo 10 de Arquitetura e Desenho de Software da Universidade de Brasília (UnB-FGA) no semestre 2024.2.
 
-```shell
-"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
-```
+Chef Indica é um aplicativo para criar e participar de fóruns dedicados a restaurantes, com filtros por região, tipo de comida, restrições e muito mais.
 
-### Instalando o docsify
+## Screenshots da Segunda Entrega
 
-Execute o comando:
+Nas figura de 1 a 5 é possível ver screenshots dos artefatos produzidos na segunda entrega.
 
-```shell
-npm i docsify-cli -g
-```
+<center>
+<p style="text-align: center"><b>Figura 1:</b> Screenshot do Diagrama de Classes</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/screenshot1.png" alt="Diagrama de Classes" >
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores,  2024.</p></font>
+</center>
 
-### Executando localmente
+<center>
+<p style="text-align: center"><b>Figura 2:</b> Screenshot do Diagrama de Componentes</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/screenshot2.png" alt="Diagrama de Classes" >
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores,  2024.</p></font>
+</center>
 
-Para iniciar o site localmente, utilize o comando:
+<center>
+<p style="text-align: center"><b>Figura 3:</b> Screenshot do Diagrama de Sequência</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/screenshot3.png" alt="Diagrama de Classes" >
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores,  2024.</p></font>
+</center>
 
-```shell
-docsify serve ./docs
-```
+<center>
+<p style="text-align: center"><b>Figura 4:</b> Screenshot do Diagrama de Pacotes</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/screenshot4.png" alt="Diagrama de Classes" >
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores,  2024.</p></font>
+</center>
+
+<center>
+<p style="text-align: center"><b>Figura 5:</b> Screenshot do Modelo Lógico</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/screenshot5.png" alt="Diagrama de Classes" >
+</div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Autores,  2024.</p></font>
+</center>
+
+## Há algo a ser executado?
+
+(X) SIM
+
+( ) NÃO
+
+### Pré-requisitos
+- [Docker](https://www.docker.com/);
+- [Make](https://www.gnu.org/software/make/);
+
+### Como executar o programa?
+
+Use o comando `make start` ou o comando `make build`.
+
+Existe um detalhe: o banco de dados pode demorar um pouco pra abrir a conexão com o spring boot, e o processo da API pode retornar 0. O compose simplesmente vai executar o processo da API novamente, garantindo a conexão.
+
+## Histórico de Versões
+
+|Versão|Data|Descrição|Autor|Revisor|
+|:----:|----|---------|-----|:-------:|
+|`1.0`|17/11/2024|Adiciona a coverpage e edita as informações|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/ZenildaVieira)|
+|`1.0`|27/11/2024|Adiciona screenshots da segunda entrega|[Izabella Alves](https://github.com/izabellaalves)|[Zenilda Vieira](https://github.com/ZenildaVieira)|
