@@ -46,6 +46,20 @@
 | RF08 | Excluir restaurante cadastrado | - |
 | RF09 | Login de usuário | O sistema deve permitir que um usuário autenticado faça login no sistema utilizando seu e-mail e senha. O sistema deve verificar a autenticidade das credenciais e permitir o acesso ao sistema se as informações forem válidas. |
 | RF10 | Logout de usuário | O sistema deve permitir que um usuário autenticado realize logout, desconectando sua sessão e garantindo que não haja mais acesso às funcionalidades restritas até o próximo login. |
+| RF11 | Cadastro de avaliação | O sistema deve permitir que um usuário autenticado realize a avaliação de um restaurante desejado, podendo dar um número de estrelas e deixar um comentário de modo opcional. |
+| RF12 | Exclusão de avaliação | O sistema deve permitir que um usuário autenticado delete sua avaliação do fórum do restaurante. |
+| RF13 | Filtrar por categorias | O sistema deve disponibilizar as seguintes opções para categorizar os tipos de restaurante: Brasileira, japonesa, chinesa, italiana, árabe, doces e sobremesas, mexicana, fast-food, padaria, café, hambúrguer, lámen, pizzaria, bolos, sorvete, café da manhã, vegano, sem glúten, vegetariano, bebidas, self-service, churrasco e frutos do mar. |
+| RF14 | Buscar restaurantes por categorias | O sistema deve permitir que o usuário aplique um filtro para selecionar o tipo de categoria de restaurante a ser visualizada. |
+| RF15 | Buscar restaurantes | O sistema deve possuir barra de pesquisa para que o usuário pesquise pelo nome do restaurante que deseja avaliar/visualizar. |
+| RF16 | Visualizar avaliações por usuário | O usuário deve poder acessar, em seu perfil, suas avaliações já feitas.|
+| RF17 | Visualizar avaliações por outros usuários | O usuário deve poder acessar, no restaurante, as avaliações já feitas por terceiros.|
+| RF18 | Cadastro único | O sistema deve mostrar ao usuário, ao tentar adicionar novo restaurante, nomes similares/já existentes a fim de evitar repetições. |
+| RF19 | Obter média | O sistema deve mostrar a média de avaliações do restaurante automaticamente ao usuário.|
+
+
+
+
+
 
 ## Bibliografia
 
@@ -59,3 +73,4 @@
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |27/11/2024| Adicionando introdução e metodologia | [Júlia Yoshida](https://github.com/juliaryoshida) |[Maria Alice](https://github.com/Maliz30) |
 | `1.1`  |27/11/2024| Adicionando requisitos| [Júlia Yoshida](https://github.com/juliaryoshida) |[Maria Alice](https://github.com/Maliz30) |
+| `1.2`  |27/11/2024| Adicionando requisitos| [Cecília Quaresma](https://github.com/cqcoding) | |
