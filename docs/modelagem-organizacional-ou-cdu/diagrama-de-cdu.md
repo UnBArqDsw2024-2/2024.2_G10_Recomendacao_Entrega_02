@@ -53,7 +53,7 @@ A figura 1 demonstra o diagrama de casos de uso resultante.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Diagrama de caso de uso do site ChefIndica</p></font>
 
-<img src="../../docs/imagens/diagrama-de-cdu.png" class="usecaseElement" width="80%">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/diagrama-de-cdu.png" class="usecaseElement" width="80%">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>, <a href="https://github.com/cqcoding">Cecília Quaresma</a>, <a href="https://github.com/VieiraLaris">Larissa Vieira</a>, <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>, <a href="https://github.com/lucas13032003">Lucas Victor</a>, <a href="https://github.com/Maliz30">Maria Alice</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2024</p></font>
 
