@@ -14,9 +14,38 @@
 
 ## Metodologia 
 
-<p style="text-align: justify; text-indent: 2em;"> </p>
+<p style="text-align: justify; text-indent: 2em;"> A representação das histórias de usuário seguirá o seguinte padrão: </p>
+
+
+<div align="center">
+
+   <font size="3">
+         <p><b>Tabela 1:</b> Estrutura da Tabela</p>
+   </font>
+
+|Identificador|História de usuário|Critérios de aceitação|
+|--|--|--|
+| - | - | - |
+
+   <font size="3">
+         <p><b>Fonte:</b> <a href="https://github.com/juliaryoshida">Júlia Yoshida</a>, 2024</p>
+   </font>
+
+</div>
+
+<p style="text-align: justify; text-indent: 2em;">Onde:</p>
+
+ - **Identificador**: Um código único atribuído à história de usuário para identificá-lo de forma clara e inequívoca dentro do projeto. Facilita o rastreamento e a referência durante o desenvolvimento, testes e manutenção. Exemplo: US01(User Story 01).
+ - **História de usuário**: Um rótulo curto e direto que identifica o requisito de forma resumida.
+ - **Critérios de aceitação**: Os critérios de aceitação funcionam como um conjunto de regras e testes que devem ser atendidos para garantir que o sistema esteja funcionando conforme esperado. Eles servem como uma base para validar a entrega da funcionalidade e garantir que o resultado esteja alinhado com os requisitos do usuário.
+
 
 ## Histórias de Usuário
+
+<div align="center">
+   <font size="3">
+         <p><b>Tabela 2:</b> Histórias de usuário</p>
+   </font>
 
 |Identificador|História de Usuário|Critérios de aceitação|
 |-|-|-|
@@ -31,13 +60,21 @@
 |US09|Eu, como usuário, quero fazer logout do sistema, para que minha sessão seja encerrada e minha conta fique segura até o próximo login.||
 |US10|||
 
+
+   <font size="3">
+         <p><b>Fonte:</b> <a href="https://github.com/juliaryoshida">Júlia Yoshida</a>, 2024</p>
+   </font>
+</div>
+
 ## Bibliografia
 
 ## Referências Bibliográficas
 
 > **PRESSMAN, Roger S**. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: McGraw-Hill, 2016.
-
+>
 > **COHN, Mike**. User stories applied: for agile software development. Boston: Addison-Wesley, 2004.
+>
+> **PATTON, Jeff**. User Story Mapping: Discover the Whole Story, Build the Right Product. 1. ed. Sebastopol: O'Reilly Media, 2014.
 
 ## Histórico de Versão
 
