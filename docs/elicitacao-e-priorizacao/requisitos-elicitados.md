@@ -30,9 +30,22 @@
  - **Descrição**: Uma explicação detalhada do requisito, descrevendo a funcionalidade ou característica que o sistema deve ter.
 
 
-## Representação dos requisitos
+## Requisitos Funcionais
 
+<p style="text-align: justify; text-indent: 2em;">A seguir, temos a tabela de requisitos funcionais:</p>
 
+|Identificador|Nome|Descrição|
+|--|--|--|
+| RF01 | Cadastrar usuário | O sistema deve permitir que novos usuários se cadastrem informando nome completo, e-mail, senha e telefone. O sistema deve validar a unicidade do e-mail e enviar um e-mail de confirmação após o cadastro. |
+| RF02 | Editar dados da conta de usuário | O sistema deve permitir que usuários autenticados editem suas informações de conta, como nome, e-mail e senha. O sistema deve validar as alterações para garantir que o e-mail seja único. |
+| RF03 | Visualizar dados de conta de usuário | O sistema deve permitir que um usuário autenticado visualize seus dados cadastrais, incluindo nome, e-mail e telefone. |
+| RF04 | Excluir conta de usuário | O sistema deve permitir que um usuário autenticado exclua sua conta, removendo todos os dados relacionados a ela do sistema. A exclusão deve ser permanente após a confirmação do usuário. |
+| RF05 | Cadastro de restaurante | - |
+| RF06 | Editar dados de restaurante | - |
+| RF07 | Visualizar dados de restaurante | O sistema deve permitir que os usuários visualizem as informações de um restaurante, incluindo nome, tipo de culinária, endereço e horários de funcionamento. |
+| RF08 | Excluir restaurante cadastrado | - |
+| RF09 | Login de usuário | O sistema deve permitir que um usuário autenticado faça login no sistema utilizando seu e-mail e senha. O sistema deve verificar a autenticidade das credenciais e permitir o acesso ao sistema se as informações forem válidas. |
+| RF10 | Logout de usuário | O sistema deve permitir que um usuário autenticado realize logout, desconectando sua sessão e garantindo que não haja mais acesso às funcionalidades restritas até o próximo login. |
 
 ## Bibliografia
 
@@ -45,3 +58,4 @@
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |27/11/2024| Adicionando introdução e metodologia | [Júlia Yoshida](https://github.com/juliaryoshida) |[Maria Alice](https://github.com/Maliz30) |
+| `1.1`  |27/11/2024| Adicionando requisitos| [Júlia Yoshida](https://github.com/juliaryoshida) |[Maria Alice](https://github.com/Maliz30) |
