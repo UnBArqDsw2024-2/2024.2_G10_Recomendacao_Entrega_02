@@ -18,9 +18,18 @@
 
 <div align="center">
 
+
+   <font size="3">
+         <p><b>Tabela 1:</b> Estrutura da tabela</p>
+   </font>
+
 |Identificador|Nome|Descrição|
 |--|--|--|
 | - | - | - |
+
+   <font size="3">
+         <p><b>Fonte:</b> <a href="https://github.com/juliaryoshida">Júlia Yoshida</a>, 2024</p>
+   </font>
 
 </div>
 <p style="text-align: justify; text-indent: 2em;">Onde:</p>
@@ -33,6 +42,12 @@
 ## Requisitos Funcionais
 
 <p style="text-align: justify; text-indent: 2em;">A seguir, temos a tabela de requisitos funcionais:</p>
+
+<div align="center">
+   <font size="3">
+         <p><b>Tabela 2:</b> Tabela de requisitos funcionais</p>
+   </font>
+</div>
 
 |Identificador|Nome|Descrição|
 |--|--|--|
@@ -59,8 +74,11 @@
 | RF21 | Ordenar avaliação | O sistema deve permitir que o usuário ordene as avaliações de um restaurante em ordem crescente ou decrescente com base no número de curtidas ou data de criação da avaliação |
 
 
-
-
+<div align="center">
+   <font size="3">
+         <p><b>Fonte:</b> <a href="https://github.com/cqcoding">Cecília Quaresma</a>, <a href="https://github.com/juliaryoshida">Júlia Yoshida</a> e <a href="https://github.com/Maliz30">Maria Alice</a>, 2024</p>
+   </font>
+</div>
 
 
 
@@ -78,3 +96,4 @@
 | `1.1`  |27/11/2024| Adicionando requisitos| [Júlia Yoshida](https://github.com/juliaryoshida) |[Maria Alice](https://github.com/Maliz30) |
 | `1.2`  |27/11/2024| Adicionando requisitos| [Cecília Quaresma](https://github.com/cqcoding) | [Maria Alice](https://github.com/Maliz30) |
 | `1.3`  |28/11/2024| Adicionando e corrigindo requisitos| [Maria Alice](https://github.com/Maliz30) | [Júlia Yoshida](https://github.com/juliaryoshida) |
+| `1.4`  |28/11/2024| Adicionando fonte e descrição das tabelas| [Júlia Yoshida](https://github.com/juliaryoshida) | [Cecília Quaresma](https://github.com/cqcoding) |
