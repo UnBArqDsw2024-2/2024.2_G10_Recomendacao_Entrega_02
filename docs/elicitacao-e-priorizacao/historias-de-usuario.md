@@ -14,30 +14,22 @@
 
 ## Metodologia 
 
-<p style="text-align: justify; text-indent: 2em;"> A construção de histórias de usuário segue um processo lógico, garantindo alinhamento e clareza para todas as partes envolvidas: </p>
-
-1. **Identificação dos Perfis de Usuários**  
-   - Identifica-se quem são os principais usuários do sistema, incluindo suas metas, desafios e expectativas.  
-   - Esses perfis orientam o desenvolvimento das histórias.
-
-2. **Coleta de Informações**  
-   - Levantam-se as necessidades que o sistema deve atender por meio de reuniões e análise dos processos existentes.
-
-3. **Estruturação das Histórias**  
-   - As histórias de usuário escritas no formato padrão, priorizando clareza e simplicidade.  
-
-4. **Critérios de Aceitação**  
-   - São definidos critérios específicos e objetivos que ajudam a avaliar se a funcionalidade atende às expectativas.
-
-5. **Organização e Priorização**  
-   - As histórias são classificadas com base em sua relevância e impacto, permitindo o planejamento eficiente das entregas.
-
----
-
-<p style="text-align: justify; text-indent: 2em;"> Essa metodologia pode ser aplicada em diversos contextos de desenvolvimento de software, independentemente do método de gerenciamento adotado, para melhorar a comunicação e o foco no usuário. </p>
-
+<p style="text-align: justify; text-indent: 2em;"> </p>
 
 ## Histórias de Usuário
+
+|Identificador|História de Usuário|Critérios de aceitação|
+|-|-|-|
+|US01|Eu, como usuário, quero me cadastrar no sistema, para poder realizar avaliações de restaurantes.||
+|US02|Eu, como usuário autenticado, quero editar os dados da minha conta, para manter minhas informações corretas e atualizadas.||
+|US03|Eu, como usuário autenticado, quero visualizar meu dados cadastrais, para que eu possa verificar e confirmar as informações da minha conta.||
+|US04|Eu, como usuário autenticado, quero excluir minha conta, para que eu possa remover todos os dados associados a ela do sistema.||
+|US05|Eu, como usuário autenticado, quero poder cadastrar um restaurante, caso ele não exista ainda no sistema, para realizar uma avaliação do mesmo.||
+|US06|Eu, como usuário autenticado, quero poder editar os dados do restaurante, para que as informações estejam atualizadas.||
+|US07|Eu, como usuário, quero visualizar as informações de um restaurante, para que eu possa escolher em qual restaurante irei.||
+|US08|Eu, como usuário, quero fazer login no sistema, para que eu possa acessar minha conta e realizar avaliações de restaurantes. ||
+|US09|Eu, como usuário, quero fazer logout do sistema, para que minha sessão seja encerrada e minha conta fique segura até o próximo login.||
+|US10|||
 
 ## Bibliografia
 
@@ -52,3 +44,4 @@
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |19/11/2024| Adicionando introdução e metodologia das US | [Júlia Yoshida](https://github.com/juliaryoshida) |[Maria Alice](https://github.com/Maliz30)|
+| `1.1`  |27/11/2024| Adicionando histórias de usuário | [Júlia Yoshida](https://github.com/juliaryoshida) |[Maria Alice](https://github.com/Maliz30)|
