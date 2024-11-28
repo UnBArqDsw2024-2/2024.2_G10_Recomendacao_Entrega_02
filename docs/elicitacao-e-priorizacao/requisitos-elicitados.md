@@ -1,45 +1,44 @@
-# Requisitos Elicitados
+# Representação dos Requisitos Funcionais
 
 ## Introdução
 
-<p style="text-align: justify; text-indent: 2em;"> A elicitação de requisitos é uma etapa fundamental no desenvolvimento de software, pois define as necessidades dos stakeholders e os objetivos do sistema a ser construído. Esse processo consiste em coletar, documentar e validar os requisitos necessários para garantir que o produto final atenda às expectativas dos usuários e ao escopo do projeto.</p>
+<p style="text-align: justify; text-indent: 2em;"> A representação dos requisitos funcionais é um passo essencial no desenvolvimento de software, uma vez que define claramente as funcionalidades e comportamentos que o sistema deve apresentar. Os requisitos funcionais são descrições detalhadas do que o sistema deve fazer, como processar dados, interagir com os usuários e outros sistemas, ou realizar tarefas específicas. Essas informações servem como base para o desenvolvimento, testes e validação do sistema.</p>
 
-<p style="text-align: justify; text-indent: 2em;"> De acordo com Sommerville (2011), a elicitação é um processo interativo que envolve várias técnicas para compreender o ambiente do sistema e identificar as funções e restrições desejadas. Uma abordagem sistemática na elicitação de requisitos pode reduzir inconsistências, ambiguidades e lacunas, garantindo um desenvolvimento mais eficiente e alinhado aos objetivos do cliente.</p>
+<p style="text-align: justify; text-indent: 2em;"> Representar requisitos de forma clara e precisa é fundamental para garantir que os desenvolvedores compreendam as expectativas dos stakeholders e construam o sistema de acordo com essas necessidades. Além disso, a representação adequada reduz o risco de mal-entendidos, atrasos ou falhas no projeto.</p>
 
-<p style="text-align: justify; text-indent: 2em;"> Este documento apresenta a metodologia adotada para a elicitação de requisitos do projeto e os requisitos identificados até o momento.</p>
+<p style="text-align: justify; text-indent: 2em;"> Autores como Sommerville (2011) e Pressman (2014) destacam que a correta representação dos requisitos não só facilita a comunicação entre as partes envolvidas no projeto, mas também ajuda a identificar e corrigir problemas de maneira mais eficiente durante o ciclo de vida do desenvolvimento.</p>
 
 ## Metodologia
 
-<p style="text-align: justify; text-indent: 2em;"> A metodologia de elicitação de requisitos adotada combina técnicas tradicionais e modernas para assegurar uma coleta de informações abrangente e precisa. Com base nas recomendações de Pressman (2020) e Sommerville (2011), as seguintes etapas e técnicas foram utilizadas:</p>
+<p style="text-align: justify; text-indent: 2em;"> Para que pudéssemos representar e organizar os requisitos, primeiramente foi necessário identificar os stakeholders e elicitar os requisitos do sistema. Para isso, durante o Design Sprint, realizamos <a href="https://unbarqdsw2024-2.github.io/2024.2_G10_Recomendacao_Entrega_01/#/Base/1.1.DesignSprint?id=quem-s%c3%a3o-os-usu%c3%a1rios">questionários</a> para identificar os potenciais usuários do sistema e de técnicas de coleta de requisitos, como <a href="https://unbarqdsw2024-2.github.io/2024.2_G10_Recomendacao_Entrega_01/#/Base/1.1.DesignSprint?id=brainstorm">Brainstorming</a> e <a href="https://unbarqdsw2024-2.github.io/2024.2_G10_Recomendacao_Entrega_01/#/Base/1.1.DesignSprint?id=etapa-4-prototipar">Protótipos</a>. Os links das palavras destacadas levam para a sua documentação.</p>
 
-1. **Identificação de Stakeholders**
-    - Objetivo: Identificar todas as partes interessadas que podem impactar ou ser impactadas pelo sistema.
-    - Técnica: Questionário com potenciais usuários do sistema.
+<p style="text-align: justify; text-indent: 2em;"> A técnica escolhida para a representação de requisitos foi a descrição textual estruturada. A descrição textual estruturada é uma técnica amplamente utilizada para representar requisitos funcionais em projetos de software. Ela organiza os requisitos de forma clara e objetiva, descrevendo o que o sistema deve fazer sem ambiguidades, facilitando a comunicação entre todos os envolvidos no processo de desenvolvimento. Esse formato é frequentemente usado em projetos de pequeno e médio porte, onde os requisitos podem ser definidos com relativa simplicidade, sem a necessidade de diagramas complexos. </p>
 
-2. **Técnicas de Coleta de Requisitos**
-    - Brainstorming: Reuniões para gerar o maior número possível de ideias ou soluções relacionadas a um problema ou necessidade específica. 
-    - Observação: Identificar como as pessoas interagem com sistemas, ferramentas e fluxos de atividades no ambiente onde o software será utilizado.
-    - Protótipos: Desenvolver protótipos iniciais para identificar e validar requisitos de forma iterativa.
+<p style="text-align: justify; text-indent: 2em;">Portanto, decidimos por representar os requisitos funcionais elicitados da seguinte forma: </p>
 
-3. **Representação e Organização**
-    - Objetivo: Estruturar os requisitos de forma lógica e clara.
-    - Técnica: Descrição textual estruturada.
+<div align="center">
 
-<p style="text-align: justify; text-indent: 2em;"> Tanto a identificação dos stakeholders e a coleta de requisitos foram realizadas durante o Design Sprint da entrega anterior e a sua documentação pode ser encontrada <a href="https://unbarqdsw2024-2.github.io/2024.2_G10_Recomendacao_Entrega_01/#/Base/1.1.DesignSprint?id=brainstorm)">aqui</a>. A representação e organização se encontra a seguir. </p>
+|Identificador|Nome|Descrição|
+|--|--|--|
+| - | - | - |
+
+</div>
+<p style="text-align: justify; text-indent: 2em;">Onde:</p>
+
+ - **Identificador**: Um código único atribuído ao requisito para identificá-lo de forma clara e inequívoca dentro do projeto. Facilita o rastreamento e a referência durante o desenvolvimento, testes e manutenção. Exemplo: RF01(Requisito Funcional 01).
+ - **Nome**: Um rótulo curto e direto que identifica o requisito de forma resumida.
+ - **Descrição**: Uma explicação detalhada do requisito, descrevendo a funcionalidade ou característica que o sistema deve ter.
+
 
 ## Representação dos requisitos
+
+
 
 ## Bibliografia
 
 > Sommerville, I. Software Engineering. Addison-Wesley, 2011.
 >
 > Pressman, R. S. Engenharia de Software: uma abordagem profissional. McGraw Hill, 2020.
-
-## Referências Bibliográficas
-
-> Boehm, B. W. Requirements Engineering: A Roadmap. Proceedings of the Conference on the Future of Software Engineering, 2000.
->
-> Wiegers, K. E., Beatty, J. Software Requirements. Microsoft Press, 2013.
 
 ## Histórico de Versão
 
