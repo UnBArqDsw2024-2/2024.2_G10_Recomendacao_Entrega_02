@@ -95,7 +95,7 @@ O _Softgoal Interdependency Graph_ do softgoal "Usabilidade" pode ser visto na f
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 3:</b> Softgoal Interdependency Graph do softgoal "Usabilidade".</p></font>
 
-<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/imagens/NFR_usabilidade.png?raw=true" style="width: 85%;">
+<img src="/home/lv/Documentos/Chefindica/2024.2_G10_Recomendacao_Entrega_02/docs/imagens/Usanilidade_NFR.png" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
 </div>
