@@ -42,8 +42,7 @@ _Luana e LV_
 </div>
 
 ### Diagrama de Registro e Autenticação 
-*Breve explicação... Olhar Cenário 1: Fazer Login e Cenário 2: Fazer Cadastro* 
-
+O Diagrama de Registro e Autenticação apresentado na Figura 2 ilustra o fluxo de atividades relacionadas às interações de usuários no sistema, destacando as ações necessárias para realizar login ou cadastro. O diagrama divide as responsabilidades entre o Usuário e o Sistema, demonstrando a troca de informações e validações para garantir uma experiência segura e eficiente.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Diagrama de atividade de Registro e Autenticação</p></font>
 
