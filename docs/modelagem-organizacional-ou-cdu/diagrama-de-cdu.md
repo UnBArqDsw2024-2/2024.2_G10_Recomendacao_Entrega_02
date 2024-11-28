@@ -230,7 +230,7 @@ A tabela 8 demonstra a especificação do caso de uso UC05 Pesquisar por Restaur
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>, 2024</p></font>
 </div > 
 
-### UC06. Filtrar por Categoria
+### UC06. Filtrar Restaurantes por Categoria
 
 A tabela 9 demonstra a especificação do caso de uso UC06 Filtrar por Categoria.
 
@@ -238,15 +238,64 @@ A tabela 9 demonstra a especificação do caso de uso UC06 Filtrar por Categoria
 <font size="3"><p style="text-align: center"><b>Tabela 9:</b> Especificação do caso de uso UC06</p></font>
 </div>
 
-| UC06 |  Filtrar por Categoria |
+| UC06 |  Filtrar Restaurantes por Categoria |
 | -: | :- |
-| **Ator(es)** |  Usuário que deseja encontrar restaurantes em categorias específicas (ex.: culinária mexicana, brasileira, etc.).        |
+| **Ator(es)** |  Usuário que deseja encontrar restaurantes de categorias específicas (Categorias listadas abaixo desta tabela*).       |
 | **Frequência de uso** |  Alta |
-| **Pré-condições** | - O usuário deve ter acesso à internet.<br>- O sistema deve estar disponível.<br>- O usuário deve acessar a página de busca de restaurantes.                          |
-| **Fluxo básico** | 1. O usuário acessa a página de busca de restaurantes.<br>2. O usuário seleciona uma ou mais categorias de filtro (ex.: culinária italiana, faixa de preço média).<br>3. O sistema aplica os filtros selecionados.<br>4. O sistema exibe os restaurantes que atendem aos critérios escolhidos.<br>5. O usuário visualiza os resultados e pode acessar as informações de um restaurante.<br>6. Fim do caso de uso.|
-| **Fluxos alternativos** | **FA01: Nenhum restaurante encontrado**<br>1. O sistema não encontra restaurantes que correspondam aos critérios selecionados.<br>2. O sistema exibe uma mensagem informando que não há resultados.<br>3. O usuário pode redefinir os filtros.<br>4. Retorna ao passo FB02.                                                                                   |
+| **Pré-condições** | PRE01. O usuário deve ter acesso à internet;<br>PRE02. O sistema deve estar disponível;<br>PRE03. O usuário deve acessar a página de busca de restaurantes.                          |
+| **Fluxo básico** | **FB** <br> 1. O usuário acessa a página de busca de restaurantes.<br>2. O usuário seleciona uma ou mais categorias para o filtro.<br>3. O sistema aplica os filtros selecionados.<br>4. O sistema exibe os restaurantes que correspondem as categorias escolhidas.<br>5. O usuário visualiza os resultados e pode acessar um restaurante.<br>6. Fim do caso de uso.|
+| **Fluxos alternativos** | **FA01: Nenhum restaurante encontrado**<br>1. O sistema não encontra restaurantes que correspondam as categorias escolhidas.<br>2. O sistema exibe uma mensagem informando que não há resultados.<br>3. O usuário pode redefinir os filtros.<br>4. Retorna ao passo FB02.                                                                                   |
 | **Fluxos de exceção** | **FE01: Falha de conexão**<br>1. O sistema não consegue carregar os resultados da busca.<br>2. O sistema exibe uma mensagem informando a indisponibilidade temporária.<br>3. Fim do caso de uso. |
-| **Pós-condições** | O sistema exibe os restaurantes filtrados ou informa a ausência de resultados com base nos critérios escolhidos.              |
+| **Pós-condições** | POS01. O sistema exibe uma listagem dos restaurantes de acordo com a categoria selecionada ou informa a ausência de resultados com base na categoria escolhida.              |
+| **Data da criação** | 27/11/24 |
+| **Rastreabilidade** |  |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Maliz30">Maria Alice</a>, 2024</p></font>
+</div >
+
+**Categorias:** Brasileira, Japonesa, Chinesa, Italiana, Árabe, Doces e sobremesas, Mexicana, Fast-food, Padaria/Café, Hambúrguer, Lámen, Pizza, Bolos, Sorvete, Café da manhã, Vegano, Sem glúten, Vegetariano, Bebidas, Self-service, Churrasco ou Frutos do mar.
+
+### UC06.1. Exibir listagem de restaurantes da categoria
+A tabela 10 demonstra a especificação do caso de uso UC06.1 Exibir listagem de restaurantes da categoria.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Especificação do caso de uso UC06.1</p></font>
+</div>
+
+| UC06.1 |  Exibir listagem de restaurantes da categoria |
+| -: | :- |
+| **Ator(es)** | Sistema |
+| **Frequência de uso** | Alta |
+| **Pré-condições** | PRE01. Haverem restaurantes cadastrados para a categoria escolhida. |
+| **Fluxo básico** | **FB** <br> 1. O usuário filtra restaurantes usando uma ou mais categorias. <br>2. O sistema exibe uma listagem de restaurantes que correspondem as categorias selecionada. |
+| **Fluxos alternativos** | --- |
+| **Fluxos de exceção** | **FE01: Falha de conexão**<br>1. O sistema não consegue carregar os resultados da busca.<br>2. O sistema exibe uma mensagem informando a indisponibilidade temporária.<br>3. Fim do caso de uso. |
+| **Pós-condições** | POS01. O usuário visualiza uma listagem contendo todos os restaurantes cadastrados na categoria escolhida. |
+| **Data da criação** | 27/11/24 |
+| **Rastreabilidade** |  |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Maliz30">Maria Alice</a>, 2024</p></font>
+</div >
+
+### UC06.2. Exibir mensagem informado a ausência de restaurantes
+
+A tabela 11 demonstra a especificação do caso de uso UC06.2 Exibir mensagem informado a ausência de restaurantes.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Especificação do caso de uso UC06.2</p></font>
+</div>
+
+| UC06.2 |  Exibir mensagem informado a ausência de restaurantes |
+| -: | :- |
+| **Ator(es)** | Sistema |
+| **Frequência de uso** | Média |
+| **Pré-condições** | PRE01. Não haverem restaurantes cadastrados para a categoria escolhida. |
+| **Fluxo básico** | **FB** <br> 1. O usuário filtra restaurantes usando uma ou mais categorias. <br>2. O sistema informa que não há restaurantes com essas categorias na base de dados. |
+| **Fluxos alternativos** | --- |
+| **Fluxos de exceção** | --- |
+| **Pós-condições** | POS01. O sistema exibe uma mensagem informando que não há resultados cadastrados para aquela categoria; <br> POS02. O usuário cadastra um restaurante na categoria escolhida. |
 | **Data da criação** | 27/11/24 |
 | **Rastreabilidade** |  |
 
@@ -256,10 +305,10 @@ A tabela 9 demonstra a especificação do caso de uso UC06 Filtrar por Categoria
 
 ### UC07. Cadastrar Restaurante
 
-A tabela 10 demonstra a especificação do caso de uso UC07 Cadastrar Restaurante.
+A tabela 12 demonstra a especificação do caso de uso UC07 Cadastrar Restaurante.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Especificação do caso de uso UC07</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 12:</b> Especificação do caso de uso UC07</p></font>
 </div>
 
 | UC07 |  Cadastrar Restaurante |
@@ -297,4 +346,5 @@ A tabela 10 demonstra a especificação do caso de uso UC07 Cadastrar Restaurant
 | `1.4`  |21/11/2024| Adição do caso de uso UC02  | [Lucas Víctor](https://github.com/Lucas3032003) |  [Luana Medeiros](https://github.com/LuaMedeiros)|
 | `1.5`  |21/11/2024| Adição do caso de uso UC04  | [Cecília Quaresma](https://github.com/cqcoding) | [Caio Mesquita](https://github.com/Caiomesvie) |
 | `1.6`  |27/11/2024| Adição do caso de uso UC05  |  [Caio Mesquita](https://github.com/Caiomesvie) | [Cecília Quaresma](https://github.com/cqcoding)|
-| `1.7`  |27/11/2024| Adição do novo diagrama | [Cecília Quaresma](https://github.com/cqcoding)| |
+| `1.7`  |27/11/2024| Adição do novo diagrama | [Cecília Quaresma](https://github.com/cqcoding)| [Maria Alice](https://github.com/Maliz30) |
+| `1.8`  |27/11/2024| Adição de especificação de casos de uso UC06 | [Maria Alice](https://github.com/Maliz30) | [Cecília Quaresma](https://github.com/cqcoding) |
