@@ -95,7 +95,7 @@ O _Softgoal Interdependency Graph_ do softgoal "Usabilidade" pode ser visto na f
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 3:</b> Softgoal Interdependency Graph do softgoal "Usabilidade".</p></font>
 
-<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/imagens/NFR_usabilidade.png?raw=true" style="width: 85%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/imagens/Usabilidade_NFR.png?raw=true " style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
 </div>
@@ -107,7 +107,7 @@ A propagação de impactos do softgoal "Usabilidade" pode ser visto na figura 4.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 4:</b> Propagação de impactos do softgoal "Usabilidade"</p></font>
 
-<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/imagens/Usanilidade_NFR.png?raw=true" style="width: 85%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/imagens/Usabildade_Propaga%C3%A7%C3%A3o.png?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
 </div>
@@ -175,7 +175,7 @@ O _Softgoal Interdependency Graph_ do softgoal "Confiabilidade (Reliability)" po
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 5:</b> Softgoal Interdependency Graph do softgoal "Confiabilidade (Reliability)".</p></font>
 
-<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/imagens/NFR%20-%20Page%201.png?raw=true" style="width: 85%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/imagens/Confiabilidade_NFR.png?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
 </div>
@@ -188,7 +188,7 @@ A propagação de impactos do softgoal "Confiabilidade (Reliability)" pode ser v
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 6:</b> Propagação de impactos do softgoal "Confiabilidade (Reliability)"</p></font>
 
-<img src="#" style="width: 85%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/nfr_framework/docs/imagens/Confiabilidade_propaga%C3%A7%C3%A3o.png?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, 2024</p></font>
 </div>
@@ -592,4 +592,5 @@ A aplicação do NFR Framework ao ChefIndica permitiu estruturar os requisitos n
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |20/11/2024| NRF-Framework introdução | [Lucas Víctor](https://github.com/Lucas13032003 ) |[Zenilda Vieira](https://github.com/zenildavieira)  | 
-| `1.1`  |23/11/2024| Complemento da Introdução, Metodologia e inclusão dos NFR03 e NFR04 |[Zenilda Vieira](https://github.com/zenildavieira)  |  | 
+| `1.1`  |23/11/2024| Complemento da Introdução, Metodologia e inclusão dos NFR03 e NFR04 |[Zenilda Vieira](https://github.com/zenildavieira)  | [Lucas Víctor](https://github.com/Lucas13032003 )| 
+| `1.1`  |28/11/2024| Adição do NRF-Framework Usabilidade e Confiabilidade | [Lucas Víctor](https://github.com/Lucas13032003 ) |[Zenilda Vieira](https://github.com/zenildavieira)  | 
