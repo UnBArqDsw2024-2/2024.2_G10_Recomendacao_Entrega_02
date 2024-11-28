@@ -53,7 +53,7 @@ A figura 1 demonstra o diagrama de casos de uso resultante.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Diagrama de caso de uso do site ChefIndica</p></font>
 
-<img src="../../docs/imagens/diagrama_cdu.png" class="usecaseElement" width="80%">
+<img src="../../docs/imagens/diagrama-de-cdu.png" class="usecaseElement" width="80%">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>, <a href="https://github.com/cqcoding">Cecília Quaresma</a>, <a href="https://github.com/VieiraLaris">Larissa Vieira</a>, <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>, <a href="https://github.com/lucas13032003">Lucas Victor</a>, <a href="https://github.com/Maliz30">Maria Alice</a> e <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2024</p></font>
 
@@ -240,14 +240,14 @@ A tabela 9 demonstra a especificação do caso de uso UC06 Filtrar por Categoria
 
 | UC06 |  Filtrar por Categoria |
 | -: | :- |
-| **Ator(es)** |  |
-| **Frequência de uso** |  |
-| **Pré-condições** | |
-| **Fluxo básico** | |
-| **Fluxos alternativos** |   |
-| **Fluxos de exceção** |  |
-| **Pós-condições** |  |
-| **Data da criação** | |
+| **Ator(es)** |  Usuário que deseja encontrar restaurantes em categorias específicas (ex.: culinária mexicana, brasileira, etc.).        |
+| **Frequência de uso** |  Alta |
+| **Pré-condições** | - O usuário deve ter acesso à internet.<br>- O sistema deve estar disponível.<br>- O usuário deve acessar a página de busca de restaurantes.                          |
+| **Fluxo básico** | 1. O usuário acessa a página de busca de restaurantes.<br>2. O usuário seleciona uma ou mais categorias de filtro (ex.: culinária italiana, faixa de preço média).<br>3. O sistema aplica os filtros selecionados.<br>4. O sistema exibe os restaurantes que atendem aos critérios escolhidos.<br>5. O usuário visualiza os resultados e pode acessar as informações de um restaurante.<br>6. Fim do caso de uso.|
+| **Fluxos alternativos** | **FA01: Nenhum restaurante encontrado**<br>1. O sistema não encontra restaurantes que correspondam aos critérios selecionados.<br>2. O sistema exibe uma mensagem informando que não há resultados.<br>3. O usuário pode redefinir os filtros.<br>4. Retorna ao passo FB02.                                                                                   |
+| **Fluxos de exceção** | **FE01: Falha de conexão**<br>1. O sistema não consegue carregar os resultados da busca.<br>2. O sistema exibe uma mensagem informando a indisponibilidade temporária.<br>3. Fim do caso de uso. |
+| **Pós-condições** | O sistema exibe os restaurantes filtrados ou informa a ausência de resultados com base nos critérios escolhidos.              |
+| **Data da criação** | 27/11/24 |
 | **Rastreabilidade** |  |
 
 <div align="center">
@@ -296,4 +296,5 @@ A tabela 10 demonstra a especificação do caso de uso UC07 Cadastrar Restaurant
 | `1.3`  |21/11/2024| Adição do caso de uso UC07 | [Luana Medeiros](https://github.com/LuaMedeiros) | [Lucas Víctor](https://github.com/Lucas3032003) |
 | `1.4`  |21/11/2024| Adição do caso de uso UC02  | [Lucas Víctor](https://github.com/Lucas3032003) |  [Luana Medeiros](https://github.com/LuaMedeiros)|
 | `1.5`  |21/11/2024| Adição do caso de uso UC04  | [Cecília Quaresma](https://github.com/cqcoding) | [Caio Mesquita](https://github.com/Caiomesvie) |
-| `1.6`  |27/11/2024| Adição do caso de uso UC05  |  [Caio Mesquita](https://github.com/Caiomesvie) | |
+| `1.6`  |27/11/2024| Adição do caso de uso UC05  |  [Caio Mesquita](https://github.com/Caiomesvie) | [Cecília Quaresma](https://github.com/cqcoding)|
+| `1.7`  |27/11/2024| Adição do novo diagrama | [Cecília Quaresma](https://github.com/cqcoding)| |
