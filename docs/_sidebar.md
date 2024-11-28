@@ -26,5 +26,6 @@
         - [2.5.1 Histórias de Usuário](/elicitacao-e-priorizacao/historias-de-usuario.md)
         - [2.5.2 Requisitos Elicitados](/elicitacao-e-priorizacao/requisitos-elicitados.md)
         - [2.5.3 NFR Framework](/elicitacao-e-priorizacao/nfr-framework.md)
+        - [2.5.3 MoSCoW](/elicitacao-e-priorizacao/moscow.md)
     - [2.6. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.7. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
