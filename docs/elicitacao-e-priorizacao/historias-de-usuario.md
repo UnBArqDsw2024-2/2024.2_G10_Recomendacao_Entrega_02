@@ -49,16 +49,21 @@
 
 |Identificador|História de Usuário|Critérios de aceitação|
 |-|-|-|
-|US01|Eu, como usuário, quero me cadastrar no sistema, para poder realizar avaliações de restaurantes.||
-|US02|Eu, como usuário autenticado, quero editar os dados da minha conta, para manter minhas informações corretas e atualizadas.||
-|US03|Eu, como usuário autenticado, quero visualizar meu dados cadastrais, para que eu possa verificar e confirmar as informações da minha conta.||
-|US04|Eu, como usuário autenticado, quero excluir minha conta, para que eu possa remover todos os dados associados a ela do sistema.||
-|US05|Eu, como usuário autenticado, quero poder cadastrar um restaurante, caso ele não exista ainda no sistema, para realizar uma avaliação do mesmo.||
-|US06|Eu, como usuário autenticado, quero poder editar os dados do restaurante, para que as informações estejam atualizadas.||
+|US01|Eu, como usuário, quero me cadastrar no sistema, para poder realizar avaliações de restaurantes.|1. O sistema deve permitir o cadastro de usuário com os seguintes dados: nome, email, senha, data de nascimento e endereço.</br>2. O sistema deve validar o formato do email.</br>3. A senha deve ter no mínimo 6 caracteres e ser confirmada.</br>4. Após o cadastro, o sistema deve enviar um email de confirmação para o endereço informado.|
+|US02|Eu, como usuário autenticado, quero editar os dados da minha conta, para manter minhas informações corretas e atualizadas.|1. O sistema deve permitir que o usuário edite os dados: nome, email, senha e endereço.</br>2. O sistema deve exigir a senha atual para permitir a alteração dos dados.</br>3. O sistema deve validar os novos dados antes de confirmar a edição (exemplo: verificar se o email está em formato correto).|
+|US03|Eu, como usuário autenticado, quero visualizar meu dados cadastrais, para que eu possa verificar e confirmar as informações da minha conta.|1. O sistema deve permitir a exclusão da conta do usuário.</br>2. O sistema deve pedir uma confirmação de exclusão para evitar exclusões acidentais.</br>3. Após a exclusão, todos os dados relacionados ao usuário devem ser removidos do sistema.</br>4. O usuário não deve conseguir acessar o sistema após a exclusão.|
+|US04|Eu, como usuário autenticado, quero excluir minha conta, para que eu possa remover todos os dados associados a ela do sistema.|1. O sistema deve permitir o cadastro de um novo restaurante com os seguintes dados: nome, endereço, telefone, categoria, e descrição.</br>2. O sistema deve verificar se o restaurante já está cadastrado antes de permitir o cadastro.|
+|US05|Eu, como usuário autenticado, quero cadastrar um restaurante, caso ele não exista ainda no sistema, para realizar uma avaliação do mesmo.||
+|US06|Eu, como usuário autenticado, quero editar os dados do restaurante, para que as informações estejam atualizadas.||
 |US07|Eu, como usuário, quero visualizar as informações de um restaurante, para que eu possa escolher em qual restaurante irei.||
 |US08|Eu, como usuário, quero fazer login no sistema, para que eu possa acessar minha conta e realizar avaliações de restaurantes. ||
 |US09|Eu, como usuário, quero fazer logout do sistema, para que minha sessão seja encerrada e minha conta fique segura até o próximo login.||
-|US10|||
+|US10|Eu, como usuário autenticado, quero realizar uma avaliação de um restaurante, para compartilhar minhas experiências.||
+|US11|Eu, como usuário autenticado, quero excluir uma avaliação que fiz anteriormente, para que minha opinião seja removida.||
+|US12|Eu, como usuário, quero filtrar restaurantes por categorias, para encontrar mais facilmente os restaurantes que podem me interessar.||
+|US13|Eu, como usuário, quero buscar por restaurantes específicos, para encontrar avaliações dos mesmos.||
+|US14|Eu, como usuário, quero visualizar todas as avaliações que fiz, para revisar o que já avaliei.||
+|US15|Eu, como usuário, desejo visualizar as avaliações que eu escrevi para um restaurante no topo da lista de avaliações do respectivo restaurante, para revisar o que já avaliei.||
 
 
    <font size="3">
