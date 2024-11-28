@@ -40,10 +40,10 @@
 | RF02 | Editar dados da conta de usuário | O sistema deve permitir que usuários autenticados editem suas informações de conta, como nome, e-mail e senha. O sistema deve validar as alterações para garantir que o e-mail seja único. |
 | RF03 | Visualizar dados de conta de usuário | O sistema deve permitir que um usuário autenticado visualize seus dados cadastrais, incluindo nome, e-mail e telefone. |
 | RF04 | Excluir conta de usuário | O sistema deve permitir que um usuário autenticado exclua sua conta, removendo todos os dados relacionados a ela do sistema. A exclusão deve ser permanente após a confirmação do usuário. |
-| RF05 | Cadastro de restaurante | - |
-| RF06 | Editar dados de restaurante | - |
+| RF05 | Cadastro de restaurante | O sistema deve permitir que um usuário autenticado realize o cadastro de restaurantes, inserindo nome, endereço, foto e categoria.  |
+| RF06 | Editar dados de restaurante | O sistema deve permitir que um usuário autenticado edite os dados de nome, foto, endereço e categoria de um restaurante |
 | RF07 | Visualizar dados de restaurante | O sistema deve permitir que os usuários visualizem as informações de um restaurante, incluindo nome, tipo de culinária, endereço e horários de funcionamento. |
-| RF08 | Excluir restaurante cadastrado | - |
+| RF08 | Excluir restaurante cadastrado | O sistema deve permitir que um usuário autenticado exclua um restaurante, removendo todos os dados relacionados a ele do sistema.  |
 | RF09 | Login de usuário | O sistema deve permitir que um usuário autenticado faça login no sistema utilizando seu e-mail e senha. O sistema deve verificar a autenticidade das credenciais e permitir o acesso ao sistema se as informações forem válidas. |
 | RF10 | Logout de usuário | O sistema deve permitir que um usuário autenticado realize logout, desconectando sua sessão e garantindo que não haja mais acesso às funcionalidades restritas até o próximo login. |
 | RF11 | Cadastro de avaliação | O sistema deve permitir que um usuário autenticado realize a avaliação de um restaurante desejado, podendo dar um número de estrelas e deixar um comentário de modo opcional. |
@@ -55,6 +55,9 @@
 | RF17 | Visualizar avaliações por outros usuários | O usuário deve poder acessar, no restaurante, as avaliações já feitas por terceiros.|
 | RF18 | Cadastro único | O sistema deve mostrar ao usuário, ao tentar adicionar novo restaurante, nomes similares/já existentes a fim de evitar repetições. |
 | RF19 | Obter média | O sistema deve mostrar a média de avaliações do restaurante automaticamente ao usuário.|
+| RF20 | Curtir avaliação | O sistema deve permitir que um usuário autenticado curta uma avaliação.|
+| RF21 | Ordenar avaliação | O sistema deve permitir que o usuário ordene as avaliações de um restaurante em ordem crescente ou decrescente com base no número de curtidas ou data de criação da avaliação |
+
 
 
 
@@ -73,4 +76,5 @@
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |27/11/2024| Adicionando introdução e metodologia | [Júlia Yoshida](https://github.com/juliaryoshida) |[Maria Alice](https://github.com/Maliz30) |
 | `1.1`  |27/11/2024| Adicionando requisitos| [Júlia Yoshida](https://github.com/juliaryoshida) |[Maria Alice](https://github.com/Maliz30) |
-| `1.2`  |27/11/2024| Adicionando requisitos| [Cecília Quaresma](https://github.com/cqcoding) | |
+| `1.2`  |27/11/2024| Adicionando requisitos| [Cecília Quaresma](https://github.com/cqcoding) | [Maria Alice](https://github.com/Maliz30) |
+| `1.3`  |28/11/2024| Adicionando e corrigindo requisitos| [Maria Alice](https://github.com/Maliz30) | [Júlia Yoshida](https://github.com/juliaryoshida) |
