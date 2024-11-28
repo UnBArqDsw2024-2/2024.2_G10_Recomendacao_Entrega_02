@@ -6,7 +6,7 @@ O modelo conceitual de dados é uma abstração do banco de dados. Ele represent
 
 ## Metodologia
 
-A equipe utilizou a ferramenta [BrModelo](http://www.sis4.com/brModelo/) para desenvolver o Diagrama Entidade-Relacionamento(DER). O principal diferencial desse diagrama é que ele pode ser utilizado para modelar o DER e, a partir dele, o Diagrama Lógico de Dados e o modelo físico do banco.
+A equipe utilizou a ferramenta [BrModelo](http://www.sis4.com/brModelo/) para desenvolver o Diagrama Entidade-Relacionamento(DER). O principal diferencial desse diagrama é que ele pode ser utilizado para modelar o DER e, a partir dele, o [Diagrama Lógico de Dados](https://unbarqdsw2024-2.github.io/2024.2_G10_Recomendacao_Entrega_02/#/modelagem-dados/modelo-logico) e o [Modelo Físico](https://unbarqdsw2024-2.github.io/2024.2_G10_Recomendacao_Entrega_02/#/modelagem-dados/modelo-fisico) do banco.
 
 ## Modelo conceitual 
 
