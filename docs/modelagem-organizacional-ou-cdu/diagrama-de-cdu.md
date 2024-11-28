@@ -21,24 +21,24 @@ A construção dos casos de uso do site de recomendação de restaurantes ChefIn
   </thead>
   <tbody>
     <tr>
-      <td><figure class="usecaseElement" style="width: 20%; display: flex;"><img src="xxx" alt="Ator"></figure></td>
+      <td><figure class="usecaseElement" style="width: 20%; display: flex;"><img src="#" alt="Ator"></figure></td>
       <td>Ator</td>
-      <td>xxx</td>
+      <td>Representam os diferentes tipos de usuários externos que interagem com o sistema</td>
     </tr>
     <tr>
-      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="xxx" alt="Elipse (Caso de Uso)"></figure></td>
+      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="#" alt="Elipse (Caso de Uso)"></figure></td>
       <td>Elipse (Caso de Uso)</td>
-      <td>xxx</td>
+      <td>É usada para representar os casos de uso no diagrama. Um caso de uso descreve uma funcionalidade ou uma ação específica que o sistema pode realizar em resposta às interações dos atores. A elipse contém o nome do caso de uso</td>
     </tr>
     <tr>
-      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="xxx" alt="Retângulo (Sistema)"></figure></td>
+      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="#" alt="Retângulo (Sistema)"></figure></td>
       <td>Retângulo (Sistema)</td>
-      <td>xxx</td>
+      <td>Usado para representar o sistema ou o bloco em análise. Ele envolve os casos de uso e atores relacionados</td>
     </tr>
     <tr>
-      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="xxx" alt="Flecha (Relações)"></figure></td>
+      <td><figure class="usecaseElement" style="width: 40%; display: flex;"><img src="#" alt="Flecha (Relações)"></figure></td>
       <td>Flecha (Relações)</td>
-      <td>xxx</td>
+      <td>As flechas são usadas para representar as relações ou interações entre atores e casos de uso</td>
     </tr>
   </tbody>
 </table>
