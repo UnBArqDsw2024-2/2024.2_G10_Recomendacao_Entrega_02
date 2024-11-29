@@ -23,9 +23,9 @@ Para elaborar o diagrama de componentes, foram seguidas as etapas descritas abai
 | `<<subsystem>>`         | Subsistema: Representa um módulo ou uma funcionalidade específica do sistema. |
 | 🟦                       | Componente: Unidade funcional ou módulo dentro do sistema.                  |
 | 📄                       | Interface: Ponto de comunicação que o componente fornece ou requer.         |
-| <img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/modelagem-componentes/docs/imagens/solicita%C3%A7%C3%A3o_de%20interface.png?raw=true" alt="Diagrama de Classes" width="60"> | Conexão de Interface: Representa a comunicação entre componentes via interfaces. |
-| <img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/modelagem-componentes/docs/imagens/depedencia.png?raw=trueg" alt="Diagrama de Classes" width="60"> | Dependência: Mostra que um componente depende de outro para funcionar.      |
-| <img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/modelagem-componentes/docs/imagens/porta.png?raw=true" alt="Diagrama de Classes" width="60">               | Porta: Indica o ponto de interação onde as interfaces são expostas.         |
+| <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/solicitação_de%20interface.png" alt="Diagrama de Classes" width="60"> | Conexão de Interface: Representa a comunicação entre componentes via interfaces. |
+| <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/depedencia.png" alt="Diagrama de Classes" width="60"> | Dependência: Mostra que um componente depende de outro para funcionar.      |
+| <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/porta.png" alt="Diagrama de Classes" width="60">               | Porta: Indica o ponto de interação onde as interfaces são expostas.         |
 
 ## 3. Descrição  
 
@@ -34,7 +34,7 @@ Este diagrama apresenta os principais componentes do sistema *Chef Indica* como 
 <center>
 <p style="text-align: center"><b>Figura 1:</b> Diagrama de Componentes</p>
 <div align="center">
-<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/modelagem-componentes/docs/imagens/Diagrama%20de%20Componentes%20-%20ChefIndica.png?raw=true" alt="Diagrama de Classes" >
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/84675e8d41664681e859326cfdfae3036a450ad0/docs/imagens/Diagrama%20de%20Componentes%20-%20ChefIndica.png" alt="Diagrama de Classes" >
 </div>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Lucas13032003">Lucas Víctor</a>, <a href="https://github.com/MatsFidelis">Mateus Fidelis</a>, <a href="https://github.com/Maliz30">Maria Alice</a> e <a href="https://github.com/juliaryoshida">Júlia Yoshida</a>, 2024.</p></font>
 </center>
@@ -90,3 +90,4 @@ A criação desse diagrama permite uma análise clara dos componentes e suas int
 |:----------:|----------------|-----------------------|---------------------------------------|------------------------------------|
 | `1.0`      | 18/11/2024     | Descrição inicial     | [Mateus Fidelis](https://github.com/MatsFidelis) | [Maria Alice](https://github.com/Maliz30), [Júlia Yoshida](https://github.com/juliaryoshida) |  
 | `1.1`  | 24/11/2024 | Adição  | [Lucas Víctor](https://github.com/Lucas13032003) |[Maria Alice](https://github.com/Maliz30)|
+| `1.2`  | 28/11/2024| Revisão dos dados e correção de imagens     | [Mateus Fidelis](https://github.com/MatsFidelis) | [Maria Alice](https://github.com/Maliz30) |

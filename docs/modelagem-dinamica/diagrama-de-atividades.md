@@ -71,7 +71,7 @@ Levando em consideração o [BPMN: Fórum e Avaliação](https://github.com/UnBA
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 4:</b> Diagrama de atividade de Avaliação e Comentários</p></font>
 
-<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/diagrama_atividades_avaliacao_comentario.png"  alt="Diagrama de Avaliação e Comentário" width="55%">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/diagrama_atividades_avaliacao_comentario.png"  alt="Diagrama de Avaliação e Comentário" width="55%">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2024</p></font>
 </div>
@@ -83,7 +83,7 @@ Com base no [Cenário 5: Pesquisar por Restaurante](https://github.com/UnBArqDsw
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 5:</b> Diagrama de atividade de Avaliação e Comentários</p></font>
 
-<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/diagrama_atividades_visualizar_avaliacao.png" alt="Diagrama de Visualizar Avaliação" width="50%">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/diagrama_atividades_visualizar_avaliacao.png" alt="Diagrama de Visualizar Avaliação" width="50%">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>, 2024</p></font>
 </div>
@@ -106,3 +106,4 @@ Com os diagramas de atividades apresentados foi possível modelar o comportament
 | `1.1`  |19/11/2024| Complementação dos textos e organização dos títulos  | [Zenilda Vieira](https://github.com/zenildavieira)|  [Lucas Victor](https://github.com/Lucas13032003) |
 | `1.2`  |21/11/2024| Diagrama de Registro e Autenticação |  [Lucas Victor](https://github.com/Lucas13032003)| [Zenilda Vieira](https://github.com/zenildavieira)  |
 | `1.3`  |24/11/2024| Revisão, complementação da metodologia e inclusão dos diagramas<br>de Avaliação e Comentário e de Visualização de Avaliação | [Zenilda Vieira](https://github.com/zenildavieira)|   |
+| `1.4`  |28/11/2024| Revisão dos dados e correção de imagens     | [Mateus Fidelis](https://github.com/MatsFidelis) | [Maria Alice](https://github.com/Maliz30) |
