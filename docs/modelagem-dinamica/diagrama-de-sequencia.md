@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Segundo a IBM [1], um diagrama de sequência é um diagrama da Unified Modeling Language (UML) que ilustra a sequência de mensagens trocadas entre objetos em uma interação. Ele descreve o intercâmbio de mensagens entre os participantes do sistema, destacando a ordem em que essas mensagens são enviadas. Um diagrama de sequência é composto por um grupo de objetos representados por linhas de vida e pelas mensagens que esses objetos trocam durante a interação.
+Segundo a IBM [1], um diagrama de sequência é um diagrama da Unified Modeling Language (UML) que ilustra a sequência de mensagens trocadas entre objetos em uma interação. Ele descreve o intercâmbio de mensagens entre os participantes do sistema, destacando a ordem em que essas mensagens são enviadas. Este artefato é composto por um grupo de objetos representados por linhas de vida e pelas mensagens que esses objetos trocam durante a interação.
 
 De acordo com a plataforma Lucidchart [2], o uso de diagramas de sequência oferece diversos benefícios, como:
 * Representar os detalhes de um caso de uso UML.
