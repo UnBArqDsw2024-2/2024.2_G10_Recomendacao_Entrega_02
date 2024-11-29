@@ -93,7 +93,7 @@
 
 
    <font size="3">
-         <p><b>Fonte:</b> <a href="https://github.com/juliaryoshida">Júlia Yoshida</a>, 2024</p>
+         <p><b>Fonte:</b> <a href="https://github.com/juliaryoshida">Júlia Yoshida</a> e <a href="https://github.com/juliaryoshida">Maria Alice</a>, 2024</p>
    </font>
 </div>
 
