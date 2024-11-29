@@ -420,13 +420,13 @@ Na tabela 4, temos o cartão de especificação do Softgoal "Suporte (Supportabi
 ###  NFR05 - Restrições de Design
 
 #### Softgoal Interdependency Graph
-
+As Restrições de Design referem-se aos limites e diretrizes que influenciam diretamente as decisões de design do sistema, garantindo que ele seja funcional, eficiente e atenda aos requisitos predefinidos. No ChefIndica, essas restrições incluem a necessidade de um design responsivo para dispositivos móveis, compatibilidade com diferentes navegadores e a priorização de uma interface intuitiva que facilite o uso por qualquer tipo de usuário.
 O _Softgoal Interdependency Graph_ do softgoal "Restrições de Design" pode ser visto na figura 11.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 11:</b> Softgoal Interdependency Graph do softgoal "Restrições de Design".</p></font>
 
-<img src="#" style="width: 85%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/Restri%C3%A7%C3%B5esDeDesign.jpeg?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>, 2024</p></font>
 </div>
@@ -439,7 +439,7 @@ A propagação de impactos do softgoal "Restrições de Design" pode ser visto n
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 12:</b> Propagação de impactos do softgoal "Restrições de Design"</p></font>
 
-<img src="#" style="width: 85%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/RestricoesDeDesignImpactos.jpeg?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>, 2024</p></font>
 </div>
@@ -465,11 +465,11 @@ Na tabela 5, temos o cartão de especificação do Softgoal "Restrições de Des
   </tr>
   <tr>
     <td>Descrição</td>
-    <td></td>
+    <td>Restrições relacionadas ao suporte da aplicação, incluindo modularidade, versionamento, monitoramento, e impactos de atualizações em tempo de execução.</td>
   </tr>
   <tr>
     <td>Justificativa</td>
-    <td></td>
+    <td>Garantir que o sistema atenda aos requisitos de suporte contínuo sem comprometer a performance ou a experiência do usuário.</td>
   </tr>
   <tr>
     <td>Origem do Requisito</td>
@@ -477,15 +477,15 @@ Na tabela 5, temos o cartão de especificação do Softgoal "Restrições de Des
   </tr>
   <tr>
     <td>Dependências</td>
-    <td></td>
+    <td>Infraestrutura robusta; Ferramentas de logging e CI/CD; Arquitetura modular bem definida.</td>
   </tr>
   <tr>
     <td>Prioridade</td>
-    <td></td>
+    <td>Alta (necessário para a manutenção contínua e crescimento do sistema).</td>
   </tr>
   <tr>
     <td>Conflitos</td>
-    <td></td>
+    <td>Possíveis impactos em desempenho devido à complexidade de logs detalhados e criptografia.</td>
   </tr>
   <tr>
     <td>História</td>
@@ -498,14 +498,15 @@ Na tabela 5, temos o cartão de especificação do Softgoal "Restrições de Des
 
 ###  NFR06 - Ajuda e Documentação
 
-#### Softgoal Interdependency Graph
+#### Softgoal Interdependency Graph  
 
-O _Softgoal Interdependency Graph_ do softgoal "Ajuda e Documentação" pode ser visto na figura 11.
+Ajuda e Documentação referem-se aos recursos disponibilizados para orientar os usuários no uso do sistema, oferecendo suporte claro e acessível. No ChefIndica, isso envolve a criação de tutoriais interativos, FAQs, e guias rápidos integrados à plataforma, garantindo que os usuários possam navegar pelas funcionalidades de forma autônoma. Esses recursos devem ser facilmente localizáveis e apresentar linguagem simples para atender tanto usuários iniciantes quanto experientes.
+O _Softgoal Interdependency Graph_ do softgoal "Ajuda e Documentação" pode ser visto na figura 13.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 11:</b> Softgoal Interdependency Graph do softgoal "Ajuda e Documentação".</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 13:</b> Softgoal Interdependency Graph do softgoal "Ajuda e Documentação".</p></font>
 
-<img src="#" style="width: 85%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/AjudaeDocumentacao.jpeg?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>, 2024</p></font>
 </div>
@@ -513,12 +514,12 @@ O _Softgoal Interdependency Graph_ do softgoal "Ajuda e Documentação" pode ser
 
 #### Propagação de Impactos
 
-A propagação de impactos do softgoal "Ajuda e Documentação" pode ser visto na figura 112.
+A propagação de impactos do softgoal "Ajuda e Documentação" pode ser visto na figura 14.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 12:</b> Propagação de impactos do softgoal "Ajuda e Documentação"</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 14:</b> Propagação de impactos do softgoal "Ajuda e Documentação"</p></font>
 
-<img src="#" style="width: 85%;">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/AjudaeDocumentacaoImpactos.jpeg?raw=true" style="width: 85%;">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>, 2024</p></font>
 </div>
@@ -544,11 +545,11 @@ Na tabela 6, temos o cartão de especificação do Softgoal "Ajuda e Documentaç
   </tr>
   <tr>
     <td>Descrição</td>
-    <td></td>
+    <td>Sistema deve fornecer ajuda e documentação clara, acessível, atualizada e adaptável às necessidades dos usuários.</td>
   </tr>
   <tr>
     <td>Justificativa</td>
-    <td></td>
+    <td>Garantir que os usuários possam resolver problemas de forma autônoma e rápida, reduzindo o número de chamados ao suporte.</td>
   </tr>
   <tr>
     <td>Origem do Requisito</td>
@@ -556,15 +557,15 @@ Na tabela 6, temos o cartão de especificação do Softgoal "Ajuda e Documentaç
   </tr>
   <tr>
     <td>Dependências</td>
-    <td></td>
+    <td>Ferramenta de controle de versão para documentação, sistemas de tradução e mecanismos de busca eficientes.</td>
   </tr>
   <tr>
     <td>Prioridade</td>
-    <td></td>
+    <td>Alta (essencial para experiência do usuário e retenção).</td>
   </tr>
   <tr>
     <td>Conflitos</td>
-    <td></td>
+    <td>Possível aumento de custo e tempo para manutenção e tradução do conteúdo.</td>
   </tr>
   <tr>
     <td>História</td>
@@ -593,4 +594,5 @@ A aplicação do NFR Framework ao ChefIndica permitiu estruturar os requisitos n
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |20/11/2024| NRF-Framework introdução | [Lucas Víctor](https://github.com/Lucas13032003 ) |[Zenilda Vieira](https://github.com/zenildavieira)  | 
 | `1.1`  |23/11/2024| Complemento da Introdução, Metodologia e inclusão dos NFR03 e NFR04 |[Zenilda Vieira](https://github.com/zenildavieira)  | [Lucas Víctor](https://github.com/Lucas13032003 )| 
-| `1.1`  |28/11/2024| Adição do NRF-Framework Usabilidade e Confiabilidade | [Lucas Víctor](https://github.com/Lucas13032003 ) |[Zenilda Vieira](https://github.com/zenildavieira)  | 
+| `1.2`  |28/11/2024| Adição do NRF-Framework Usabilidade e Confiabilidade | [Lucas Víctor](https://github.com/Lucas13032003 ) |[Zenilda Vieira](https://github.com/zenildavieira)  | 
+| `1.3`  |28/11/2024| Adição do NRF-Framework "Restrições de Design" e "Ajuda e Documentação" | [Luana Medeiros](https://github.com/LuaMedeiros) |[Lucas Víctor](https://github.com/Lucas13032003 )  | 
