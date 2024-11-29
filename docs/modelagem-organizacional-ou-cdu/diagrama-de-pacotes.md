@@ -20,7 +20,7 @@
 
 <div align="center">
     <p style="text-align: center"><b>Figura 1:</b> Pacote</p>
-    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/diagrama-de-comunicacao/docs/imagens/descricaodiagramacolaboracao1.png" alt="Pacote" >
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/pacote.png" alt="Pacote" >
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, <a href="https://github.com/PedroSampaioDias">Pedro Sampaio</a>, <a href="https://github.com/lucasqueiroz23">Lucas Queiroz</a> e <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, 2024.</p></font>
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
     <p style="text-align: center"><b>Figura 2:</b> Dependência</p>
-    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/diagrama-de-comunicacao/docs/imagens/descricaodiagramacolaboracao1.png" alt="Dependência" >
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/pacote2.png" alt="Dependência" >
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, <a href="https://github.com/PedroSampaioDias">Pedro Sampaio</a>, <a href="https://github.com/lucasqueiroz23">Lucas Queiroz</a> e <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, 2024.</p></font>
 </div>
 
@@ -111,4 +111,4 @@
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |15/11/2024| Adiciona diagrama de pacotes | [Izabella Alves](https://github.com/izabellaalves) |[Pedro Sampaio](https://github.com/PedroSampaioDias) <br> [Lucas Queiroz](https://github.com/lucasqueiroz23) <br> [Guilherme Brito](https://github.com/GuilhermeB12)|
 | `1.1`  |25/11/2024| Melhora na organização das imagens | [Pedro Sampaio](https://github.com/PedroSampaioDias) |[Izabella Alves](https://github.com/izabellaalves) <br> [Lucas Queiroz](https://github.com/lucasqueiroz23) <br> [Guilherme Brito](https://github.com/GuilhermeB12)|
-| `1.2`  |29/11/2024| Descrevendo melhor a introdução | [Júlia Yoshida](https://github.com/juliaryoshida) |[Mateus Fidelis](https://github.com/MatsFidelis)|
+| `1.2`  |29/11/2024| Explicando conceito dos componentes e melhorando a descrição da introdução | [Júlia Yoshida](https://github.com/juliaryoshida) |[Mateus Fidelis](https://github.com/MatsFidelis)|
