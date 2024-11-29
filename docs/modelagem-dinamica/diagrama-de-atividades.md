@@ -105,4 +105,4 @@ Com os diagramas de atividades apresentados foi possível modelar o comportament
 | `1.0`  |18/11/2024| Criação do documento | [Luana Medeiros](https://github.com/LuaMedeiros), [Lucas Victor](https://github.com/Lucas13032003)| [Zenilda Vieira](https://github.com/zenildavieira)  |
 | `1.1`  |19/11/2024| Complementação dos textos e organização dos títulos  | [Zenilda Vieira](https://github.com/zenildavieira)|  [Lucas Victor](https://github.com/Lucas13032003) |
 | `1.2`  |21/11/2024| Diagrama de Registro e Autenticação |  [Lucas Victor](https://github.com/Lucas13032003)| [Zenilda Vieira](https://github.com/zenildavieira)  |
-| `1.3`  |24/11/2024| Revisão, complementação da metodologia e inclusão dos diagramas<br>de Avaliação e Comentário e de Visualização de Avaliação | [Zenilda Vieira](https://github.com/zenildavieira)|   |
+| `1.3`  |24/11/2024| Revisão, complementação da metodologia e inclusão dos diagramas<br>de Avaliação e Comentário e de Visualização de Avaliação | [Zenilda Vieira](https://github.com/zenildavieira)|  [Cecília Quaresma](https://github.com/cqcoding) |
