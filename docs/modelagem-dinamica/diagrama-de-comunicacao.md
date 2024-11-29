@@ -1,7 +1,11 @@
 # Diagrama de Comunicação/Colaboração
 
 ## Introdução
-<p style="text-align: justify; text-indent: 2em;"> O diagrama de comunicação é um dos principais tipos de diagramas de interação definidos pela UML (Unified Modeling Language), projetado para representar a dinâmica de um sistema, destacando como os elementos se comunicam entre si durante a execução de um processo. Ele é amplamente utilizado na modelagem de sistemas para capturar as interações e trocas de mensagens entre componentes, atores e objetos que participam de um caso de uso.</p>
+
+<p style="text-align: justify; text-indent: 2em;"> O diagrama de comunicação, também conhecido como diagrama de colaboração, é um tipo de diagrama de interação na UML (Unified Modeling Language) que tem como objetivo representar a dinâmica do sistema ao mostrar como os objetos ou componentes interagem entre si. Ao contrário dos diagramas de sequência, que se concentram na ordem das mensagens, o diagrama de comunicação foca nas conexões entre os objetos e no fluxo de mensagens entre eles (Booch et al., 1999)[1]. Ele é particularmente útil para representar a comunicação entre componentes de sistemas distribuídos ou em situações complexas onde a troca de mensagens precisa ser clara e compreensível (Rumbaugh et al., 2004)[2]. Em sistemas orientados a objetos, como os analisados por Jacobson (1992)[3], esse diagrama facilita a visualização das relações e do comportamento do sistema, sendo essencial para o entendimento e a implementação de sistemas dinâmicos.</p> 
+<p style="text-align: justify; text-indent: 2em;"> O diagrama de comunicação é amplamente utilizado na modelagem de sistemas, pois ele descreve como os objetos interagem dentro de um contexto específico, geralmente relacionado a um caso de uso. Através dele, podemos identificar quais objetos são responsáveis por quais ações e como as mensagens fluem entre eles. Isso permite que a comunicação e a coordenação entre os componentes do sistema sejam modeladas de forma eficiente, garantindo a clareza e o bom funcionamento da arquitetura (Fowler, 2004)[4].</p> 
+<p style="text-align: justify; text-indent: 2em;"> Este trabalho utiliza o diagrama de comunicação para modelar as interações do sistema Chef Indica, que visa permitir que usuários busquem restaurantes, filtrem categorias e realizem avaliações. </p>
+
 
 ## Metodologia
 <p style="text-align: justify; text-indent: 2em;"> O diagrama de comunicação foi realizado utilizando a plataforma Miro, para sua criação, já que utilizando esta plataforma seria possível que todos os participantes tivessem acesso e pudessem colaborar com a criação do diagrama. </p>
@@ -142,7 +146,19 @@
 6. **Logout**
     - Após realizar as ações desejadas, o usuário pode encerrar sua sessão chamando o método realizarLogout() (mensagem 3.4).
 
-## Referências Bibliográficas
+## Referências bibliográficas
+
+>[1] BOOCH, G.; RUMBAUGH, J.; JACOBSON, I. The Unified Modeling Language User Guide. Addison-Wesley, 1999.
+>
+>[2] RUMBAUGH, J.; BOOCH, G.; JACOBSON, I. The Unified Modeling Language Reference Manual. Addison-Wesley, 2004.
+>
+>[3] JACOBSON, I. Object-Oriented Software Engineering: A Use Case Driven Approach. Addison-Wesley, 1992.
+>
+>[4] FOWLER, M. UML Distilled: A Brief Guide to the Standard Object Modeling Language. Addison-Wesley, 2004.
+
+
+
+## Bibliografia
 
 >DIAGRAMAS de colaboração UML, exemplos gratuitos e download de software. [S. l.], 25 out. 2024. Disponível em: https://www.edrawsoft.com/pt/uml-collaboration.html. Acesso em: 26 nov. 2024.
 >
@@ -160,3 +176,5 @@
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |26/11/2024| Adição da Introdução e Metodologia | [Guilherme Brito](https://github.com/GuilhermeB12)<br>[Júlia Yoshida](https://github.com/juliaryoshida)<br>[Maria Alice](https://github.com/Maliz30)<br> | [Mateus Fidelis](https://github.com/matsfidelis) |
 | `1.1`  |27/11/2024| Detalhamento da metodologia | [Júlia Yoshida](https://github.com/juliaryoshida)| [Maria Alice](https://github.com/Maliz30) |
+| `1.2`  |29/11/2024| Melhorando introdução e adicionando referências | [Júlia Yoshida](https://github.com/juliaryoshida)| [Maria Alice](https://github.com/Maliz30) |
+
