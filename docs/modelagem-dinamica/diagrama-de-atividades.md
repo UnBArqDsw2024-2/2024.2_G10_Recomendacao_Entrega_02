@@ -79,7 +79,7 @@ Levando em consideração o [BPMN: Fórum e Avaliação](https://github.com/UnBA
 Com base no [Cenário 5: Pesquisar por Restaurante](https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_01/blob/main/docs/Base/1.2.ArtefatoGeneralista.md#cen%C3%A1rio-5-pesquisar-por-restaurante) e no [Cenário 6: Filtrar por Categoria](https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_01/blob/main/docs/Base/1.2.ArtefatoGeneralista.md#cen%C3%A1rio-6-filtrar-por-categoria) foi elaborado o seguinte diagrama de atividades (Figura 5), levando em consideração que o usuário já se encontra na página principal do site e pode visualizar as avaliações e os comentários mesmo sem estar logado no sistema.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Figura 5:</b> Diagrama de atividade de Avaliação e Comentários</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 5:</b> Diagrama de atividade de Visualizar Avaliação</p></font>
 
 <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/main/docs/imagens/diagrama_atividades_visualizar_avaliacao.png" alt="Diagrama de Visualizar Avaliação" width="50%">
 
