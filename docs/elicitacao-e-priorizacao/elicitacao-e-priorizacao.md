@@ -10,7 +10,9 @@ Depois da elicitação, a priorização de requisitos é o processo de organizar
 
 1. [Histórias de Usuário](https://unbarqdsw2024-2.github.io/2024.2_G10_Recomendacao_Entrega_02/#/elicitacao-e-priorizacao/historias-de-usuario)
 2. [Requisitos Elicitados](https://unbarqdsw2024-2.github.io/2024.2_G10_Recomendacao_Entrega_02/#/elicitacao-e-priorizacao/requisitos-elicitados)
-3. [NFR Framework](https://unbarqdsw2024-2.github.io/2024.2_G10_Recomendacao_Entrega_02/#/elicitacao-e-priorizacao/nfr-framework)
+3. [Especificação Suplementar](https://unbarqdsw2024-2.github.io/2024.2_G10_Recomendacao_Entrega_02/#/elicitacao-e-priorizacao/especificacao-suplementar)
+4. [NFR Framework](https://unbarqdsw2024-2.github.io/2024.2_G10_Recomendacao_Entrega_02/#/elicitacao-e-priorizacao/nfr-framework)
+5. [MosCow](https://unbarqdsw2024-2.github.io/2024.2_G10_Recomendacao_Entrega_02/#/elicitacao-e-priorizacao/moscow)
 
 ## Bibliografia
 
