@@ -2,19 +2,19 @@
 
 ## Introdução
 
-O Diagrama de Pacotes é um dos diagramas estruturais da UML (Unified Modeling Language), utilizado para organizar e visualizar a estrutura modular de sistemas complexos. Ele representa como o software é dividido em pacotes (ou módulos), ilustrando as relações de dependência entre eles. Esses pacotes podem conter classes, interfaces, ou até outros pacotes, ajudando a organizar o sistema em componentes lógicos e de fácil manutenção.
+<p style="text-align: justify; text-indent: 2em;"> O Diagrama de Pacotes é um dos diagramas estruturais da UML (Unified Modeling Language), utilizado para organizar e visualizar a estrutura modular de sistemas complexos. Ele representa como o software é dividido em pacotes (ou módulos), ilustrando as relações de dependência entre eles. Esses pacotes podem conter classes, interfaces, ou até outros pacotes, ajudando a organizar o sistema em componentes lógicos e de fácil manutenção. </p>
 
 ## Metodologia
 
-Para a criação do nosso diagrama de pacotes, iniciamos com um package principal representando a aplicação ChefIndica, que contém os subpackages de backend e frontend. Esses dois pacotes interagem diretamente com o package de Testes, responsável por centralizar as validações do sistema. Cada pacote foi organizado com divisões específicas, de acordo com sua funcionalidade dentro da arquitetura do projeto e a equipe escolheu utilizar o Service Repository Pattern como uma das principais formas de organização do projeto.
+<p style="text-align: justify; text-indent: 2em;"> Para a criação do nosso diagrama de pacotes, iniciamos com um package principal representando a aplicação ChefIndica, que contém os subpackages de backend e frontend. Esses dois pacotes interagem diretamente com o package de Testes, responsável por centralizar as validações do sistema. Cada pacote foi organizado com divisões específicas, de acordo com sua funcionalidade dentro da arquitetura do projeto e a equipe escolheu utilizar o Service Repository Pattern como uma das principais formas de organização do projeto. </p>
 
-O Service Repository Pattern é amplamente utilizado no desenvolvimento orientado por domínio (Domain-Driven Design - DDD) para organizar e modularizar o acesso e a lógica de negócios de sistemas complexos. O padrão de repositório (Repository) abstrai o acesso aos dados, atuando como uma coleção em memória que encapsula a lógica de persistência. Ele permite que operações como adicionar, remover e consultar objetos sejam realizadas sem expor detalhes da camada de mapeamento de dados. Já o padrão de serviço (Service) encapsula regras de negócios que não se encaixam diretamente em um objeto de domínio, operando como objetos sem estado que facilitam a execução de lógica específica.
+<p style="text-align: justify; text-indent: 2em;"> O Service Repository Pattern é amplamente utilizado no desenvolvimento orientado por domínio (Domain-Driven Design - DDD) para organizar e modularizar o acesso e a lógica de negócios de sistemas complexos. O padrão de repositório (Repository) abstrai o acesso aos dados, atuando como uma coleção em memória que encapsula a lógica de persistência. Ele permite que operações como adicionar, remover e consultar objetos sejam realizadas sem expor detalhes da camada de mapeamento de dados. Já o padrão de serviço (Service) encapsula regras de negócios que não se encaixam diretamente em um objeto de domínio, operando como objetos sem estado que facilitam a execução de lógica específica. </p>
 
-Esses dois padrões, quando usados em conjunto, promovem a separação de responsabilidades, reduzem duplicações no código e organizam de forma mais clara os diferentes aspectos de um sistema. Martin Fowler, em Patterns of Enterprise Application Architecture [1], destaca a importância do padrão de repositório para mediar entre o domínio e a camada de mapeamento de dados, provendo uma interface consistente para acessar objetos de domínio.
+<p style="text-align: justify; text-indent: 2em;"> Esses dois padrões, quando usados em conjunto, promovem a separação de responsabilidades, reduzem duplicações no código e organizam de forma mais clara os diferentes aspectos de um sistema. Martin Fowler, em Patterns of Enterprise Application Architecture [1], destaca a importância do padrão de repositório para mediar entre o domínio e a camada de mapeamento de dados, provendo uma interface consistente para acessar objetos de domínio.</p>
 
 ### Frontend
 
-O pacote frontend contém toda a estrutura responsável pela interface com o usuário, dividida em subpastas para melhor organização e modularidade do código:
+<p style="text-align: justify; text-indent: 2em;"> O pacote frontend contém toda a estrutura responsável pela interface com o usuário, dividida em subpastas para melhor organização e modularidade do código: </p>
 
 - **Utils**: Contém funções utilitárias reutilizáveis, como formatação de dados e cálculos.
 - **Components**: Reúne os componentes reutilizáveis da interface, como botões, cabeçalhos e rodapés.
@@ -34,7 +34,7 @@ O pacote frontend contém toda a estrutura responsável pela interface com o usu
 
 ## Diagrama de Pacotes
 
-Na Figura 1, é apresentado o diagrama de pacotes em alto nível elaborado pela equipe, destacando a relação entre os pacotes backend e frontend. Já as Figuras 2 e 3 exploram em maior profundidade, detalhando como esses grandes componentes são subdivididos em seus respectivos subcomponentes.
+<p style="text-align: justify; text-indent: 2em;"> Na Figura 1, é apresentado o diagrama de pacotes em alto nível elaborado pela equipe, destacando a relação entre os pacotes backend e frontend. Já as Figuras 2 e 3 exploram em maior profundidade, detalhando como esses grandes componentes são subdivididos em seus respectivos subcomponentes.</p>
 
 <center>
 <p style="text-align: center"><b>Figura 1:</b> Diagrama de pacotes em alto nível</p>
@@ -79,3 +79,4 @@ Na Figura 1, é apresentado o diagrama de pacotes em alto nível elaborado pela 
 | :----: | ---- | --------- | ----- | ------- |
 | `1.0`  |15/11/2024| Adiciona diagrama de pacotes | [Izabella Alves](https://github.com/izabellaalves) |[Pedro Sampaio](https://github.com/PedroSampaioDias) <br> [Lucas Queiroz](https://github.com/lucasqueiroz23) <br> [Guilherme Brito](https://github.com/GuilhermeB12)|
 | `1.1`  |25/11/2024| Melhora na organização das imagens | [Pedro Sampaio](https://github.com/PedroSampaioDias) |[Izabella Alves](https://github.com/izabellaalves) <br> [Lucas Queiroz](https://github.com/lucasqueiroz23) <br> [Guilherme Brito](https://github.com/GuilhermeB12)|
+| `1.2`  |29/11/2024| Descrevendo melhor a introdução | [Júlia Yoshida](https://github.com/juliaryoshida) |[Mateus Fidelis](https://github.com/MatsFidelis)|
