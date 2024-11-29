@@ -31,12 +31,14 @@ Na figura 1, abaixo, está o diagrama de implantação.
 </div>
 
 ## Bibliografia
-1. Tutorial do Diagrama de Implantação. Disponível em: <https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-implantacao/>. Acesso em: 20 nov. 2024.
-2. Rational Software Architect Standard Edition 7.5.5. Disponível em: <https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=topologies-deployment-diagrams>. Acesso em: 20 nov. 2024.
 
-## Referências Bibliográficas
-1. O que é um diagrama de implementação? Disponível em: <https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-implementacao-uml>. Acesso em: 20 nov. 2024.
-2. PAIVA. Curso de UML - diagrama de implantação. Disponível em: <https://www.youtube.com/watch?v=DgERD0HgggQ>. Acesso em: 20 nov. 2024.
+> Tutorial do Diagrama de Implantação. Disponível em: <https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-implantacao/>. Acesso em: 20 nov. 2024.
+
+> Rational Software Architect Standard Edition 7.5.5. Disponível em: <https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=topologies-deployment-diagrams>. Acesso em: 20 nov. 2024.
+
+> O que é um diagrama de implementação? Disponível em: <https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-implementacao-uml>. Acesso em: 20 nov. 2024.
+
+> PAIVA. Curso de UML - diagrama de implantação. Disponível em: <https://www.youtube.com/watch?v=DgERD0HgggQ>. Acesso em: 20 nov. 2024.
 
 ## Histórico de Versão
 
@@ -45,3 +47,4 @@ Na figura 1, abaixo, está o diagrama de implantação.
 | `1.0`  |18/11/2024| Adição da introdução | [Luana Medeiros](https://github.com/LuaMedeiros) |[Zenilda Vieira](https://github.com/zenildavieira) |
 | `1.1`  |20/11/2024| Adição do Diagrama de implantação | [Caio Mesquita](https://github.com/Caiomesvie)<br>[Guilherme Brito](https://github.com/GuilhermeB12)<br>[Zenilda Vieira](https://github.com/zenildavieira)| [Luana Medeiros](https://github.com/LuaMedeiros) |
 | `1.2`  |20/11/2024| Adição da metodologia | [Luana Medeiros](https://github.com/LuaMedeiros) | |
+| `1.3`  | 28/11/2024 | Revisão final | [Zenilda Vieira](https://github.com/ZenildaVieira) |  |

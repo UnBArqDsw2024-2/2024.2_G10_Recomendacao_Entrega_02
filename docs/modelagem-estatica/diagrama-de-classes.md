@@ -36,6 +36,7 @@ Por padrão utilizamos os seguintes elementos em nosso diagrama:
 <div align="center">
 <div align = "center"><img src="https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/blob/main/docs/Assets/diagramas/legenda_diagrama_de_classes.png?raw=true" alt="Figura 3: Diagrama de Classes Legenda." height="500" width="450">
 <p style="text-align: center"><b>Fonte:</b> Projeto Mercado Livre, Grupo 2, 2023</p>
+</center>
 
 ## Referências Bibliográficas
 
@@ -54,3 +55,4 @@ Por padrão utilizamos os seguintes elementos em nosso diagrama:
 | `1.0`  | 16/11/2024 | Adição do diagrama de classes | [Pedro Sampaio](https://github.com/PedroSampaioDias) | [Cecília Quaresma](https://github.com/cqcoding) |
 | `1.1`  | 23/11/2024 | Adição legenda e composição | [Mateus Fidelis](https://github.com/MatsFidelis) | [Lucas Queiroz](https://github.com/lucasqueiroz23) |
 | `1.2`  | 25/11/2024 | Correção das datas de acesso | [Pedro Sampaio](https://github.com/PedroSampaioDias) | [Cecília Quaresma](https://github.com/cqcoding) |
+| `1.3`  | 28/11/2024 | Revisão final | [Zenilda Vieira](https://github.com/ZenildaVieira) |  |
