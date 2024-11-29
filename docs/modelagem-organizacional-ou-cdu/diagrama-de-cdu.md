@@ -79,7 +79,7 @@ A tabela 2 demonstra a especificação do caso de uso UC01.0 Fazer login.
 | **Fluxos de exceção** | <b>FE01: Dados do login errados </b> <ol> <li> O usuário fornece algum dado do login errado <li> O sistema informa qual campo está com o dado inválido. Aciona o caso de uso UC01.1. </ul> </ol> |
 | **Pós-condições** |POS01. O usuário é logado em sua conta do site. |
 | **Data da criação** | 19/11/2024 |
-| **Rastreabilidade** |  |
+
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a>, 2024</p></font>
@@ -103,7 +103,7 @@ A tabela 3 demonstra a especificação do caso de uso UC01.1 Exibir erro de logi
 | **Fluxos de exceção** | --- |
 | **Pós-condições** |POS01. O usuário deve colocar novamente suas credenciais de login. |
 | **Data da criação** | 19/11/2024 |
-| **Rastreabilidade** | |
+
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a>, 2024</p></font>
@@ -127,7 +127,7 @@ A tabela 4 demonstra a especificação do caso de uso UC01.2 Verificar dados de 
 | **Fluxos de exceção** | <b>FE01: Dados do login errados </b> <ol> <li> O usuário fornece algum dado do login errado. <li> O sistema verifica os dados de login. aciona o caso de uso UC01.1. <li> O sistema não permite o login do usuário. Aciona o caso de uso UC01. <li> Fim do caso de uso. </ul> </ol> |
 | **Pós-condições** |POS01. O usuário é logado em sua conta do aplicativo. |
 | **Data da criação** |19/11/2024 |
-| **Rastreabilidade** |  |
+
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a>, 2024</p></font>
@@ -151,7 +151,6 @@ A tabela 5 demonstra a especificação do caso de uso UC02 Fazer Cadastro Usuár
 | **Fluxos de exceção** | <b>FE01: Falha de conexão</b> <ol> <li> O sistema não consegue conectar ao servidor. <li> O sistema exibe uma mensagem informando a indisponibilidade temporária. <li> Fim do caso de uso. </ol> |
 | **Pós-condições** | POS01. O usuário possui uma conta cadastrada no sistema e consegue realizar avaliações ou comentários. |
 | **Data da criação** | 21/11/2024 |
-| **Rastreabilidade** | |
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/lucas13032003">Lucas Victor</a>, 2024</p></font>
@@ -176,7 +175,7 @@ A tabela 6 demonstra a especificação do caso de uso UC03 Avaliar Restaurante.
 | **Fluxos de exceção** | <br>**FE01: Falha ao registrar avaliação**</br> <ol> <li>O sistema não consegue registrar a avaliação devido a erro de comunicação ou outro erro técnico.<li>O sistema informa que houve um erro e solicita ao usuário tentar novamente. </ol><br>**FE02: Usuário não logado**</br> <ol> <li>O usuário tenta avaliar sem estar logado.<li>O sistema informa que é necessário estar logado para avaliar. O usuário é direcionado para a tela de login. </ol>|
 | **Pós-condições** | POS01. A avaliação do restaurante foi registrada com sucesso. |
 | **Data da criação** |20/11/2024|
-| **Rastreabilidade** |  |
+
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/VieiraLaris">Larissa Vieira</a>, 2024</p></font>
@@ -200,7 +199,7 @@ A tabela 7 demonstra a especificação do caso de uso UC04  Fazer Comentário.
 | **Fluxos de exceção** | <br>**FE01: Campo de avaliação vazio**</br> <ol> <li>O sistema não consegue prosseguir com o comentário caso não haja registro da avaliação do restraurante.<li> O usuário volta no campo de avaliação e clica na quantidade de estrelas correspondente à avaliação do restaurante</ol><br>**FE02: Usuário não logado**</br> <ol> <li>O usuário tenta avaliar sem estar logado.<li>O sistema informa que é necessário estar logado para avaliar. O usuário é direcionado para a tela de login. </ol>|
 | **Pós-condições** | POS01. O comentário é realizado com sucesso e demais usuários podem visualizar. |
 | **Data da criação** | 21/11/2024 |
-| **Rastreabilidade** |  |
+
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/cqcoding">Cecília Quaresma</a>, 2024</p></font>
@@ -224,7 +223,7 @@ A tabela 8 demonstra a especificação do caso de uso UC05 Pesquisar por Restaur
 | **Fluxos de exceção** | <br>**FE01: Restaurante não encontrado**</br> <ol> <li> O usuário busca pela avaliação de um restaurante em específico. <li> O usuário não encontra o restaurante cadastrado. <li> O usuário tem a opção de cadastrar o restaurante na plataforma. </ol> |
 | **Pós-condições** | POS01. O usuário vizualiza a avaliação do restaurante selecionado.  |
 | **Data da criação** |26/11/2024 |
-| **Rastreabilidade** |  |
+
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Caiomesvie">Caio Mesquita</a>, 2024</p></font>
@@ -248,7 +247,7 @@ A tabela 9 demonstra a especificação do caso de uso UC06 Filtrar por Categoria
 | **Fluxos de exceção** | **FE01: Falha de conexão**<br>1. O sistema não consegue carregar os resultados da busca.<br>2. O sistema exibe uma mensagem informando a indisponibilidade temporária.<br>3. Fim do caso de uso. |
 | **Pós-condições** | POS01. O sistema exibe uma listagem dos restaurantes de acordo com a categoria selecionada ou informa a ausência de resultados com base na categoria escolhida.              |
 | **Data da criação** | 27/11/24 |
-| **Rastreabilidade** |  |
+
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Maliz30">Maria Alice</a>, 2024</p></font>
@@ -273,7 +272,7 @@ A tabela 10 demonstra a especificação do caso de uso UC06.1 Exibir listagem de
 | **Fluxos de exceção** | **FE01: Falha de conexão**<br>1. O sistema não consegue carregar os resultados da busca.<br>2. O sistema exibe uma mensagem informando a indisponibilidade temporária.<br>3. Fim do caso de uso. |
 | **Pós-condições** | POS01. O usuário visualiza uma listagem contendo todos os restaurantes cadastrados na categoria escolhida. |
 | **Data da criação** | 27/11/24 |
-| **Rastreabilidade** |  |
+
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Maliz30">Maria Alice</a>, 2024</p></font>
@@ -297,7 +296,7 @@ A tabela 11 demonstra a especificação do caso de uso UC06.2 Exibir mensagem in
 | **Fluxos de exceção** | --- |
 | **Pós-condições** | POS01. O sistema exibe uma mensagem informando que não há resultados cadastrados para aquela categoria; <br> POS02. O usuário cadastra um restaurante na categoria escolhida. |
 | **Data da criação** | 27/11/24 |
-| **Rastreabilidade** |  |
+
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/Maliz30">Maria Alice</a>, 2024</p></font>
@@ -321,7 +320,6 @@ A tabela 12 demonstra a especificação do caso de uso UC07 Cadastrar Restaurant
 | **Fluxos de exceção** | <br>**FE01: Falha na validação dos dados**</br>  <ol> <li>O sistema identifica que um ou mais campos obrigatórios estão ausentes ou preenchidos incorretamente.<li>O sistema informa ao usuário quais campos precisam ser corrigidos e solicita a revisão dos dados.<li>O usuário corrige os dados e tenta novamente.<li>Fim do caso de uso. </ol><br>**FE02: Falha ao registrar o restaurante**</br>  <ol> <li>O sistema não consegue registrar o restaurante devido a erro técnico ou falta de conexão com a base de dados.<li>O sistema exibe uma mensagem de erro ao usuário e solicita que ele tente novamente mais tarde.<li>Fim do caso de uso. </ol> |
 | **Pós-condições** | POS01. O restaurante foi cadastrado com sucesso e está disponível para consulta no aplicativo. |
 | **Data da criação** | 21/11/2024 |
-| **Rastreabilidade** |  |
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>, 2024</p></font>
