@@ -14,6 +14,25 @@
 
 <p style="text-align: justify; text-indent: 2em;"> Esses dois padrões, quando usados em conjunto, promovem a separação de responsabilidades, reduzem duplicações no código e organizam de forma mais clara os diferentes aspectos de um sistema. Martin Fowler, em Patterns of Enterprise Application Architecture [2], destaca a importância do padrão de repositório para mediar entre o domínio e a camada de mapeamento de dados, provendo uma interface consistente para acessar objetos de domínio.</p>
 
+<p style="text-align: justify; text-indent: 2em;"> A seguir, se encontra a descrição dos componentes dos diagramas: </p>
+
+1. **Pacotes**: Os pacotes epresentam grupos lógicos de elementos do sistema, como classes, interfaces, ou outros pacotes. São representados graficamente como retângulos com uma aba no canto superior esquerdo.
+
+<div align="center">
+    <p style="text-align: center"><b>Figura 1:</b> Pacote</p>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/diagrama-de-comunicacao/docs/imagens/descricaodiagramacolaboracao1.png" alt="Pacote" >
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, <a href="https://github.com/PedroSampaioDias">Pedro Sampaio</a>, <a href="https://github.com/lucasqueiroz23">Lucas Queiroz</a> e <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, 2024.</p></font>
+</div>
+
+2. **Dependência**: Indica que um pacote depende de outro para funcionar.
+
+<div align="center">
+    <p style="text-align: center"><b>Figura 2:</b> Dependência</p>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/refs/heads/diagrama-de-comunicacao/docs/imagens/descricaodiagramacolaboracao1.png" alt="Dependência" >
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, <a href="https://github.com/PedroSampaioDias">Pedro Sampaio</a>, <a href="https://github.com/lucasqueiroz23">Lucas Queiroz</a> e <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, 2024.</p></font>
+</div>
+
+
 ### Frontend
 
 <p style="text-align: justify; text-indent: 2em;"> O pacote frontend contém toda a estrutura responsável pela interface com o usuário, dividida em subpastas para melhor organização e modularidade do código: </p>
@@ -27,6 +46,9 @@
 - **Repositories**: Define as chamadas para APIs.
 
 ### Backend
+
+<p style="text-align: justify; text-indent: 2em;"> O pacote backend é responsável pela lógica de negócios, processamento de dados e comunicação com o banco de dados. </p>
+
 - **Utils**: Contém funções utilitárias reutilizáveis, como formatação de dados e cálculos.
 - **Services**: Centraliza a lógica de negócios e as operações mais complexas que envolvem diferentes camadas.
 - **Repositories**: Responsável por acessar e manipular os dados no banco de dados.
@@ -64,7 +86,7 @@
 
 #### Conceitos
 
-<p id="conceito1" style="text-align: justify;"><sup>1</sup>: <b>Domain-Driven Design (DDD)</b> é uma abordagem de design de software proposta por Eric Evans[3] em seu livro *Domain-Driven Design: Tackling Complexity in the Heart of Software* (2003). A principal premissa do DDD é priorizar a modelagem do domínio do problema, ou seja, os conceitos e regras específicos do negócio, para criar soluções que reflitam com precisão as necessidades do sistema. O DDD visa alinhar o desenvolvimento de software às expectativas e requisitos dos especialistas no domínio (domain experts), garantindo que o código represente de forma fiel a lógica de negócios.</p>
+<p id="conceito1" style="text-align: justify;"><sup>1</sup>: <b>Domain-Driven Design (DDD)</b> é uma abordagem de design de software proposta por Eric Evans[3] em seu livro Domain-Driven Design: Tackling Complexity in the Heart of Software (2003). A principal premissa do DDD é priorizar a modelagem do domínio do problema, ou seja, os conceitos e regras específicos do negócio, para criar soluções que reflitam com precisão as necessidades do sistema. O DDD visa alinhar o desenvolvimento de software às expectativas e requisitos dos especialistas no domínio (domain experts), garantindo que o código represente de forma fiel a lógica de negócios.</p>
 
 ## Referências Bibliográficas
 
@@ -81,6 +103,7 @@
 >
 > THE UNIFIED MODELING LANGUAGE. UML Package Diagrams Overview. Disponível em: https://www.uml-diagrams.org/package-diagrams-overview.html. Acesso em: 15 nov. 2024.
 >
+> LUCIDCHART. Diagrama de Pacotes UML. Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-pacotes-uml. Acesso em: 29 nov. 2024.
 
 ## Histórico de Versão
 
