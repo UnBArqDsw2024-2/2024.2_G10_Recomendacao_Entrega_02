@@ -51,13 +51,12 @@ O Diagrama de Registro e Autenticação apresentado na Figura 2 ilustra o fluxo 
 </div>
 
 ### Diagrama de Cadastro de Restaurante 
-_Breve explicação... Olhar cenário 7: Cadastrar restaurante_ 
-_Luana_
+O Diagrama de Cadastro de Restaurante apresentado na Figura X descreve o fluxo de atividades relacionadas ao processo de registro de novos restaurantes no sistema. Ele destaca as ações realizadas pelo usuário, como preenchimento de informações, e as validações feitas pelo sistema para garantir a integridade dos dados
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 3:</b> Diagrama de atividade de Cadastro de Restaurante</p></font>
 
-<img src="xxx" class="xxxElement" width="80%">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/main/docs/imagens/DiagramaAtividadeCadastrarRestaurante.jpeg?raw=true" alt="Diagrama de Cadastro de Restaurante" width="80%">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>, 2024</p></font>
 </div>
@@ -105,3 +104,4 @@ Com os diagramas de atividades apresentados foi possível modelar o comportament
 | `1.2`  |21/11/2024| Diagrama de Registro e Autenticação |  [Lucas Victor](https://github.com/Lucas13032003)| [Zenilda Vieira](https://github.com/zenildavieira)  |
 | `1.3`  |24/11/2024| Revisão, complementação da metodologia e inclusão dos diagramas<br>de Avaliação e Comentário e de Visualização de Avaliação | [Zenilda Vieira](https://github.com/zenildavieira)|  [Cecília Quaresma](https://github.com/cqcoding) |
 | `1.4`  |28/11/2024| Revisão dos dados e correção de imagens     | [Mateus Fidelis](https://github.com/MatsFidelis) | [Maria Alice](https://github.com/Maliz30) |
+| `1.5`  |28/11/2024|  Diagrama de Cadastrar Restaurante  | [Luana Medeiros](https://github.com/LuaMedeiros) | [Lucas Victor](https://github.com/Lucas13032003) |
