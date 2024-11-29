@@ -3,8 +3,8 @@
 ## Introdução
 
 <p style="text-align: justify; text-indent: 2em;">O Diagrama de Pacotes é uma ferramenta essencial da UML (Unified Modeling Language), amplamente utilizado para representar a organização modular e as dependências em sistemas complexos. Esse diagrama permite agrupar elementos do sistema, como classes, interfaces ou outros pacotes, em compartimentos lógicos chamados pacotes (packages). Dessa forma, oferece uma visão de alto nível que facilita a organização, manutenção e escalabilidade de software, ao mesmo tempo em que reduz a complexidade inerente ao desenvolvimento de sistemas modernos.</p> 
-<p style="text-align: justify; text-indent: 2em;">Segundo Booch, Rumbaugh e Jacobson (2006), o uso de pacotes na modelagem permite estruturar o sistema em partes menores, promovendo o princípio da separação de responsabilidades. Essa prática ajuda a reduzir a interdependência entre os componentes, além de oferecer uma visão clara das interações entre eles. De forma complementar, Fowler (2003) destaca que padrões de design como o <b>Repository</b> e o <b>Service</b> podem ser integrados à modelagem de pacotes para suportar arquiteturas orientadas a domínio (Domain-Driven Design - DDD<sup><a href="#conceito1">1</a></sup>), otimizando a separação entre a lógica de negócios e a persistência de dados.</p> 
-<p style="text-align: justify; text-indent: 2em;">Neste trabalho, o diagrama de pacotes foi elaborado para representar a arquitetura do sistema <b>ChefIndica</b>b>, estruturando os principais componentes de backend e frontend. A escolha pelo Service Repository Pattern na organização do projeto permitiu um design modular e escalável, alinhado às boas práticas recomendadas na literatura. Esse padrão oferece uma abordagem robusta para o encapsulamento da lógica de negócios e a abstração do acesso aos dados, reforçando a separação de responsabilidades e promovendo a reutilização de código.</p>
+<p style="text-align: justify; text-indent: 2em;">Segundo Booch, Rumbaugh e Jacobson (2006)[1], o uso de pacotes na modelagem permite estruturar o sistema em partes menores, promovendo o princípio da separação de responsabilidades. Essa prática ajuda a reduzir a interdependência entre os componentes, além de oferecer uma visão clara das interações entre eles. De forma complementar, Fowler (2003)[2] destaca que padrões de design como o <b>Repository</b> e o <b>Service</b> podem ser integrados à modelagem de pacotes para suportar arquiteturas orientadas a domínio (Domain-Driven Design - DDD<sup>1</sup>), otimizando a separação entre a lógica de negócios e a persistência de dados.</p> 
+<p style="text-align: justify; text-indent: 2em;">Neste trabalho, o diagrama de pacotes foi elaborado para representar a arquitetura do sistema <b>ChefIndica</b>, estruturando os principais componentes de backend e frontend. A escolha pelo Service Repository Pattern na organização do projeto permitiu um design modular e escalável, alinhado às boas práticas recomendadas na literatura. Esse padrão oferece uma abordagem robusta para o encapsulamento da lógica de negócios e a abstração do acesso aos dados, reforçando a separação de responsabilidades e promovendo a reutilização de código.</p>
 
 ## Metodologia
 
@@ -12,7 +12,7 @@
 
 <p style="text-align: justify; text-indent: 2em;"> O Service Repository Pattern é amplamente utilizado no desenvolvimento orientado por domínio (Domain-Driven Design - DDD) para organizar e modularizar o acesso e a lógica de negócios de sistemas complexos. O padrão de repositório (Repository) abstrai o acesso aos dados, atuando como uma coleção em memória que encapsula a lógica de persistência. Ele permite que operações como adicionar, remover e consultar objetos sejam realizadas sem expor detalhes da camada de mapeamento de dados. Já o padrão de serviço (Service) encapsula regras de negócios que não se encaixam diretamente em um objeto de domínio, operando como objetos sem estado que facilitam a execução de lógica específica. </p>
 
-<p style="text-align: justify; text-indent: 2em;"> Esses dois padrões, quando usados em conjunto, promovem a separação de responsabilidades, reduzem duplicações no código e organizam de forma mais clara os diferentes aspectos de um sistema. Martin Fowler, em Patterns of Enterprise Application Architecture [1], destaca a importância do padrão de repositório para mediar entre o domínio e a camada de mapeamento de dados, provendo uma interface consistente para acessar objetos de domínio.</p>
+<p style="text-align: justify; text-indent: 2em;"> Esses dois padrões, quando usados em conjunto, promovem a separação de responsabilidades, reduzem duplicações no código e organizam de forma mais clara os diferentes aspectos de um sistema. Martin Fowler, em Patterns of Enterprise Application Architecture [2], destaca a importância do padrão de repositório para mediar entre o domínio e a camada de mapeamento de dados, provendo uma interface consistente para acessar objetos de domínio.</p>
 
 ### Frontend
 
@@ -64,16 +64,16 @@
 
 #### Conceitos
 
-- <p id="conceito1" style="text-align: justify; text-indent: 2em;"><b>Domain-Driven Design (DDD)</b> é uma abordagem de design de software proposta por Eric Evans em seu livro *Domain-Driven Design: Tackling Complexity in the Heart of Software* (2003). A principal premissa do DDD é priorizar a modelagem do domínio do problema, ou seja, os conceitos e regras específicos do negócio, para criar soluções que reflitam com precisão as necessidades do sistema. O DDD visa alinhar o desenvolvimento de software às expectativas e requisitos dos especialistas no domínio (domain experts), garantindo que o código represente de forma fiel a lógica de negócios.</p>
+<p id="conceito1" style="text-align: justify;"><sup>1</sup>: <b>Domain-Driven Design (DDD)</b> é uma abordagem de design de software proposta por Eric Evans[3] em seu livro *Domain-Driven Design: Tackling Complexity in the Heart of Software* (2003). A principal premissa do DDD é priorizar a modelagem do domínio do problema, ou seja, os conceitos e regras específicos do negócio, para criar soluções que reflitam com precisão as necessidades do sistema. O DDD visa alinhar o desenvolvimento de software às expectativas e requisitos dos especialistas no domínio (domain experts), garantindo que o código represente de forma fiel a lógica de negócios.</p>
 
 ## Referências Bibliográficas
 
 >
-> [1] FOWLER, Martin. Patterns of Enterprise Application Architecture. Boston: Addison-Wesley, 2003. Disponível em: https://martinfowler.com/eaaCatalog/repository.html. Acesso em: 15 nov. 2024.
+> [1] BOOCH, Grady; RUMBAUGH, James; JACOBSON, Ivar. UML Guia do Usuário. 2ª ed. Rio de Janeiro: Elsevier, 2006.
 >
-> BOOCH, Grady; RUMBAUGH, James; JACOBSON, Ivar. UML Guia do Usuário. 2ª ed. Rio de Janeiro: Elsevier, 2006.
+> [2] FOWLER, Martin. Patterns of Enterprise Application Architecture. Boston: Addison-Wesley, 2003. Disponível em: https://martinfowler.com/eaaCatalog/repository.html. Acesso em: 15 nov. 2024.
 >
-> EVANS, Eric. Domain-Driven Design: Tackling Complexity in the Heart of Software. Boston: Addison-Wesley, 2003.
+> [3] EVANS, Eric. Domain-Driven Design: Tackling Complexity in the Heart of Software. Boston: Addison-Wesley, 2003.
 
 ## Bibliografia
 >
