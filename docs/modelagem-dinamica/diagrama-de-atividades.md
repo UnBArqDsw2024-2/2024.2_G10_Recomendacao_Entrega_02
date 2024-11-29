@@ -59,7 +59,7 @@ _Luana_
 
 <img src="xxx" class="xxxElement" width="80%">
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a> e <a href="https://github.com/lucas13032003">Lucas Victor</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a>, 2024</p></font>
 </div>
 
 ### Diagrama de Avaliação e Comentários 
