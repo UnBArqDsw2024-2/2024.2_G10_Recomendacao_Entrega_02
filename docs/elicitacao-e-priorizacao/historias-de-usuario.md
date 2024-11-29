@@ -2,7 +2,8 @@
 
 ## Introdução 
 
-<p style="text-align: justify; text-indent: 2em;"> As histórias de usuário são uma forma de documentar requisitos de software de maneira concisa e acessível, representando as necessidades do usuário de forma clara e orientada por objetivos. Em vez de descrever funcionalidades tecnicamente, elas são narrativas curtas que enfatizam <b>quem</b> usará a funcionalidade, <b>o que</b> precisa ser feito e <b>por que</b> isso é importante. </p>
+<p style="text-align: justify; text-indent: 2em;"> As histórias de usuário são uma forma de documentar requisitos de software de maneira concisa e acessível, representando as necessidades do usuário de forma clara e orientada por objetivos. Em vez de descrever funcionalidades tecnicamente, elas são narrativas curtas que enfatizam <b>quem</b> usará a funcionalidade, <b>o que</b> precisa ser feito e <b>por que</b> isso é importante. Essa abordagem foi popularizada por Cohn (2004) em seu livro User Stories Applied: For Agile Software Development[1], onde ele defende a simplicidade e o foco na colaboração entre equipes de desenvolvimento e os usuários finais. </p> 
+<p style="text-align: justify; text-indent: 2em;"> Essa abordagem permite capturar as intenções e expectativas dos usuários finais, facilitando a comunicação entre desenvolvedores, analistas e partes interessadas. Beck et al. (2001)[2] também enfatizam o papel da comunicação entre as partes, propondo o uso de histórias de usuário como uma das práticas centrais no desenvolvimento ágil no livro Manifesto Ágil, um dos marcos do movimento ágil. </p>
 
 <p style="text-align: justify; text-indent: 2em;"> Essa abordagem permite capturar as intenções e expectativas dos usuários finais, facilitando a comunicação entre desenvolvedores, analistas e partes interessadas. Uma história de usuário bem definida segue o formato: </p>  
 
@@ -10,8 +11,7 @@
     <p><strong>Como</strong> <code>tipo de usuário</code> <strong>eu quero</strong> <code>ação ou funcionalidade</code><strong>para</strong> <code>objetivo ou valor esperado.</code></p>
 </div>
 
-<p style="text-align: justify; text-indent: 2em;"> Além disso, cada história de usuário é complementada por critérios de aceitação, que descrevem as condições mínimas para que a funcionalidade seja considerada pronta. Esses critérios servem como uma referência para validação e ajudam a evitar ambiguidades durante o desenvolvimento. </p>
-
+<p style="text-align: justify; text-indent: 2em;"> Além disso, cada história de usuário é complementada por critérios de aceitação, que descrevem as condições mínimas para que a funcionalidade seja considerada pronta. Esses critérios servem como uma referência para validação e ajudam a evitar ambiguidades durante o desenvolvimento. Adzic (2011), em seu livro Specification by Example[3], explora como exemplos e critérios de aceitação ajudam a garantir que as histórias de usuário atendam às expectativas do cliente e do usuário final. </p>
 
 ## Tipos de usuário
 
@@ -97,9 +97,17 @@
    </font>
 </div>
 
-## Bibliografia
 
 ## Referências Bibliográficas
+
+> [1] COHN, M. User Stories Applied: For Agile Software Development. Boston: Addison-Wesley, 2004.
+>
+> [2] BECK, K. et al. Manifesto for Agile Software Development. 2001. Disponível em: https://agilemanifesto.org
+>
+> [3] ADZIC, G. Specification by Example: How Successful Teams Deliver the Right Software. New York: Manning, 2011.
+
+
+## Bibliografia
 
 > **PRESSMAN, Roger S**. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: McGraw-Hill, 2016.
 >
@@ -114,4 +122,5 @@
 | `1.0`  |19/11/2024| Adicionando introdução e metodologia das US | [Júlia Yoshida](https://github.com/juliaryoshida) |[Maria Alice](https://github.com/Maliz30)|
 | `1.1`  |27/11/2024| Adicionando histórias de usuário | [Júlia Yoshida](https://github.com/juliaryoshida) |[Guilherme Brito](https://github.com/GuilhermeB12)|
 | `1.2`  |27/11/2024| Adicionando tipos de usuário | [Júlia Yoshida](https://github.com/juliaryoshida) |[Caio Mesquita](https://github.com/Caiomesvie)|
-| `1.3`  |28/11/2024| Adicionando histórias de usuário | [Maria Alice](https://github.com/Maliz30) | [Júlia Yoshida](https://github.com/juliaryoshida) |
+| `1.3`  |28/11/2024| Adicionando histórias de usuário | [Maria Alice](https://github.com/Maliz30) | [Júlia Yoshida](https://github.com/juliaryoshida)|
+| `1.4`  |29/11/2024| Adicionando referências bibliográficas e melhorando introdução | [Júlia Yoshida](https://github.com/juliaryoshida) |[Maria Alice](https://github.com/Maliz30)|
