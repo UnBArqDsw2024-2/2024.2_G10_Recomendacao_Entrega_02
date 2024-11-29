@@ -2,10 +2,11 @@
 
 ## Introdução
 
-Os diagramas de transição de estados, também chamados de diagramas de máquinas de estados UML, são ferramentas fundamentais para modelar sistemas dinâmicos e comportamentais. Eles mostram os possíveis estados de um objeto ou sistema ao longo do tempo e as transições que ocorrem entre esses estados. São amplamente utilizados na engenharia de software e em áreas que necessitam visualizar fluxos de trabalho empresariais.
+Os diagramas de transição de estados, também chamados de diagramas de máquinas de estados UML, são ferramentas fundamentais para modelar sistemas dinâmicos e comportamentais e, segundo Viviane Torres [1], o diagrama mais antigo da UML. Eles mostram os possíveis estados de um objeto ou sistema ao longo do tempo e as transições que ocorrem entre esses estados. São amplamente utilizados na engenharia de software e em áreas que necessitam visualizar fluxos de trabalho empresariais.
+
+Os estados representam momentos no ciclo de vida de um objeto e determinam que ações podem ser feitas sobre ele. Por exemplo, um ventilador simples pode ter os estados desligado e ligado (Murta, Leonardo Gresta Paulino) [2].
 
 Esses diagramas incluem elementos principais como estados, representados por retângulos com cantos arredondados, e transições, indicadas por setas. Eles destacam as relações dinâmicas e as mudanças de status em um sistema. Um diagrama típico começa com um círculo preenchido, que representa o estado inicial, e termina com um círculo duplo, indicando o estado final. Embora não sejam ideais para registrar sequências cronológicas de eventos, esses diagramas são altamente eficazes para ilustrar comportamentos específicos e as condições que provocam as transições entre estados.
-
 
 ## Metodologia
 
@@ -26,11 +27,21 @@ Na **figura 1**, é possível ver o **Diagrama de Estados** criado pela equipe.
 
 ## Referências Bibliográficas
 
+> [1] SILVA, Viviane Torres da. Diagrama de Transição de Estados. Disponível em: http://www2.ic.uff.br/~viviane.silva/es1/util/aula10.pdf. Acesso em: [15/11/2024].
+>
+> MURTA, Leonardo Gresta Paulino. Diagrama de Transição de Estados. Disponível em: https://leomurta.github.io/courses/es1/aula8.pdf. Acesso em: [15/11/2024].
+>
+
+## Bibliografia
+
 > LUCIDCHART. O que é um diagrama de máquina de estados?. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-maquina-de-estados-uml. Acesso em: 15 de nov. 2024.
 >
 > Máquina de Estados. Disponível em: http://msoo.pbworks.com/f/Diagrama+de+Estados.pdf. Acesso em: 15 de nov. 2024.
 >
 > Modelo de Diagrama Transição de Estados UML online. Disponível em: https://miro.com/pt/modelos/diagrama-transicao-estados-uml. Acesso em: 15 de nov. 2024.
+>
+> THE UNIFIED MODELING LANGUAGE. UML Package Diagrams Overview. Disponível em: https://www.uml-diagrams.org/package-diagrams-overview.html. Acesso em: 15 nov. 2024.
+>
 
 
 ## Histórico de Versão

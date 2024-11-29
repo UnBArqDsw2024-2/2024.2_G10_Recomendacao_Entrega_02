@@ -6,7 +6,11 @@ O Diagrama de Pacotes é um dos diagramas estruturais da UML (Unified Modeling L
 
 ## Metodologia
 
-Para a criação do nosso diagrama de pacotes, iniciamos com um package principal representando a aplicação ChefIndica, que contém os subpackages de backend e frontend. Esses dois pacotes interagem diretamente com o package de Testes, responsável por centralizar as validações do sistema. Cada pacote foi organizado com divisões específicas, de acordo com sua funcionalidade dentro da arquitetura do projeto, conforme descrito abaixo:
+Para a criação do nosso diagrama de pacotes, iniciamos com um package principal representando a aplicação ChefIndica, que contém os subpackages de backend e frontend. Esses dois pacotes interagem diretamente com o package de Testes, responsável por centralizar as validações do sistema. Cada pacote foi organizado com divisões específicas, de acordo com sua funcionalidade dentro da arquitetura do projeto e a equipe escolheu utilizar o Service Repository Pattern como uma das principais formas de organização do projeto.
+
+O Service Repository Pattern é amplamente utilizado no desenvolvimento orientado por domínio (Domain-Driven Design - DDD) para organizar e modularizar o acesso e a lógica de negócios de sistemas complexos. O padrão de repositório (Repository) abstrai o acesso aos dados, atuando como uma coleção em memória que encapsula a lógica de persistência. Ele permite que operações como adicionar, remover e consultar objetos sejam realizadas sem expor detalhes da camada de mapeamento de dados. Já o padrão de serviço (Service) encapsula regras de negócios que não se encaixam diretamente em um objeto de domínio, operando como objetos sem estado que facilitam a execução de lógica específica.
+
+Esses dois padrões, quando usados em conjunto, promovem a separação de responsabilidades, reduzem duplicações no código e organizam de forma mais clara os diferentes aspectos de um sistema. Martin Fowler, em Patterns of Enterprise Application Architecture [1], destaca a importância do padrão de repositório para mediar entre o domínio e a camada de mapeamento de dados, provendo uma interface consistente para acessar objetos de domínio.
 
 ### Frontend
 
@@ -56,10 +60,17 @@ Na Figura 1, é apresentado o diagrama de pacotes em alto nível elaborado pela 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, <a href="https://github.com/PedroSampaioDias">Pedro Sampaio</a>, <a href="https://github.com/lucasqueiroz23">Lucas Queiroz</a> e <a href="https://github.com/GuilhermeB12">Guilherme Brito</a>, 2024.</p></font>
 </center>
 
+## Referências Bibliográficas
+
+>
+> [1] FOWLER, Martin. Patterns of Enterprise Application Architecture. Boston: Addison-Wesley, 2003. Disponível em: https://martinfowler.com/eaaCatalog/repository.html. Acesso em: 15 nov. 2024.
+>
 
 ## Bibliografia
 >
 > BOOCH, Grady; RUMBAUGH, James; JACOBSON, Ivar. UML Guia do Usuário. 2. ed. Rio de Janeiro: Elsevier, 2006.
+>
+> THE UNIFIED MODELING LANGUAGE. UML Package Diagrams Overview. Disponível em: https://www.uml-diagrams.org/package-diagrams-overview.html. Acesso em: 15 nov. 2024.
 >
 
 ## Histórico de Versão
