@@ -57,7 +57,7 @@ _Luana_
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 3:</b> Diagrama de atividade de Cadastro de Restaurante</p></font>
 
-<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/diagrama-de-atividades/docs/imagens/Diagrama%20de%20atividade%20-%20Metodologia.png?raw=true" class="xxxElement" width="80%">
+<img src="xxx" class="xxxElement" width="80%">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a> e <a href="https://github.com/lucas13032003">Lucas Victor</a>, 2024</p></font>
 </div>
