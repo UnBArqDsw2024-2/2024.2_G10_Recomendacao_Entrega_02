@@ -30,20 +30,18 @@ A Tabela 1 apresenta a legenda utilizada nos Diagramas de Atividades, descrevend
 
 ### Diagrama de metodologia de gestão do grupo
 
-_Breve explicação... Olhar diagramas BPMN..._
-_Luana e LV_
+O Diagrama de Atividades apresentado na Figura 1 ilustra o fluxo de trabalho de um grupo durante reuniões semanais, com foco na organização, execução e revisão de tarefas. O processo inclui a verificação de tarefas pendentes, levantamento e priorização de atividades, divisão entre os membros e execução utilizando a metodologia Kanban. Além disso, contempla a revisão das tarefas concluídas, garantindo ajustes e aprovação para uma gestão eficiente do trabalho em equipe.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Diagrama de atividade de metodologia</p></font>
 
-<img src="../../docs/imagens/xxx.png" class="xxxElement" width="80%">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/diagrama-de-atividades/docs/imagens/Diagrama%20de%20atividade%20-%20Metodologia.png?raw=true" class="xxxElement" width="80%">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a> e <a href="https://github.com/lucas13032003">Lucas Victor</a>, 2024</p></font>
 </div>
 
 ### Diagrama de Registro e Autenticação 
-*Breve explicação... Olhar Cenário 1: Fazer Login e Cenário 2: Fazer Cadastro* 
-
+O Diagrama de Registro e Autenticação apresentado na Figura 2 ilustra o fluxo de atividades relacionadas às interações de usuários no sistema, destacando as ações necessárias para realizar login ou cadastro. O diagrama divide as responsabilidades entre o Usuário e o Sistema, demonstrando a troca de informações e validações para garantir uma experiência segura e eficiente.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Diagrama de atividade de Registro e Autenticação</p></font>
 
@@ -59,7 +57,7 @@ _Luana_
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 3:</b> Diagrama de atividade de Cadastro de Restaurante</p></font>
 
-<img src="../../docs/imagens/xxx.png" class="xxxElement" width="80%">
+<img src="https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_02/blob/diagrama-de-atividades/docs/imagens/Diagrama%20de%20atividade%20-%20Metodologia.png?raw=true" class="xxxElement" width="80%">
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LuaMedeiros">Luana Medeiros</a> e <a href="https://github.com/lucas13032003">Lucas Victor</a>, 2024</p></font>
 </div>
